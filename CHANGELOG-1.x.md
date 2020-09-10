@@ -1,5 +1,13 @@
 # Changelog for version 1.x
 
+**Version 1.0.4**
+
+- Add 896 aircraft.
+- Add 33 aircraft pictures.
+- Add 6 aircraft type pictures.
+- Update 2 aircraft.
+- Update 19 aircraft types.
+
 **Version 1.0.3**
 
 - Add 9 aircraft pictures.
