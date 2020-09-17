@@ -10,7 +10,7 @@ This repository contains the database for [https://whatisflying.com](https://wha
 
 ## Statistics
 
-- 34,000+ aircraft.
+- 35,000+ aircraft.
 - 500+ aircraft types.
 - 1,900+ airlines.
 - 10,000+ airports.
