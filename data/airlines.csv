@@ -609,6 +609,7 @@
 "ENK",NULL,"Executive Airlink Inc","SUNBIRD","US","1","0","0","0","21.67","3","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ENL",NULL,"Servicios Optimos de Aeroenlace","OPTIMOS","MX","1","0","0","0","11.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ENR",NULL,"Scenic Air",NULL,"NA","1","0","0","0","12.60","5","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"ENT","E4","Enter Air","ENTERAIR","PL","1","0","0","1",NULL,"19","2",NULL,NULL,NULL,"74",NULL,NULL,NULL,NULL
 "ENW",NULL,"Airnor","AERONOR","ES","1","0","0","0","42.67","3","2","3",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ENY","MQ","Envoy Air","ENVOY","US","1","0","1","1","8.78","83","3","0","422","214","142","243669","12256","0","0"
 "ENZ",NULL,"Jota Aviation","ENZO","GB","1","0","0","0","30.67","3","2","2",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -792,6 +793,7 @@
 "GUN","GV*","Grant Aviation","HOOT","US","1","0","0","0","25.08","26","4","16","13","7","7","55903","0","0","0"
 "GUY",NULL,"Air Guyane Express","GREEN BIRD","GF","1","0","0","0","13.40","5","2","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "GWC",NULL,"Gulf Wings FZE","GULF WINGS","AE","1","0","0","0","14.20","5","4","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"GWI","4U","Germanwings","GERMANWINGS","DE","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "GWS",NULL,"General Airways","GENAIR","ZA","1","0","0","0","20.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "GZP","4G*","Gazpromavia","GAZPROM","RU","1","0","0","1","22.26","111","13","61","50","29","11","994","24","0","0"
 "HAC",NULL,"Heli Sky","HELI MOUNT","AE","1","0","0","0","31.00","3","1","3",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -1059,6 +1061,7 @@
 "KZH",NULL,"ZhezAir","ULUTAU","KZ","1","0","0","0","28.17","6","2","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "KZN",NULL,"Aviaservice","KAZANAIR","RU","1","0","0","0","10.46","13","8","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "KZR","KC","Air Astana","ASTANALINE","KZ","1","1","1","1","3.80","5","3","0","131","66","42","23627","18712","1","0"
+"KZU","GO","ULS Air Cargo","UNIVERSAL CARGO","TR","1","0","0","1",NULL,"3","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "LAA","LN","Libyan Airlines","LIBAIR","LY","1","0","0","1","17.67","3","3","1","57","29","16","1199","4630","0","0"
 "LAE","L7","LATAM Cargo Colombia",NULL,"CO","1","0","1","1","14.00","2","1","0","2","2","3","0","90","0","0"
 "LAF",NULL,"Latvian Air Force","LATVIAN AIRFORCE","LV","1","0","0","0","29.25","4","1","4",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -1145,6 +1148,7 @@
 "LZB","FB","Bulgaria Air","FLYING BULGARIA","BG","1","1","1","1","10.50","6","3","0","202","120","74","2244","11845","0","0"
 "LZF",NULL,"Lease Fly","SKYLEASE","PT","1","0","0","0","26.00","2","2","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "MAA","M7","Mas Air","MAS CARGA","MX","1","1","1","0","14.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"MAC","3O","Air Arabia Maroc","ARABIA MAROC","MA","1","0","0","1",NULL,"10","1",NULL,NULL,NULL,"34",NULL,NULL,NULL,NULL
 "MAE",NULL,"Mali Air Luftverkehr GmbH","MALI AIREXPRESS","AT","1","0","0","0","22.20","5","3","2",NULL,NULL,NULL,NULL,NULL,"0","0"
 "MAI","L6","Mauritania Airlines",NULL,"MR","1","1","1","1","4.00","1","1","0","24","12","10","1188","2726","0","0"
 "MAL",NULL,"Morningstar Air Express","MORNINGSTAR","CA","1","0","0","0","27.00","19","4","14",NULL,NULL,NULL,NULL,NULL,"0","0"

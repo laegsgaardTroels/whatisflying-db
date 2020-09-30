@@ -1,5 +1,13 @@
 # Changelog for version 1.x
 
+**Version 1.0.8**
+
+- Add 4 airlines.
+- Add 3 airline logos.
+- Add 4 airline picture.
+- Add 5 aircraft.
+- Add 4659 aircraft pictures.
+
 **Version 1.0.7**
 
 - Add 1 airline.
