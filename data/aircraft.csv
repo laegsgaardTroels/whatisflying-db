@@ -1,8 +1,37 @@
 "icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"33ff84","MM7149","AMX International","A-11B","AMX","IX061","L1J","AMX",NULL,NULL,NULL
+"33ff87","MM7126","AMX International","A-11B","AMX","IX038","L1J","AMX",NULL,NULL,NULL
+"33ff88","MM7114","AMX International","A-11B","AMX","IX026","L1J","AMX",NULL,NULL,NULL
+"33ff8b","MM7197","AMX International","A-11B","AMX","IX109","L1J","AMX",NULL,NULL,NULL
+"33ff8c","MM7196","AMX International","A-11B","AMX","IX108","L1J","AMX",NULL,NULL,NULL
+"33ff8e","MM7194","AMX International","A-11B","AMX","IX106","L1J","AMX",NULL,NULL,NULL
+"33ff8f","MM7193","AMX International","A-11B","AMX","IX105","L1J","AMX",NULL,NULL,NULL
+"33ff91","MM7191","AMX International","A-11B","AMX","IX103","L1J","AMX",NULL,NULL,NULL
+"33ff92","MM7190","AMX International","A-11B","AMX","IX102","L1J","AMX",NULL,NULL,NULL
+"33ff94","MM7186","AMX International","A-11B","AMX","IX098","L1J","AMX",NULL,NULL,NULL
+"33ff95","MM7185","AMX International","A-11B","AMX","IX097","L1J","AMX",NULL,NULL,NULL
+"33ff96","MM7184","AMX International","A-11B","AMX","IX096","L1J","AMX",NULL,NULL,NULL
+"33ff97","MM7183","AMX International","A-11B","AMX","IX095","L1J","AMX",NULL,NULL,NULL
+"33ff98","MM7182","AMX International","A-11B","AMX","IX094","L1J","AMX",NULL,NULL,NULL
+"33ff99","MM7180","AMX International","A-11B","AMX","IX092","L1J","AMX",NULL,NULL,NULL
+"33ff9a","MM7179","AMX International","A-11B","AMX","IX091","L1J","AMX",NULL,NULL,NULL
+"33ff9b","MM7178","AMX International","A-11B","AMX","IX090","L1J","AMX",NULL,NULL,NULL
+"33ff9c","MM7177","AMX International","A-11B","AMX","IX089","L1J","AMX",NULL,NULL,NULL
+"33ff9d","MM7176","AMX International","A-11B","AMX","IX088","L1J","AMX",NULL,NULL,NULL
+"33ff9f","MM7174","AMX International","A-11B","AMX","IX086","L1J","AMX",NULL,NULL,NULL
+"33ffa0","MM7173","AMX International","A-11B","AMX","IX085","L1J","AMX",NULL,NULL,NULL
+"33ffa1","MM7172","AMX International","A-11B","AMX","IX084","L1J","AMX",NULL,NULL,NULL
+"33ffa2","MM7171","AMX International","A-11B","AMX","IX083","L1J","AMX",NULL,NULL,NULL
+"33ffa3","MM7170","AMX International","A-11B","AMX","IX082","L1J","AMX",NULL,NULL,NULL
+"33ffa4","MM7169","AMX International","A-11B","AMX","IX081","L1J","AMX",NULL,NULL,NULL
+"33ffa5","MM7168","AMX International","A-11B","AMX","IX080","L1J","AMX",NULL,NULL,NULL
+"33ffa6","MM7167","AMX International","A-11B","AMX","IX079","L1J","AMX",NULL,NULL,NULL
+"33ffa9","MM7164","AMX International","A-11B","AMX","IX076","L1J","AMX",NULL,NULL,NULL
 "3d0530","D-EAFG","Aermacchi","AL-60B-2 Santa Maria","LA60","6255","L1P",NULL,NULL,NULL,NULL
 "3d28bd","D-ENRH","Aermacchi","AL-60B-2 Santa Maria","LA60","6243","L1P",NULL,NULL,NULL,NULL
 "a2c2e0","N2770L","Aces High","Cuby II","CUB2","1364","L1P",NULL,NULL,"2021-04-30","1982-01-01"
 "a64161","N502AC","Aces High","Cuby II","CUB2","502","L1P",NULL,NULL,"2021-08-31",NULL
+"ad120c","N941NA","Aero Spacelines","B-377-SGT","SGUP","004","L4T",NULL,NULL,"2021-07-31",NULL
 "ad5f08","N96038","Aermacchi","AL-60F-5 Trojan",NULL,"53-6233","L1P",NULL,NULL,"2022-09-30","1963-01-01"
 "c08a0e","C-IAHH","Aces High","Cuby II","CUB2","03087","L1P",NULL,"2005-01-05",NULL,NULL
 "c08cf3","C-IBJU","Aces High","Cuby II","CUB2","LC2088001","L1P",NULL,"2001-01-03","2003-08-29",NULL

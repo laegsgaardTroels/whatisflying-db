@@ -1,5 +1,13 @@
 # Changelog for version 1.x
 
+**Version 1.0.10**
+
+- Add 2509 aircraft.
+- Add 69 aircraft models.
+- Update 1 aircraft type.
+- Remove incomplete Shoreham DME-ILS (#48).
+- Fix and move aircraft N941NA to `aircraft.csv` file (#58).
+
 **Version 1.0.9**
 
 - Add 1129 aircraft pictures.
