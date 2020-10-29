@@ -1,5 +1,9 @@
 # Changelog for version 1.x
 
+**Version 1.0.12**
+
+- Add 1084 aircraft.
+
 **Version 1.0.11**
 
 - Add 305 aircraft.
