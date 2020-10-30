@@ -5,7 +5,7 @@
 - Add 1321 aircraft.
 - Add 1 airline.
 - Add 1 airline picture.
-- Update 561 aircraft.
+- Update 560 aircraft.
 - Update 16 aircraft types.
 
 **Version 1.0.12**
