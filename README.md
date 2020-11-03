@@ -17,6 +17,7 @@ This repository contains the database for [https://whatisflying.com](https://wha
 - 8,600+ airport runways.
 - 18,700+ airport radio frequencies.
 - 50,000+ airport statistic datasets.
+- 360,000+ flights.
 - 20,000+ navaids.
 
 ## Database structure
@@ -263,6 +264,24 @@ This file contains the list of photographs of airports as well as information on
 | author_name    | string | The name of the picture author.                              |                     John Doe                      |
 | author_profile | string | The URL of the picture author's profile.                     |      https://www.flickr.com/photos/johndoe/       |
 | license        | string | The license of the picture, as an SPDX license identifier. See [https://spdx.org/licenses/](https://spdx.org/licenses/) for a list of valid identifiers. |                   CC-BY-SA-2.0                    |
+
+------
+
+### Flights
+
+This dataset include the following files:
+
+#### flights.csv
+
+This file contains informations of flights. The structure of this file is as follows:
+
+| Column            | Type         | Description                                                  | Example   |
+| ----------------- | ------------ | ------------------------------------------------------------ | --------- |
+| airline           | string       | The ICAO code of the airline for which the flight is operated. | AFR       |
+| flight_number     | string       | The flight number                                            | AFR578    |
+| departure_airport | string       | The ICAO code of the departure airport.                      | LFBO      |
+| arrival_airport   | string       | The ICAO code of the arrival airport.                        | LFPG      |
+| layover_airports  | string\|null | The ICAO codes of layover airports, separated by commas, or null if undefined. | LFBR,LFBD |
 
 ------
 

@@ -7,17 +7,21 @@
 "AAJ",NULL,"Alfa Airlines","ALFA SUDAN","SD","1","0","0","0","47.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AAL","AA","American Airlines","AMERICAN","US","1","1","1","1","10.88","524","7","0","1601","849","295","921489","213447","24","0"
 "AAP",NULL,"Arabasco","ARABASCO","SA","1","0","0","0","27.50","2","2","1",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AAQ",NULL,"Copterline","COPTERLINE","FI","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AAR","OZ","Asiana Airlines","ASIANA","KR","1","1","1","1","12.49","55","7","6","311","171","116","36934","81912","2","0"
 "AAS",NULL,"Askari Aviation","AL-AAS","PK","1","0","0","0","44.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AAV",NULL,"Astro Air International","ASTRO-PHIL","US","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AAW","8U","Afriqiyah Airways","AFRIQIYAH","LY","1","0","0","1","14.00","2","2","0","70","35","16","596","4367","0","0"
 "AAX",NULL,"Advance Aviation Company Ltd","ADVANCE AVIATION","TH","1","0","0","0","9.71","7","4","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AAY","G4","Allegiant Air","ALLEGIANT","US","1","0","0","1","8.33","18","2","0","667","334","106","75335","34","0","0"
 "ABB","KF","Air Belgium","AIR BELGIUM","BE","1","0","0","0","13.00","2","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"ABC",NULL,"AirBridgeCargo","AIRBRIDGE CARGO","RU","0","1","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ABD","CC","Air Atlanta Icelandic","ATLANTA","IS","1","0","1","0","26.00","5","1","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ABF",NULL,"ScanWings Oy","SKYWINGS","FI","1","0","0","0","28.60","5","2","3",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ABG","RL","Royal Flight","ROYAL FLIGHT","RU","1","0","0","0","18.29","7","4","2",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ABJ",NULL,"Abaete Linhas Aereas","ABAETE","BR","1","0","0","0","37.67","18","6","18",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ABL",NULL,"Air Busan","AIR BUSAN","KR","1","0","0","1","12.47","19","2","0","74","37","29","23435","14169","0","0"
+"ABN",NULL,"Air Fret Senegal","AIR FRET SENEGAL","SN","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ABO",NULL,"Aeroexpreso Bogota","AEROEXPRESO","CO","0","0","0","0","23.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ABP",NULL,"ABS Jets","BAIR","CZ","1","0","0","0","8.30","10","4","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ABQ","PA","Airblue","AIRBLUE","PK","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
@@ -28,38 +32,52 @@
 "ABX","GB","ABX Air","ABEX","US","1","0","1","1","32.25","16","1","16","48","30","24","8617","4809","0","0"
 "ABY","G9","Air Arabia","ARABIA","AE","1","1","1","1","5.50","4","2","0","160","80","72","0","61126","0","0"
 "ACA","AC","Air Canada","AIR CANADA","CA","1","1","1","1","11.84","61","9","4","432","224","123","107722","86913","0","0"
+"ACG",NULL,"Air Partner","AIR PARTNER","GB","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ACH",NULL,"Africas Connection",NULL,"ST","1","0","0","0","34.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ACI","SB","Air Calin","AIRCALIN","NC","1","1","1","1","23.50","2","2","1","24","12","12","0","4376","0","0"
 "ACJ",NULL,"AC Aviation Company","SINOJET","TH","1","0","0","0","18.33","3","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ACL",NULL,"Aer Caribe","ADMIRE","CO","1","0","0","0","30.80","5","3","5",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ACP",NULL,"Astral Aviation","ASTRAL CARGO","KE","1","0","0","1","35.00","6","5","5","18","12","11","0","902","0","0"
 "ACS",NULL,"ASSL Air","AIRCRAFT SALES","PK","1","0","0","0","27.00","2","2","2",NULL,NULL,NULL,NULL,NULL,"0","0"
+"ACX",NULL,"Air Charters","PARAIR","CA","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ADB",NULL,"Antonov Airlines","ANTONOV BUREAU","UA","1","0","0","0","33.45","11","5","11",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ADC",NULL,"Ad Astra Executive Charter","AD ASTRA","PL","1","0","0","0","11.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ADD",NULL,"Advanced Air",NULL,"JP","1","0","0","0","25.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
+"ADH","AP","Air One","HERON","IT","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ADN",NULL,"Aero Dienst","AERODIENST","DE","1","0","0","0","13.44","9","7","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ADO","HD","Air Do","AIR DO","JP","1","0","0","0","16.07","15","2","0","24","12","12","27295","0","0","0"
 "ADP",NULL,"Aerodiplomatic SA de CV","AERODIPLOMATIC","MX","1","0","0","0","45.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
+"ADR","JP","Adria Airways","ADRIA","SI","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"ADY",NULL,"Aerodyne","AERODYNE","US","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ADZ",NULL,"Avio Delta","MIGRATOR","BG","1","0","0","0","12.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AEA","UX","Air Europa","EUROPA","ES","1","1","1","1","4.00","4","1","0","340","174","70","35865","29396","1","0"
 "AEE","A3","Aegean Airlines","AEGEAN","GR","1","1","1","1","7.82","11","2","0","330","165","95","29638","45983","0","0"
+"AEF",NULL,"Aerea",NULL,"ES","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AEG",NULL,"AirEst","AIREST CARGO","EE","1","0","0","0","32.22","9","2","8",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AEH","NL","Amelia International","VEGA","SI","1","0","1","0","13.50","2","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AEL","PE","Air Europe","AIR EUROPE","IT","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AER","KO*","ACE Air Cargo","ACE AIR","US","1","0","0","0","30.92","12","1","12","26","21","14","3883","0","0","0"
 "AEU",NULL,"Atlantis Armenian Airlines","ATLANTIS","AM","1","0","0","0","38.00","2","2","1",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AEW","VV","Aerosvit Airlines","AEROSVIT","UA","0","1","1","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"AEY","I9","Air Italy","AIR ITALY","IT","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AFA",NULL,"Alfa Air","BLUE ALFA","CZ","1","0","0","0","4.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AFD",NULL,"Unity Air",NULL,"GH","1","0","0","0","22.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AFE",NULL,"AIRFAST Indonesia","AIRFAST","ID","1","0","0","0","22.06","18","6","10",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AFG","FG","Ariana Afghan Airlines","ARIANA","AF","1","0","0","1","29.00","2","2","2","28","14","11","1148","1304","0","0"
+"AFI",NULL,"Africaone","AFRICAWORLD","UG","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AFL","SU","Aeroflot Russian Airlines","AEROFLOT","RU","1","1","1","1","4.73","79","7","0","267","135","136","105276","116583","6","1"
 "AFP",NULL,"Portuguese Air Force","PORTUGUESE AIR FORCE","PT","1","0","0","0","26.52","91","9","63",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AFQ",NULL,"ALBA Servici Aerotrasporti SpA","ALBA","IT","1","0","0","0","9.50","4","3","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AFR","AF","Air France","AIRFRANS","FR","1","1","1","1","10.84","37","5","0","492","277","178","96789","171510","7","0"
 "AFW","AW","Africa World Airlines","BLACKSTAR","GH","1","1","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"AGB","X7","Air Service Gabon",NULL,"GA","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"AGC","VC","Air Australia","STRATEGIC","AU","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AGH",NULL,"Altagna","ALTAGNA","FR","1","0","0","0","8.00","2","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AGM",NULL,"Aviation West Charters","ANGEL MED","US","1","0","0","0","44.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AGU",NULL,"Angara Airlines","SARMA","RU","1","0","0","1","34.61","28","4","23","52","26","20","3018","96","1","1"
 "AGV",NULL,"Air Glaciers SA","AIR GLACIERS","CH","1","0","0","0","25.95","20","5","9",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AGX","JJ","Aviogenex","GENEX","RS","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"AHA","GD","Air Alpha Greenland","AIR ALPHA","GL","0","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AHC",NULL,"Azal Avia Cargo",NULL,"AZ","1","0","0","0","32.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AHE",NULL,"Airport Helicopter AHB AG","AIRPORT HELICOPTER","CH","1","0","0","0","24.78","9","5","6",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AHF",NULL,"Aspen Helicopters","ASPEN","US","1","0","0","0","31.67","15","5","11",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -71,6 +89,7 @@
 "AHW",NULL,"Sky Capital Airlines","SKY CAPITAL","BD","1","0","0","0","28.67","3","2","2",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AHX","MZ","Amakusa Airlines","AMAKUSA AIR","JP","1","0","0","0","5.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AHY","J2","Azerbaijan Airlines","AZAL","AZ","1","1","1","1","10.00","2","2","0","137","76","69","698","13147","0","0"
+"AIA","U3","Avies","AVIES","EE","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AIB",NULL,"Airbus","AIRBUS INDUSTRIE","FR","1","0","0","0","6.69","13","7","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AIC","AI","Air India","AIRINDIA","IN","1","1","1","1","10.80","15","4","0","351","185","88","109081","36168","0","0"
 "AIE","3H","Air Inuit","INUIT","CA","1","0","0","0","34.56","25","6","17","69","36","24","18256","0","0","0"
@@ -78,12 +97,15 @@
 "AIH","KJ","Air Incheon","AIR INCHEON","KR","1","0","0","1","29.00","1","1","1","5","5","6","0","431","0","0"
 "AIJ","4O","Interjet","ABC AEROLINEAS","MX","1","1","1","1","11.75","4","1","0","170","85","53","88667","22181","1","0"
 "AIP","5A","Alpine Air","ALPINE AIR","US","1","0","0","0","36.87","39","3","39",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AIQ","FD","Thai AirAsia","THAI ASIA","TH","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AIT",NULL,"Air Taurus","AIR TAURUS","UA","1","0","0","0","28.00","4","1","4",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AIW",NULL,"Atlantic Island Airways","TARTAN","CA","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AIZ","IZ","Arkia","ARKIA","IL","1","1","1","1","6.00","1","1","0","49","26","26","3539","1850","0","0"
 "AJE",NULL,"Aero Jet Express SA de CV","JET EXPRES","MX","1","0","0","0","35.00","4","3","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AJI",NULL,"Ameristar Charters","AMERISTAR","US","1","0","0","0","53.00","4","1","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AJJ",NULL,"Avcon Jet Africa","AVJET","ZA","1","0","0","0","10.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AJK","4W","Allied Air Cargo","BAMBI","NG","1","1","1","0","28.00","3","1","3",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AJM","JM","Air Jamaica","JAMAICA","JM","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AJR",NULL,"A-Jet Aviation","JET MONGOLIA","MN","1","0","0","0","21.00","3","2","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AJS",NULL,"Central Charter de Colombia","AEROEJECUTIVOS","CO","1","0","0","0","11.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AJT","M6","Amerijet International","AMERIJET","US","1","0","0","1","30.57","7","1","7","145","118","54","134","10077","0","0"
@@ -97,11 +119,13 @@
 "AKN",NULL,"Alkan Air","ALKAN AIR","CA","1","0","0","0","35.12","17","9","12",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AKQ",NULL,"Aerospace Consortium","MOONLIGHT","KE","1","0","0","0","35.50","4","2","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AKX","EH","ANA Wings","ALFA WING","JP","1","0","1","0","11.88","25","2","0","193","100","40","109848","0","0","0"
+"ALD",NULL,"Albion Aviation","ALBION","GB","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ALI",NULL,"Airlift AS","BLUELIFT","NO","1","0","0","0","13.58","12","3","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ALK","UL","SriLankan Airlines","SRILANKAN","LK","1","1","1","1","5.00","4","1","0","92","47","44","519","26205","0","0"
 "ALM",NULL,"Alfa Air",NULL,"MA","1","0","0","0","39.75","4","3","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ALS",NULL,"Alas Del Sur CA","ALASDELSUR","VE","1","0","0","0","40.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ALT",NULL,"Aerolineas Centrales SA de CV","AEROLINEAS CENTRALES","MX","1","0","0","0","5.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"ALV",NULL,"Alas de Venezuela","ALVEN","VE","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ALW",NULL,"ALS Limited",NULL,"KE","1","0","0","0","24.83","23","5","12",NULL,NULL,NULL,NULL,NULL,"1","0"
 "AMB",NULL,"DRF - Deutsche Luftrettung","CIVIL AIR AMBULANCE","DE","1","0","0","0","14.61","59","5","17",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AMC","KM","Air Malta","AIR MALTA","MT","1","1","1","1","1.33","3","1","0","63","32","31","0","12310","0","0"
@@ -113,6 +137,7 @@
 "AMQ",NULL,"AMC Aviation Sp ZOO","AMEX","PL","1","0","0","0","12.36","14","10","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AMS",NULL,"ASTA - America do Sul Taxi Aereo",NULL,"BR","1","0","0","0","10.50","2","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AMU","NX","Air Macau","AIR MACAU","MO","1","1","1","1","7.50","2","2","0","79","44","39","0","24017","0","0"
+"AMV","YJ","AMC Airlines","AMV","EG","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AMW","6A","Armenia Airways",NULL,"AM","1","0","0","1","28.00","1","1","1","20","10","11","0","680","0","0"
 "AMX","AM","Aeromexico","AEROMEXICO","MX","1","1","1","1","7.43","28","2","0","157","84","63","47015","41155","1","0"
 "ANA","NH","ANA-All Nippon Airways","ALL NIPPON","JP","1","1","1","1","7.71","155","6","1","372","209","96","184926","60063","2","0"
@@ -120,6 +145,8 @@
 "ANE","YW","Air Nostrum","NOSTRU AIR","ES","1","1","1","1","22.00","1","1","0","343","172","95","61696","23330","1","0"
 "ANG","PX","Air Niugini","NIUGINI","PG","1","1","1","1","23.62","8","4","5","88","47","32","21289","5101","1","1"
 "ANO",NULL,"Airnorth","TOPEND","AU","1","0","0","1","21.50","8","2","4","49","26","20","10224","856","0","0"
+"ANR",NULL,"Yanair","YANAIR","UA","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"ANS",NULL,"Andes Lineas Aereas","AEROANDES","AR","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ANT","TL*","Air North","AIR NORTH","CA","1","0","0","0","38.67","6","3","6","33","17","12","3703","0","0","0"
 "ANZ","NZ","Air New Zealand","NEW ZEALAND","NZ","1","1","1","1","5.64","25","4","0","108","54","35","36770","27793","0","0"
 "AOB",NULL,"Aerocaribe","CARIBE CORO","VE","1","0","0","0","38.00","2","1","2",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -128,6 +155,8 @@
 "APA",NULL,"Apoyo Logistico S.A. de C.V.","APOYO LOG","MX","1","0","0","0","10.75","4","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "APC",NULL,"Airpac Airlines","AIRPAC","US","1","0","0","0","40.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "APF","HP","Amapola Flyg","AMAPOLA","SE","1","0","1","0","30.83","6","1","6",NULL,NULL,NULL,NULL,NULL,"0","0"
+"APG","3D","Air People International","AIR PEOPLE","TH","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"APH",NULL,"Alpha Aviation","AIRFLIGHT","US","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "APJ","MM","Peach","AIR PEACH","JP","1","0","0","1","4.07","27","1","0","52","26","18","20343","11885","0","0"
 "APK","P4","Air Peace","PEACE BIRD","NG","1","1","1","0","22.00","3","2","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AQO",NULL,"Alcoa Aircraft Operations",NULL,"US","1","0","0","0","8.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -142,10 +171,14 @@
 "ARL",NULL,"Airlec Air Espace","AIRLEC","FR","1","0","0","0","32.33","6","4","5",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ARM",NULL,"MEGAviation SRL","SUNSKY","MD","1","0","0","0","29.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ARO",NULL,"Acerotaxi SA de CV","ACERO","MX","1","0","0","0","12.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"ARR","QN","Air Armenia","AIR ARMENIA","AM","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ARS",NULL,"Aeromet","METSERVICE","CL","1","0","0","0","39.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ART","YV","SmartLynx Latvia","SMART LYNX","LV","1","0","1","0","16.00","2","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"ARU","AG","Aruba Airlines","ARUBA","NL","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ARV",NULL,"Aravco Ltd","ARAVCO","GB","1","0","0","0","10.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"ARZ",NULL,"Air Resorts","AIR RESORTS","US","0","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ASA","AS","Alaska Airlines","ALASKA","US","1","1","1","1","7.81","84","3","0","350","187","80","179667","13427","0","0"
+"ASD","4D","Air Sinai","AIR SINAI","EG","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ASH","YV","Mesa Airlines","AIR SHUTTLE","US","1","0","1","1","10.06","107","3","0","472","244","128","194065","24266","2","0"
 "ASJ",NULL,"Astonjet","ASTONJET","FR","1","0","0","0","8.25","8","3","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ASL","JU","Air Serbia","AIR SERBIA","RS","1","1","1","0","16.00","4","3","0",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -162,6 +195,7 @@
 "ATM",NULL,"Par-Avion Airlines","AIRTAS","AU","1","0","0","0","40.57","7","3","7","6","3","4","462","0","0","0"
 "ATN",NULL,"ATI - Air Transport International","AIR TRANSPORT","US","1","0","0","0","30.70","10","2","10",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ATP",NULL,"Servicios Aereos del Altiplano SA de CV","ALTIPLANO","MX","1","0","0","0","8.25","4","4","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"ATW",NULL,"Aero Trades Western","AERO TRADES","CA","0","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "ATX","T6","AirSwift","AIRSWIFT","PH","1","0","0","0","3.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ATY",NULL,"Air Traffic Nairobi","AIRCARE","KE","1","0","0","0","30.67","6","3","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "ATZ",NULL,"Ace Air","ACE TAXI","KR","1","0","0","0","13.00","2","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -173,18 +207,24 @@
 "AUL","5N","Smartavia","ARCHANGELSK AIR","RU","1","1","1","0","19.60","5","2","2","82","41","23","10398","0","1","1"
 "AUR","GR","Aurigny","AYLINE","GB","1","0","0","1","10.00","1","1","0","28","14","15","14595","418","0","0"
 "AUT","AU","Austral","AUSTRAL","AR","1","1","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"AUU",NULL,"Aurora Aviation","AURORA AIR","US","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AUZ",NULL,"Amaszonas Uruguay","URUGUAYO","UY","1","0","0","0","9.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AVA","AV","Avianca","AVIANCA","CO","1","1","1","1","3.80","5","2","0","168","85","59","150297","36489","1","0"
 "AVB",NULL,"Gama Aviation Ltd","BEAUPAIR","GB","1","0","0","0","10.50","2","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AVE",NULL,"Avex Air","AVEX AIR","ZA","1","0","0","0","14.40","5","4","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AVF",NULL,"Aves Flight Share SA de CV","AVES FLIGHT","MX","1","0","0","0","14.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AVJ",NULL,"Avia Traffic Company","ATOMIC","KG","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AVM",NULL,"AVEMEX SA de CV","AVEMEX","MX","1","0","0","0","12.15","13","10","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AVN","NF","Air Vanuatu","AIR VAN","VU","1","1","1","1","32.20","5","3","4","121","64","32","8909","1545","1","0"
+"AWB",NULL,"Airways International","AIRNAT","US","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AWC","ZT*","Titan Airways","ZAP","GB","1","0","1","1","16.14","7","6","2","84","43","38","0","858","0","0"
+"AWE","US","US Airways","CACTUS","US","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AWI","ZW","Air Wisconsin","WISCONSIN","US","1","0","1","1","17.88","58","1","0","360","180","77","135260","12112","0","0"
 "AWK",NULL,"Airwork","AIRWORK","NZ","1","0","0","0","28.46","26","5","22",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AWM",NULL,"Asian Wings Airways","ASIAN STAR","MM","1","0","0","1","21.50","2","1","0","47","28","14","5176","2","0","0"
+"AWQ","QZ","Indonesia AirAsia","WAGON AIR","ID","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AWS",NULL,"Arab Wings","ARAB WINGS","JO","1","0","0","0","14.11","9","6","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AWT",NULL,"Air West","AIR WEST","CA","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AWU","7E","Sylt Air","SYLT AIR","DE","1","0","0","0","21.78","9","5","3","2","1","2","870","0","0","0"
 "AWY",NULL,"Bliss Aviation","RED KITE","GB","1","0","0","0","13.50","2","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AXB","IX*","Air India Express","EXPRESS INDIA","IN","1","0","1","1","12.00","1","1","0","120","65","30","1702","19938","3","0"
@@ -201,26 +241,40 @@
 "AYT",NULL,"Ayit Aviation","AYIT","IL","1","0","0","0","37.00","6","6","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AYY",NULL,"Air Alliance Express AG & Co. KG","LUPUS","DE","1","0","0","0","26.38","16","7","10",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AZA","AZ","Alitalia","ALITALIA","IT","1","1","1","1","13.97","34","5","0","313","161","104","83122","68033","1","0"
+"AZD",NULL,"Zimex Aviation Austria","MAILMAN","AT","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AZE",NULL,"Arcus Air","ARCUS AIR","DE","1","0","0","0","9.60","5","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AZF",NULL,"Air Zermatt AG","AIR ZERMATT","CH","1","0","0","0","12.22","9","4","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AZG","7L","Silk Way West Airlines","SILK WEST","AZ","1","1","1","0","10.44","9","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AZH",NULL,"SilkWay Helicopter Services","HELIAZE","AZ","1","0","0","0","15.81","16","5","4",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AZI","ZS","Azzurra Air","AZZURRA","IT","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AZL",NULL,"AZee AIR","AZEE AIR","KZ","1","0","0","0","29.00","6","2","6",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AZN",NULL,"Amaszonas","AMAZONAS","BO","1","0","0","1","22.89","9","2","0","45","23","17","14950","2269","1","0"
 "AZO",NULL,"Azimuth","AZIMUTH-DON","RU","1","0","0","0","2.55","11","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"AZP",NULL,"Arizona Pacific Airways","ARIZONA PACIFIC","US","0","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AZQ",NULL,"Silk Way Airlines","SILK LINE","AZ","1","0","0","1","21.50","8","2","3","28","15","16","0","2589","0","0"
 "AZS",NULL,"Aviacon Zitotrans","ZITOTRANS","RU","1","0","0","0","30.20","5","1","5",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AZU","AD","Azul","AZUL","BR","1","1","1","1","5.91","33","6","0","548","279","87","245993","2698","0","0"
+"AZV",NULL,"Azov Avia Airlines","AZOV AVIA","UA","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"AZW","UM","Air Zimbabwe","AIR ZIMBABWE","ZW","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "AZY",NULL,"Aztec Airways","AZTEC WORLD","US","1","0","0","1","38.40","5","2","5","3","3","3","0","480","0","0"
+"AZZ",NULL,"Azza Transport","AZZA TRANSPORT","SD","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BAB",NULL,"Bahrain Air","BAHRAIN AIR","BH","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BAE",NULL,"BAE Systems Ltd","FELIX","GB","1","0","0","0","23.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BAF",NULL,"Belgian Air Component","BELGIAN AIRFORCE","BE","1","0","0","0","34.07","124","8","113",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BAH",NULL,"Bahrain Royal Flight","BAHRAIN","BH","1","0","0","0","16.69","13","9","2",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BAL",NULL,"BalmOral Central Contracts SA","BALMORAL","ZA","1","0","0","0","29.33","3","2","3",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BAM",NULL,"Business Air Services","BUSINESS AIR","CA","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BAR",NULL,"Bradly Air Services","BRADLEY","CA","0","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BAV","QH","Bamboo Airways","BAMBOO","VN","1","1","1","0","8.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BAW","BA","British Airways","SPEEDBIRD","GB","1","1","1","1","8.40","68","6","0","468","240","206","42302","254012","6","0"
+"BAX",NULL,"Best Aero Handling","BEST AERO","RU","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BAY",NULL,"Bayon Airlines","BAYON","KH","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BBB",NULL,"Blackbird Air Charter","BLACKBIRD","DK","1","0","0","0","2.67","3","3","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BBC","BG","Biman Bangladesh Airlines","BANGLADESH","BD","1","1","0","1","3.00","2","2","0","73","42","28","7450","10331","2","0"
 "BBD","BO","Bluebird Nordic","BLUE CARGO","IS","1","0","0","1","27.40","5","1","4","2","1","2","0","522","0","0"
+"BBG",NULL,"Bluebird Airways","CANDIA BIRD","GR","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BBO","F7","Baboo","BABOO","CH","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BBR","S3","Santa Barbara Airlines","SANTA BARBARA","VE","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BBX",NULL,"Bel Air Aviation A/S","BLUEBEL","DK","1","0","0","0","6.00","2","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BBY",NULL,"Blue Bird Aviation","YEMEN BLUE","YE","1","0","0","0","32.75","4","3","3",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BBZ",NULL,"Blue Bird Aviation","COBRA","KE","1","0","0","0","24.81","16","4","8",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -236,29 +290,41 @@
 "BDV",NULL,"Aberdair Aviation","ABERDAV","KE","1","0","0","0","25.89","9","4","5",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BEC",NULL,"State Air Company Berkut",NULL,"KZ","1","0","0","0","12.20","5","5","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BEE","BE","flybe","JERSEY","GB","1","1","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BEK","Z9","Bek Air","BEKAIR","KZ","0","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BEL","SN","Brussels Airlines","BEE-LINE","BE","1","1","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BER","AB","Air Berlin","AIR BERLIN","DE","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BES","W4","Aero Services Executive","BIRD EXPRESS","FR","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BEZ",NULL,"Kingfisher Air Services","SEA BREEZE","US","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BFD",NULL,"Bertelsmann AG","MEDIA JET","DE","1","0","0","0","6.00","2","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BFF",NULL,"Air Nunavut","AIR BAFFIN","CA","1","0","0","0","39.45","11","3","11",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BFG",NULL,"Bear Flight","BEARFLIGHT","SE","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BFL",NULL,"Buffalo Airways","BUFFALO","CA","1","0","0","0","52.12","17","6","17","2","1","2","599","0","9","0"
 "BFO",NULL,"Bombardier Inc","BAKHTAR","CA","1","0","0","0","10.86","7","5","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BFY",NULL,"Bestfly","MWANGO BEST","AO","1","0","0","0","20.12","8","8","3",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BGA",NULL,"Airbus Transport International","BELOUGA","FR","1","0","0","0","19.17","6","2","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BGB",NULL,"Big Bend Community College","BIG BEND","US","1","0","0","0","33.00","2","2","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BGC",NULL,"Good Jet","YANDU","CN","1","0","0","0","9.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BGF",NULL,"28th Air Detachment","BULGARIAN","BG","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BGH","8H","BH Air","BALKAN HOLIDAYS","BG","1","0","1","1","30.50","2","2","1","39","21","20","20","574","0","0"
+"BGM",NULL,"Ak Bars Aero","BUGAVIA","RU","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BGN",NULL,"Budget Lines","SKYBUDDY","TH","1","0","0","0","41.00","3","1","3",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BGY",NULL,"Bingo Airways","SKIMMER","PL","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BHA",NULL,"Buddha Air","BUDDHA AIR","NP","1","0","0","1","23.50","6","3","2","23","12","11","22316","200","0","0"
 "BHD",NULL,"Bangkok Helicopter Services","BANGKOK DUSIT","TH","1","0","0","0","8.50","2","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BHL",NULL,"Bristow Helicopters","BRISTOW","GB","1","0","0","0","7.21","42","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BHN",NULL,"Bristow Helicopters","BRISTOW HELICOPTERS","NG","1","0","0","0","12.58","36","6","2",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BHP","4T","Belair Airlines","BELAIR","CH","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BHR",NULL,"Bighorn Airways","BIGHORN AIR","US","1","0","0","0","36.00","13","5","12",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BHS","UP","Bahamasair","BAHAMAS","BS","1","1","1","1","17.00","1","1","0","74","38","29","10501","7994","0","0"
+"BHT",NULL,"Bright Air","BRIGHTAIR","NL","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BIA",NULL,"Bohlke International Airways","BOHLKE","VI","1","0","0","0","28.44","9","6","5",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BIB",NULL,"Michelin Air Services",NULL,"FR","1","0","0","0","4.67","3","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BIC",NULL,"Alphaland Aviation","BALESIN","PH","1","0","0","0","20.20","5","3","2",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BIE","DR","Air Méditerranée","MEDITERRANEE","FR","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BIG",NULL,"Big Island Air","BIG ISLE","US","1","0","0","0","24.00","2","2","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BIH",NULL,"British International Helicopters","BRINTEL","GB","1","0","0","0","25.29","7","4","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BIL",NULL,"Bilair Flight Centre ApS","BILAIR","DK","1","0","0","0","18.60","5","3","1",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BJK",NULL,"Atlantic Airlines","BLACKJACK","US","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BJN",NULL,"Beijing Airlines","AIR JINGHUA","CN","1","0","0","0","8.50","6","4","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BJU",NULL,"Aerojet Ltd","JET EXPRESS","UA","1","0","0","0","35.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BKA",NULL,"Bankair","BANKAIR","US","1","0","0","0","38.00","5","2","5",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -271,28 +337,37 @@
 "BLB",NULL,"Blue Bird Aviation","BLUEBIRD SUDAN","SD","1","0","0","0","29.50","4","3","2",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BLC",NULL,"Bellesavia","BELLESAVIA","BY","1","0","0","0","32.86","7","1","7",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BLE",NULL,"Executive Air Services LLC","BLUEWATER","US","1","0","0","0","28.00","2","2","1",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BLF","KF","Blue1","BLUEFIN","FI","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BLJ",NULL,"Bluelink Jets AB","BLUEJET","SE","1","0","0","0","12.50","2","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BLL",NULL,"Baltic Airlines","BALTIC AIRLINES","RU","1","0","0","0","41.00","3","1","3",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BLN",NULL,"Belton Air","BELTON","ZA","1","0","0","0","12.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BLO",NULL,"Belogorie","BELOGORIE","RU","1","0","0","0","43.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BLU",NULL,"Solutions Air Charter","BLUEGRASS","US","1","0","0","0","38.33","3","3","3",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BLV","B3","Bellview Airlines","BELLVIEW AIRLINES","NG","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BLW",NULL,"Wermslandsflyg AB","BLUESTAR","SE","1","0","0","0","39.67","3","1","3",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BLX","6B","TUI fly Nordic","BLUESCAN","SE","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BLZ",NULL,"Aero Barloz SA de CV","AEROLOZ","MX","1","0","0","0","14.00","3","3","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BMG",NULL,"Image Air Charter Ltd","BOOMERANG","CA","1","0","0","0","11.22","9","6","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BMJ","CH","Bemidji Aviation","BEMIDJI","US","1","0","0","0","41.00","18","6","17",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BML","BH","Bismillah Airlines","BISMILLAH","BD","1","0","0","0","46.50","2","1","2",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BMR","BM","Flybmi","MIDLAND","GB","0","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BMS","0B","Blue Air","BLUE MESSENGER","RO","0","1","1","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BMW",NULL,"BMW AG","BMW-FLIGHT","DE","1","0","0","0","12.00","3","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BNA",NULL,"Bun Air Corp","BUN AIR","US","1","0","0","0","19.40","5","5","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BND",NULL,"Babcock MCS Offshore Ltd","BOND","GB","1","0","0","0","6.13","15","3","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BNJ",NULL,"ASL - Air Service Liege","JET BELGIUM","BE","1","0","0","0","13.96","25","14","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BNT",NULL,"Ben Air","BENTIU AIR","SD","1","0","0","0","38.50","2","1","2",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BOA",NULL,"Boniair","KUMANOVO","MK","1","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BOC",NULL,"Aerobona SA de CV","AEROBONA","MX","1","0","0","0","4.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BOE",NULL,"Boeing","BOEING","US","1","0","0","0","20.00","14","7","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BOG",NULL,"Live Oak Banking Company","BIRD DOG","US","1","0","0","0","2.33","3","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BOH",NULL,"Air Bohemia","BOHEMIA","CZ","1","0","0","0","30.17","6","3","4",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BOL","2L*","TAB Airlines","BOL","BO","1","0","0","0","37.50","2","2","2",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BON","JA","B&H Airlines","BH AIRLINES","BA","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BOO",NULL,"Bookajet","BOOKAJET","GB","1","0","0","0","12.50","4","4","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BOS",NULL,"OpenSkies","MISTRAL","GB","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BOT","BP","Air Botswana","BOTSWANA","BW","1","1","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"BOU","BO","Bouraq Indonesia Airlines","BOURAQ","ID","0","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BOV","OB","BoA","BOLIVIANA","BO","1","1","1","1","21.73","11","3","3","71","38","20","36330","3715","2","0"
 "BOX",NULL,"AeroLogic","GERMAN CARGO","DE","1","0","0","0","7.33","15","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BPA","BV","Blue Panorama Airlines","BLUE PANORAMA","IT","1","1","1","1","28.00","1","1","1","128","72","38","1267","6680","0","0"
@@ -304,8 +379,10 @@
 "BRM",NULL,"Top Helicopteros SL",NULL,"ES","1","0","0","0","20.00","3","2","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BRO",NULL,"2Excel Aviation","BROADSWORD","GB","1","0","0","0","39.45","20","4","19",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BRP",NULL,"Aerobratsk","AEROBRA","RU","1","0","0","0","39.50","8","3","8","1","1","2","40","0","0","0"
+"BRQ","UZ","Buraq Air","BURAQAIR","LY","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BRS",NULL,"Brazilian Air Force","BRAZILIAN AIR FORCE","BR","1","0","0","0","26.68","562","24","317",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BRU","B2","Belavia","BELARUS AVIA","BY","1","1","1","1","8.08","12","6","0","102","51","51","52","26835","1","0"
+"BRX",NULL,"Buffalo Express Airlines","BUFF EXPRESS","US","0","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BRY",NULL,"Burundaiavia","BURAIR","KZ","1","0","0","0","31.00","22","1","20",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BSH",NULL,"Beijing Capital Helicopter General Aviation Svs","CAPITAL ROTOR","CN","1","0","0","0","4.84","25","7","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BSK","LL*","Miami Air International","BISCAYNE","US","1","0","0","0","12.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -313,6 +390,7 @@
 "BTH",NULL,"Baltijas Helikopters","BALTIJAS HELICOPTERS","LV","1","0","0","0","5.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BTI","BT","Air Baltic","AIRBALTIC","LV","1","1","1","1","2.00","1","1","0","150","76","59","0","43045","1","0"
 "BTK","ID","Batik Air","BATIK","ID","1","1","1","1","4.25","51","2","0","117","60","35","94297","1692","3","0"
+"BTN",NULL,"Bhutan Airlines","BHUTAN AIR","BT","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BTP",NULL,"Kingcrete Association Pvt Ltd","BAHRIA TOWN","PK","1","0","0","0","11.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BTQ",NULL,"Boutique Air Inc","BOUTIQUE","US","1","0","0","0","15.65","34","3","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BTS",NULL,"Aerolineas Nacionales Albatros S.A. de C.V.",NULL,"MX","1","0","0","0","48.33","3","1","3",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -333,9 +411,12 @@
 "BYA",NULL,"Berry Aviation","BERRY","US","1","0","0","0","30.32","25","4","15",NULL,NULL,NULL,NULL,NULL,"0","0"
 "BYC",NULL,"Cambodia Bayon Airlines","BAYON AIR","KH","1","0","0","1","5.50","2","1","0","12","6","5","1800","165","0","0"
 "BZE",NULL,"Zenith Aviation Ltd","ZENSTAR","GB","1","0","0","0","6.22","9","5","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"BZH","DB","Brit Air","BRITAIR","FR","0","0","1","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "BZS",NULL,"Aero Biniza","BINIZA","MX","1","0","0","0","17.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
+"CAC","5C","Conquest Airlines","CONQUEST AIR","US","0","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "CAD",NULL,"Cardig Air","CARDIG AIR","ID","1","0","0","1","34.00","1","1","1","8","4","5","4840","1177","1","0"
 "CAI","XC","Corendon Airlines","CORENDON","TR","1","1","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"CAJ",NULL,"Air Caraibes Atlantique","CAR LINE","FR","0","0","0","0",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "CAL","CI","China Airlines","DYNASTY","TW","1","1","1","1","10.20","60","4","0","279","155","97","1347","85581","1","0"
 "CAO",NULL,"Air China Cargo","AIRCHINA FREIGHT","CN","1","0","0","0","13.07","15","3","3",NULL,NULL,NULL,NULL,NULL,"0","0"
 "CAT",NULL,"Copenhagen Airtaxi A/S","AIRCAT","DK","1","0","0","0","28.31","13","4","8",NULL,NULL,NULL,NULL,NULL,"0","0"
@@ -352,8 +433,10 @@
 "CBT",NULL,"Catalina Flying Boats","CATALINA AIR","US","1","0","0","0","24.50","2","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "CBV",NULL,"Aereo Cabo SA de CV","CABOAEREO","MX","1","0","0","0","21.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "CCA","CA","Air China","AIR CHINA","CN","1","1","1","1","8.01","314","8","0","880","454","178","354487","84486","2","0"
+"CCC","CW","Air Cargo Global","GLOBAL CARGO","SK","1","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "CCD",NULL,"Dalian Airlines","XIANGJIAN","CN","1","0","0","0","7.00","12","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "CCF",NULL,"CCF Manager Airline",NULL,"DE","1","0","0","0","39.00","1","1","1",NULL,NULL,NULL,NULL,NULL,"0","0"
+"CCG",NULL,"Central Connect Airlines","JOBAIR","CZ","0","0","0","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 "CCH",NULL,"Chilchota Taxi Aereo SA de CV","CHILCHOTA","MX","1","0","0","0","27.00","2","2","1",NULL,NULL,NULL,NULL,NULL,"0","0"
 "CCM","XK","Air Corsica","CORSICA","FR","1","1","1","1","13.00","6","2","0","100","50","30","20326","155","0","0"
 "CCO",NULL,"China Air Cargo","AVIC CARGO","CN","1","0","0","0","1.00","1","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"

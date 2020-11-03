@@ -1,5 +1,11 @@
 # Changelog for version 1.x
 
+**Version 1.1.0**
+
+- Add 83 airlines.
+- Add 27 airline logos.
+- Add 367991 flights.
+
 **Version 1.0.14**
 
 - Add 570 aircraft.
