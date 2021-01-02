@@ -341,4 +341,4 @@ Data is published under the terms of the [ODC Open Database License v1.0](https:
 
 ## Contributing
 
-Feel free to contribute, but please read the [contribution guidelines](docs/contributing.md) before.
+Feel free to contribute, but please read the [contribution guidelines](CONTRIBUTING.md) before.
