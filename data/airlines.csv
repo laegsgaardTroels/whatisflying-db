@@ -438,6 +438,7 @@ CCD,,Dalian Airlines,CN,XIANGJIAN,1,0,0,0,7.00,0,0,0,,,
 CCF,,CCF Manager Airline,DE,,1,0,0,0,39.00,1,0,0,,,
 CCG,,Central Connect Airlines,CZ,JOBAIR,0,1,0,0,,,,,,,
 CCH,,Chilchota Taxi Aereo SA de CV,MX,CHILCHOTA,1,0,0,0,27.00,1,0,0,,,
+CCK,,Flight Trac,US,CABLE CHECK,1,0,0,0,,,,,,,
 CCM,XK,Air Corsica,FR,CORSICA,1,1,1,1,13.00,0,0,0,30,20326,155
 CCO,,China Air Cargo,CN,AVIC CARGO,1,0,0,0,1.00,0,0,0,,,
 CCQ,,Mustang Aviation,US,CAP CITY,1,0,0,0,42.20,5,0,0,,,
@@ -461,6 +462,7 @@ CFA,,China Flying Dragon General Aviation Co,CN,FEILONG,1,0,0,0,17.08,14,0,0,,,
 CFC,,Royal Canadian Air Force,CA,CANFORCE,1,0,0,0,28.64,159,0,0,,,
 CFD,,Cranfield University,GB,AERONAUT,1,0,0,0,34.67,2,0,0,,,
 CFE,CJ*,BA CityFlyer,GB,FLYER,1,1,0,0,24.00,0,0,0,39,9294,22401
+CFF,,Aerofan,ES,AEROFAN,1,0,0,0,,,,,,,
 CFG,DE,Condor,DE,CONDOR,1,1,1,1,21.55,6,0,0,119,13,34804
 CFH,,Careflight Ltd,AU,CARE FLIGHT,1,0,0,0,22.00,8,0,0,,,
 CFI,,CAAC Flight Inspection Center,CN,CHINA JET,1,0,0,0,11.28,2,0,0,,,
@@ -471,6 +473,7 @@ CGA,8Z,Congo Airways,CD,CONGRESSIONAL,1,0,1,1,10.00,0,0,0,,,
 CGB,,Comercializacion Industrial Global SA de CV,MX,COMGLOB,1,0,0,0,16.50,0,0,0,,,
 CGF,,Cargo Air,BG,CLEVER,1,0,0,0,27.25,5,0,0,,,
 CGH,GT,Air Guilin,CN,WELKIN,1,0,1,1,3.14,0,0,0,,,
+CGK,C4,Click Airways,AE,CLICK AIR,0,1,0,0,,,,,,,
 CGN,,Air Changan,CN,CHANG AN,1,0,0,1,7.10,0,0,0,24,4380,0
 CGP,,Capital Aircraft Group Bvba,BE,CAPGROUP,1,0,0,0,25.00,1,0,0,,,
 CGR,,Compagnia Generale Ripreseaeree,IT,COMPRIP,1,0,0,0,32.62,6,0,0,,,
@@ -485,8 +488,11 @@ CHN,,Channel Islands Aviation Inc,US,CHANNEL,1,0,0,0,24.75,1,0,0,,,
 CIG,,Sirius Aero,RU,SIRIUS AERO,1,0,0,0,20.38,4,0,0,,,
 CIJ,,C&I Corporation,RO,NIKOLAUS,1,0,0,0,11.00,0,0,0,,,
 CIL,CF*,CIAF Air Operation,EG,CIAF LEASING,1,0,0,0,20.00,0,0,0,,,
+CIM,QA,Cimber Sterling,DK,CIMBER,0,1,0,0,,,,,,,
 CIN,C7,Cinnamon Air,LK,CINNAMON,1,0,0,0,18.00,0,0,0,2,336,0
 CIS,,Cat Island Air,BS,CAT ISLAND,1,0,0,0,40.00,1,0,0,,,
+CIU,A2,Cielos Airlines,PE,CIELOS,0,1,0,0,,,,,,,
+CJA,C6,CanJet,CA,CANJET,0,1,0,0,,,,,,,
 CJE,,Custom Jet Charters LLC,US,CUSTOM JET,1,0,0,0,16.00,0,0,0,,,
 CJR,,Caverton Helicopters,NG,CAVERTON AIR,1,0,0,0,5.39,0,0,0,,,
 CJT,W8,Cargojet Airways,CA,CARGOJET,1,1,1,1,28.38,22,0,0,15,9146,522
@@ -1203,6 +1209,7 @@ LNI,,Lion Air,ID,LION INTER,1,1,0,1,7.60,0,5,1,99,266680,11100
 LNK,4Z,Airlink,ZA,LINK,1,1,1,1,5.00,0,2,0,42,35685,17770
 LNX,,Luxaviation United Kingdom,GB,LONEX,1,0,0,0,13.88,2,0,0,,,
 LOG,,Loganair,GB,LOGAN,1,1,0,0,27.29,10,0,0,27,38785,588
+LOL,,Easy Charter,GE,EASY CHARTER,1,1,0,0,,,,,,,
 LOT,LO,LOT Polish Airlines,PL,LOT,1,1,1,1,4.50,0,1,0,67,23069,60006
 LPA,,Air Leap,SE,LEAP,1,0,0,0,30.00,1,0,0,,,
 LPE,LP,LATAM Airlines Peru,PE,LANPERU,1,1,1,1,5.75,0,0,0,46,52620,17757
@@ -2068,6 +2075,7 @@ XLR,,Texel Air,BH,TEXEL,1,0,0,0,22.50,0,0,0,,,
 XLS,,ExcelAire LLC,US,EXCELAIRE,1,0,0,0,12.11,0,0,0,,,
 XNR,,Taxi Aereo del Norte SA de CV,MX,,1,0,0,0,9.00,0,0,0,,,
 XOJ,,XOJET Inc,US,EXOJET,1,0,0,0,13.90,0,0,0,,,
+XPE,,Amira Air,AT,EXPERT,0,1,0,0,,,,,,,
 XRC,7A,Express Air Cargo,TN,TUNISIA CARGO,1,0,0,0,31.00,2,0,0,2,2801,0
 XSN,,AirSF,US,SANTANA,1,0,0,0,11.57,0,0,0,,,
 XSR,,AirShare LLC,US,AIRSHARE,1,0,0,0,9.70,1,0,0,,,
