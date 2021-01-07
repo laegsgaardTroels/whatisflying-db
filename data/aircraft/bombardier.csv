@@ -147,8 +147,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 345583,EC-MSB,Bombardier,CRJ-1000,CRJX,19057,L2J,ANE,,,
 345597,EC-MSL,Bombardier,CRJ-1000,CRJX,19058,L2J,ANE,,,
 345615,EC-MTO,Bombardier,CRJ-1000,CRJX,19059,L2J,ANE,,,
+345687,EC-MTZ,Bombardier,CRJ-1000,CRJX,19060,L2J,ANE,,,
 345688,EC-MUG,Bombardier,CRJ-1000,CRJX,19061,L2J,ANE,,,
 345698,EC-MVC,Bombardier,CRJ-1000,CRJX,19062,L2J,ANE,,,
+34604c,EC-MXA,Bombardier,CRJ-1000,CRJX,19064,L2J,ANE,,,
 394724,F-GRZE,Bombardier,CRJ-700,CRJ7,10032,L2J,,,,
 394725,F-GRZF,Bombardier,CRJ-700,CRJ7,10036,L2J,,,,
 394726,F-GRZG,Bombardier,CRJ-700,CRJ7,10037,L2J,,,,
@@ -232,10 +234,14 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3c848f,D-BADO,Bombardier,Challenger 300,CL30,20116,L2J,,,,
 3c85ce,D-BANN,Bombardier,Challenger 300,CL30,20221,L2J,,,,
 3c86c2,D-BAVB,Bombardier,Challenger 300,CL30,20212,L2J,,,,
+3c9085,D-BDDE,Bombardier,Challenger 350,CL35,20828,L2J,DCS,,,
 3c942d,D-BEAM,Bombardier,Challenger 300,CL30,20452,L2J,,,,
 3c9570,D-BEKP,Bombardier,Challenger 300,CL30,20275,L2J,,,,
 3c958f,D-BELO,Bombardier,Challenger 300,CL30,20402,L2J,COO,,,
 3ca0ee,D-BHGN,Bombardier,Challenger 350,CL35,20583,L2J,,,,
+3e95ca,14+05,Bombardier,Global 6000,GLEX,9859,L2J,GAF,,,
+3ebd41,14+06,Bombardier,Global 6000,GLEX,9863,L2J,GAF,,,
+3ebe12,14+07,Bombardier,Global 6000,GLEX,9865,L2J,GAF,,,
 3f4e27,14+02,Bombardier,Global 5000,GL5T,9404,L2J,GAF,,,
 3f58ae,14+01,Bombardier,Global 5000,GL5T,9395,L2J,GAF,,,
 3f6533,14+03,Bombardier,Global 5000,GL5T,9411,L2J,GAF,,,
@@ -279,6 +285,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 407269,G-GLOB,Bombardier,Global Express,GLEX,9413,L2J,,2017-02-24,,2010-01-01
 407292,G-KBMM,Bombardier,Global 5000,GL5T,9186,L2J,,2017-01-06,,2006-01-01
 407343,G-SGSG,Bombardier,Global 5000,GL5T,9780,L2J,,2017-06-28,,2016-01-01
+407414,G-SALD,Bombardier,Global 6000,GLEX,9781,L2J,GMA,2017-09-19,,2017-01-01
 42406c,VP-BVG,Bombardier,Global Express XRS,GLEX,9193,L2J,,,,
 424126,VP-BJI,Bombardier,Global Express XRS,GLEX,9276,L2J,BZF,,,
 424138,VP-CWQ,Bombardier,Global 5000,GL5T,9501,L2J,,,,
@@ -330,6 +337,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 42461a,VQ-BPD,Bombardier,CRJ-200LR,CRJ2,7567,L2J,LLM,,,
 42461b,VQ-BPC,Bombardier,CRJ-200LR,CRJ2,7570,L2J,LLM,,,
 42461c,VQ-BPA,Bombardier,CRJ-200LR,CRJ2,7583,L2J,LLM,,,
+424625,VP-BLU,Bombardier,Global 7500,GL7T,70038,L2J,,2020-09-08,,
 424750,VP-CBF,Bombardier,Global 5000,GL5T,9584,L2J,,,,
 424753,VP-CAK,Bombardier,Global 5000,GL5T,9222,L2J,HGR,,,
 424760,VP-CJT,Bombardier,Global Express XRS,GLEX,9374,L2J,,,,
@@ -460,10 +468,13 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 440846,OE-ITN,Bombardier,Global Express XRS,GLEX,9159,L2J,,,,
 440875,OE-LUB,Bombardier,Global Express,GLEX,9208,L2J,,,,
 4408d8,OE-HGG,Bombardier,Challenger 350,CL35,20618,L2J,,,,
+440918,OE-IIX,Bombardier,Challenger 605,CL60,5849,L2J,LDX,,,
 44095e,OE-IMA,Bombardier,Global 5000,GL5T,9693,L2J,,,,
+440a76,OE-IXG,Bombardier,Global 5000,GL5T,9157,L2J,,,,
 440cbc,OE-IRB,Bombardier,Global Express,GLEX,9336,L2J,,,,
 452056,LZ-VBE,Bombardier,Global 5000,GL5T,9693,L2J,,,,
 459934,OY-FIT,Bombardier,Global 5000,GL5T,9186,L2J,VMP,,,
+45a5d6,OY-INV,Bombardier,Challenger 604,CL60,5628,L2J,,,,
 45acc1,OY-KFA,Bombardier,CRJ-900ER NG,CRJ9,15206,L2J,CIM,,,
 45acc2,OY-KFB,Bombardier,CRJ-900ER NG,CRJ9,15211,L2J,CIM,,,
 45acc4,OY-KFD,Bombardier,CRJ-900ER NG,CRJ9,15221,L2J,CIM,,,
@@ -493,6 +504,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 484353,P4-GMS,Bombardier,Global Express XRS,GLEX,9426,L2J,JSI,,,
 484364,P4-AGL,Bombardier,Challenger 350,CL35,20596,L2J,,,,
 4844b4,P4-SAT,Bombardier,Challenger 605,CL60,5762,L2J,,,,
+4844b5,P4-PKZ,Bombardier,Challenger 604,CL60,5580,L2J,PKZ,,,
 48a4e8,SP-KHI,Bombardier,Challenger 350,CL35,20508,L2J,,,,
 48c511,SP-SIS,Bombardier,Challenger 300,CL30,20141,L2J,,,,
 48d1c8,SP-WOI,Bombardier,Global Express,GLEX,9110,L2J,,,,
@@ -505,9 +517,11 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 490d05,CS-CHE,Bombardier,Challenger 350,CL35,20623,L2J,,,,
 490d06,CS-CHF,Bombardier,Challenger 350,CL35,20671,L2J,,,,
 490d07,CS-CHG,Bombardier,Challenger 350,CL35,20699,L2J,NJE,,,
+490d0b,CS-CHK,Bombardier,Challenger 350,CL35,20839,L2J,NJE,,,
 4912c5,CS-DVE,Bombardier,Global Express,GLEX,9098,L2J,AJU,,,
 4912c9,CS-DVI,Bombardier,Global Express,GLEX,9145,L2J,,,,
 4912d6,CS-DVV,Bombardier,Global 6000,GLEX,9718,L2J,,,,
+491d99,CS-GLY,Bombardier,Global 5000,GL5T,9498,L2J,NJE,2019-11-01,,2013-07-01
 49302d,CS-LAM,Bombardier,Global 5000,GL5T,9602,L2J,,,,
 49484e,CS-RBN,Bombardier,Global Express,GLEX,9083,L2J,,,,
 4950d6,CS-TFV,Bombardier,Challenger 300,CL30,20252,L2J,,,,
@@ -557,6 +571,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4ca8b9,EI-FPN,Bombardier,CRJ-900LR NG,CRJ9,15433,L2J,BCY,,,
 4ca8ba,EI-FPO,Bombardier,CRJ-900LR NG,CRJ9,15434,L2J,BCY,,,
 4ca8bb,EI-FPP,Bombardier,CRJ-900LR NG,CRJ9,15435,L2J,BCY,,,
+4cab2c,EJ-AWES,Bombardier,Challenger 605,CL60,5966,L2J,,,,
 4d021e,LX-FLY,Bombardier,Global Express XRS,GLEX,9252,L2J,,,,
 4d0222,LX-ZED,Bombardier,Global Express XRS,GLEX,9349,L2J,,,,
 4d0227,LX-GJM,Bombardier,Challenger 350,CL35,20830,L2J,SVW,2019-12-13,,
@@ -565,6 +580,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4d0238,LX-NYO,Bombardier,Global Express,GLEX,9084,L2J,,,,
 4d0282,LX-TNF,Bombardier,Global Express XRS,GLEX,9332,L2J,,,,
 4d0298,LX-AMG,Bombardier,Global Express XRS,GLEX,9286,L2J,,,,
+4d0299,LX-JNC,Bombardier,Global Express,GLEX,9237,L2J,LXA,,,
 4d029f,LX-AVT,Bombardier,Challenger 300,CL30,20403,L2J,,,,
 4d02de,LX-PMA,Bombardier,Challenger 300,CL30,20097,L2J,,,,
 4d2031,9H-AFC,Bombardier,Challenger 605,CL60,5713,L2J,EAV,,,
@@ -624,6 +640,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 500102,T7-ROK,Bombardier,Challenger 604,CL60,5474,L2J,,,,
 500104,T7-CAM,Bombardier,Global 6000,GLEX,9698,L2J,,,,
 50010a,T7-EZE,Bombardier,Challenger 605,CL60,5866,L2J,,,,
+50015a,T7-ZIS,Bombardier,Challenger 650,CL60,6119,L2J,,2018-09-01,,
 50018a,T7-ELL,Bombardier,Global Express,GLEX,9068,L2J,TWY,,,
 500199,T7-CJK,Bombardier,Global 6000,GLEX,9611,L2J,,,,
 503c1c,LY-ZAB,Bombardier,CRJ-200LR,CRJ2,7248,L2J,,,,
@@ -773,6 +790,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c37c6,VH-LAW,Bombardier,Global Express,GLEX,9299,L2J,,,,2008-01-01
 7c3b43,VH-LZP,Bombardier,Global Express,GLEX,9007,L2J,,,,1998-01-01
 7c473d,VH-OCV,Bombardier,Global Express XRS,GLEX,9326,L2J,,,,
+7c4796,VH-OFC,Bombardier,Challenger 604,CL60,5538,L2J,,,,2002-01-01
 7c5bf8,VH-SGA,Bombardier,Global Express XRS,GLEX,9369,L2J,,,,
 7c610e,VH-TGG,Bombardier,Global Express XRS,GLEX,9368,L2J,,,,
 7c6ad3,VH-VDX,Bombardier,Global Express,GLEX,9101,L2J,,,,
@@ -855,6 +873,7 @@ a00622,N100QR,Bombardier,Challenger 600,CL60,1043,L2J,,,2021-12-31,1982-01-01
 a00623,N100QS,Bombardier,Global 5000,GL5T,9480,L2J,EJA,,2023-01-31,2012-01-01
 a00645,N100SA,Bombardier,Challenger 350,CL35,20559,L2J,,,2021-10-31,2015-01-01
 a009da,N101QS,Bombardier,Global 5000,GL5T,9483,L2J,EJA,,2022-07-31,2012-01-01
+a009e7,N101RE,Bombardier,Challenger 604,CL60,6101,L2J,,,2023-09-30,2017-01-01
 a00a31,N101UD,Bombardier,Challenger 350,CL35,20512,L2J,EAI,,,
 a00b2c,N1013,Bombardier,Challenger 300,CL30,20229,L2J,,,2021-09-30,2008-01-01
 a010bc,N103KB,Bombardier,Challenger 601-3A,CL60,5065,L2J,,,,
@@ -1061,6 +1080,7 @@ a23877,N242LR,Bombardier,CRJ-900,CRJ9,15076,L2J,ASH,,2023-04-30,2006-01-01
 a23a74,N2425,Bombardier,Challenger 300,CL30,20413,L2J,,,2022-09-30,2013-01-01
 a23add,N2428,Bombardier,Challenger 300,CL30,20414,L2J,,,2022-09-30,2013-01-01
 a23c2e,N243LR,Bombardier,CRJ-900,CRJ9,15064,L2J,ASH,,2022-12-31,2006-01-01
+a23c93,N243QS,Bombardier,Challenger 650,CL60,6157,L2J,,,2023-12-31,
 a23c9e,N243RC,Bombardier,Challenger 300,CL30,20243,L2J,,,,
 a23fe5,N244LR,Bombardier,CRJ-900,CRJ9,15233,L2J,ASH,,2023-06-30,2009-01-01
 a24031,N244PS,Bombardier,CRJ-200,CRJ2,7912,L2J,AAL,,2021-12-31,2004-01-01
@@ -1120,6 +1140,7 @@ a2e51e,N286JS,Bombardier,Global 5000,GL5T,9492,L2J,,,2022-03-31,2012-01-01
 a2e852,N287DL,Bombardier,Challenger 600S,CL60,1065,L2J,,,,
 a2ec89,N288JP,Bombardier,Global Express XRS,GLEX,9310,L2J,,,,
 a2edfb,N288ZJ,Bombardier,Global Express,GLEX,9086,L2J,,,,
+a2f3ae,N29FR,Bombardier,Global Express,GLEX,9091,L2J,,,2021-08-31,2001-01-01
 a2f7d6,N2900D,Bombardier,Global 5000,GL5T,9243,L2J,,,2022-10-31,2007-01-01
 a2fe3c,N292PQ,Bombardier,CRJ-900,CRJ9,15292,L2J,DAL,,2022-08-31,2013-01-01
 a30017,N2926E,Bombardier,Challenger 350,CL35,20658,L2J,,,2023-02-28,
@@ -1262,6 +1283,7 @@ a40d09,N360HP,Bombardier,Global Express,GLEX,9344,L2J,,,2021-06-30,2009-01-01
 a40d47,N360LA,Bombardier,Global Express,GLEX,9087,L2J,,,2021-08-31,2000-01-01
 a40d92,N360PA,Bombardier,Challenger 300,CL30,20202,L2J,,,,
 a417ae,N363CL,Bombardier,Challenger 300,CL30,20063,L2J,,,2022-10-31,
+a41ef3,N365AV,Bombardier,Challenger 350,CL35,20689,L2J,,,2023-09-30,2017-01-01
 a41f1a,N365CJ,Bombardier,Global Express,GLEX,9077,L2J,,,2020-12-31,2000-01-01
 a41ff5,N365MC,Bombardier,Challenger 300,CL30,20771,L2J,,,2021-12-31,2018-01-01
 a4207a,N365SL,Bombardier,CRJ-200,CRJ2,7489,L2J,,,2022-05-31,2001-01-01
@@ -1331,6 +1353,7 @@ a4e6c8,N415AW,Bombardier,CRJ-200,CRJ2,7593,L2J,AWI,,2022-09-30,2001-01-01
 a4e7e6,N415NG,Bombardier,Challenger 300,CL30,20061,L2J,,,2021-10-31,2005-01-01
 a4ea7f,N416AW,Bombardier,CRJ-200,CRJ2,7603,L2J,AWI,,2022-09-30,2002-01-01
 a4ea87,N416BD,Bombardier,Global Express,GLEX,9375,L2J,,,2023-07-31,2009-01-01
+a4ee64,N417CS,Bombardier,Global 5000,GL5T,9255,L2J,,,2023-08-31,2007-01-01
 a4ef58,N417NL,Bombardier,CRJ-200,CRJ2,8110,L2J,,,2022-10-31,
 a4efc6,N417SW,Bombardier,CRJ-200,CRJ2,7400,L2J,SKW,,2023-04-30,
 a4f1ed,N418AW,Bombardier,CRJ-200,CRJ2,7618,L2J,AWI,,2022-09-30,2002-01-01
@@ -1788,6 +1811,7 @@ a7e9b9,N609LS,Bombardier,Challenger 300,CL30,20134,L2J,XSR,,2023-03-31,2006-01-0
 a7e9e7,N609NN,Bombardier,CRJ-900,CRJ9,15475,L2J,AAL,,2022-10-31,2019-01-01
 a7ea48,N609SK,Bombardier,CRJ-700,CRJ7,10020,L2J,SKW,,2020-12-31,2002-01-01
 a7ee14,N61TF,Bombardier,Challenger 300,CL30,20110,L2J,,,2022-10-31,2006-01-01
+a7f063,N610SW,Bombardier,Challenger 300,CL30,9733,L2J,,,2023-04-30,2016-01-01
 a7f289,N611AV,Bombardier,Challenger 350,CL35,20693,L2J,,,2023-09-30,2017-01-01
 a7f3ae,N611NN,Bombardier,CRJ-900,CRJ9,15460,L2J,AAL,,2022-12-31,2019-01-01
 a7f3e9,N611QX,Bombardier,CRJ-700,CRJ7,10041,L2J,ASQ,,,
@@ -1931,6 +1955,7 @@ a97e68,N7100C,Bombardier,Challenger 300,CL30,20254,L2J,,,2021-08-31,2009-01-01
 a980da,N711MC,Bombardier,Global Express,GLEX,9121,L2J,,,2023-03-31,2002-01-01
 a980fa,N711NK,Bombardier,Challenger 300,CL30,20289,L2J,,,2022-12-31,2010-01-01
 a9816a,N711SX,Bombardier,Global Express,GLEX,9125,L2J,,,2021-09-30,2003-01-01
+a981c4,N711WM,Bombardier,Global Express,GLEX,9785,L2J,,,2023-12-31,2017-01-01
 a981c9,N711WS,Bombardier,CRJ-200,CRJ2,7140,L2J,,,2022-08-31,1996-01-01
 a9839c,N712BH,Bombardier,Challenger 300,CL30,20133,L2J,,,2023-04-30,2006-01-01
 a983f3,N712EV,Bombardier,CRJ-700,CRJ7,10074,L2J,ASQ,,2022-02-28,2002-01-01
@@ -1968,6 +1993,7 @@ a9ab4e,N722DJ,Bombardier,Challenger 600,CL60,1029,L2J,,,2022-03-31,1982-01-01
 a9ab72,N722EV,Bombardier,CRJ-700,CRJ7,10127,L2J,ASQ,,2021-07-31,2003-01-01
 a9aeb3,N723AB,Bombardier,Global 5000,GL5T,9207,L2J,,,2023-03-31,2006-01-01
 a9af29,N723EV,Bombardier,CRJ-700,CRJ7,10132,L2J,ASQ,,2021-11-30,2004-01-01
+a9af4f,N723GH,Bombardier,Challenger 601-3A,CL60,5086,L2J,,,2022-08-31,1991-01-01
 a9af68,N723HH,Bombardier,Global 5000,GL5T,9508,L2J,,,,
 a9af85,N723JM,Bombardier,Challenger 300,CL30,20418,L2J,,,2022-11-30,2013-01-01
 a9afc7,N723MC,Bombardier,Challenger 300,CL30,20123,L2J,,,,
@@ -2023,6 +2049,7 @@ aa10ba,N748EV,Bombardier,CRJ-700,CRJ7,10158,L2J,ASQ,,2021-12-31,2004-01-01
 aa11dc,N748SK,Bombardier,CRJ-700,CRJ7,10203,L2J,SKW,,2021-04-30,2005-01-01
 aa140d,N749AV,Bombardier,CRJ-200,CRJ2,7378,L2J,,,2023-04-30,
 aa1a81,N750EV,Bombardier,CRJ-700,CRJ7,10161,L2J,ASQ,,2021-11-30,2004-01-01
+aa1ab5,N750GX,Bombardier,Global Express,GLEX,70006,L2J,,,2022-07-31,2018-01-01
 aa1ba3,N750SK,Bombardier,CRJ-700,CRJ7,10207,L2J,SKW,,2021-04-30,2005-01-01
 aa1f5a,N751SK,Bombardier,CRJ-700,CRJ7,10208,L2J,SKW,,2021-04-30,2005-01-01
 aa21ef,N752EV,Bombardier,CRJ-700,CRJ7,10166,L2J,ASQ,,2021-12-31,
@@ -2293,6 +2320,7 @@ abcf1a,N860CS,Bombardier,Challenger 300,CL30,20307,L2J,,,,
 abcfa8,N860JJ,Bombardier,CRJ-200,CRJ2,7471,L2J,,,2021-11-30,2001-01-01
 abd1be,N8604C,Bombardier,CRJ-200,CRJ2,7604,L2J,,,2022-04-30,2002-01-01
 abd29f,N861AS,Bombardier,CRJ-200,CRJ2,7445,L2J,ASQ,,2020-12-31,2000-01-01
+abd32f,N861GL,Bombardier,Global Express,GLEX,9861,L2J,NPT,,2023-05-31,2019-01-01
 abd419,N861RV,Bombardier,Challenger 300,CL30,20037,L2J,,,,
 abd50a,N8611A,Bombardier,CRJ-200,CRJ2,7611,L2J,,,2022-04-30,2002-01-01
 abd656,N862AS,Bombardier,CRJ-200ER,CRJ2,7476,L2J,SKW,,,
@@ -2482,6 +2510,7 @@ ac9240,N909SW,Bombardier,CRJ-200,CRJ2,7558,L2J,SKW,,2021-07-31,2001-01-01
 ac92b1,N909XJ,Bombardier,CRJ-900,CRJ9,15141,L2J,DAL,,2022-05-31,2007-01-01
 ac94b7,N91EA,Bombardier,CRJ-200,CRJ2,7705,L2J,,,2022-11-30,2002-01-01
 ac94e5,N91FX,Bombardier,Global Express,GLEX,9054,L2J,,,2021-11-30,2000-01-01
+ac950b,N91HK,Bombardier,Challenger 300,CL30,20375,L2J,,,,
 ac96e8,N910CL,Bombardier,Challenger 300,CL30,20099,L2J,,,2021-03-31,2006-01-01
 ac9723,N910EV,Bombardier,CRJ-200,CRJ2,7727,L2J,SKW,,2021-12-31,2002-01-01
 ac9731,N910FJ,Bombardier,CRJ-900,CRJ9,15010,L2J,ASH,,2021-07-31,2003-01-01
@@ -2638,6 +2667,7 @@ ad447d,N954L,Bombardier,Global 5000,GL5T,9382,L2J,,,2023-04-30,2010-01-01
 ad448d,N954LR,Bombardier,CRJ-900,CRJ9,15375,L2J,ASH,,2021-09-30,2015-01-01
 ad4528,N954SW,Bombardier,CRJ-200,CRJ2,7815,L2J,SKW,,2022-01-31,2003-01-01
 ad47e9,N955H,Bombardier,Challenger 300,CL30,20109,L2J,,,2022-12-31,2006-01-01
+ad4809,N955JG,Bombardier,Challenger 605,CL60,5955,L2J,,,2023-12-31,
 ad4844,N955LR,Bombardier,CRJ-900,CRJ9,15376,L2J,ASH,,2021-08-31,2015-01-01
 ad48df,N955SW,Bombardier,CRJ-200,CRJ2,7817,L2J,SKW,,2022-01-31,2003-01-01
 ad4bfb,N956LR,Bombardier,CRJ-900,CRJ9,15056,L2J,ASH,,2021-08-31,2005-01-01
@@ -2755,6 +2785,7 @@ c0214e,C-FMPX,Bombardier,Global 5000,GL5T,9513,L2J,,2013-06-18,,
 c021ce,C-FMUV,Bombardier,CRJ-100,CRJ1,7073,L2J,,2008-11-04,,
 c0224d,C-FMZS,Bombardier,Global 6000,GLEX,9756,L2J,BFO,,,
 c02358,C-FNJZ,Bombardier,CRJ-900,CRJ9,15046,L2J,JZA,2011-01-26,,
+c025fc,C-FOJZ,Bombardier,CRJ-900,CRJ9,15098,L2J,JZA,2019-08-15,,2006-01-01
 c02db5,C-FRIA,Bombardier,CRJ-100,CRJ1,7045,L2J,,2012-12-06,,
 c02db8,C-FRID,Bombardier,CRJ-100,CRJ1,7049,L2J,,2013-04-11,,
 c02dc0,C-FRIL,Bombardier,CRJ-100,CRJ1,7051,L2J,,2006-03-22,2007-07-18,
@@ -2863,6 +2894,7 @@ c07440,C-GSAP,Bombardier,Global Express,GLEX,9038,L2J,,2009-06-23,,
 c07525,C-GSJK,Bombardier,Challenger 300,CL30,20433,L2J,HRT,2014-01-08,,
 c0755a,C-GSLL,Bombardier,CRJ-100,CRJ1,8103,L2J,,2015-11-13,,
 c07646,C-GSUN,Bombardier,Challenger 300,CL30,20364,L2J,,2012-10-18,,
+c077a9,C-GTIE,Bombardier,Global 5000,GL5T,9879,L2J,BBA,,,
 c077bf,C-GTJA,Bombardier,CRJ-200,CRJ2,7966,L2J,,2015-05-25,,
 c079cb,C-GUDE,Bombardier,CRJ-100,CRJ1,8113,L2J,,2017-11-28,,
 c07a27,C-GUGS,Bombardier,Challenger 350,CL35,20773,L2J,BFO,2014-04-22,2019-04-22,
