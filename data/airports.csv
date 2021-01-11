@@ -840,7 +840,7 @@ EDCV,,Flugplatz Pasewalk,small,53.50556,13.94833,82,EDWW,EU,DE,1,0
 EDCW,,Wismar Airport,small,53.91444,11.49944,20,EDWW,EU,DE,1,0
 EDCX,,Purkshof Airport,small,54.16083,12.24861,66,EDWW,EU,DE,1,0
 EDCY,,Spremberg-Welzow Airport,small,51.577,14.137,384,EDMM,EU,DE,1,0
-EDDB,SXF,Berlin-Schönefeld Airport,large,52.36225,13.50067,138,EDWW,EU,DE,1,1
+EDDB,BER,Berlin-Brandenburg Airport,large,52.36667,13.50333,138,EDWW,EU,DE,1,1
 EDDC,DRS,Dresden Airport,large,51.13434,13.768,689,EDMM,EU,DE,1,1
 EDDE,ERF,Erfurt Airport,medium,50.97981,10.95811,1020,EDMM,EU,DE,1,1
 EDDF,FRA,Frankfurt am Main Airport,large,50.03331,8.57046,341,EDGG,EU,DE,1,1

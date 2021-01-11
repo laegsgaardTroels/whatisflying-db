@@ -1,5 +1,20 @@
 # Changelog for version 2.x
 
+**Version 2.0.1**
+
+- Add 40 Airbus aircraft.
+- Add 3 ATR aircraft.
+- Add 205 Boeing aircraft.
+- Add 32 Bombardier aircraft.
+- Add 500 Embraer aircraft.
+- Add 209 Fairchild aircraft.
+- Add 237 General Dynamics aircraft.
+- Add 433 Grumman American aircraft.
+- Add 338 aircraft pictures.
+- Add 8 airlines.
+- Replace the old Berlin-Schönefeld (EDDB/SXF) airport with the new Berlin-Brandenburg (EDDB/BER) airport.
+- Fix the aircraft type E50P name.
+
 **Version 2.0.0**
 
 - Fix ICAO aircraft type code for AgustaWestland AW119 family aircraft.
