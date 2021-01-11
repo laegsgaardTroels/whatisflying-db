@@ -10,7 +10,7 @@ This repository contains the database for [https://whatisflying.com](https://wha
 
 ## Statistics
 
-- 41,300 aircraft, 6,700 with a picture. 
+- 42,900 aircraft, 7,000 with a picture.
 - 590 aircraft types, 490 with a picture.
 - 190 aircraft models.
 - 2,000 airlines, 800 with a picture, 300 with a logo.
@@ -289,7 +289,7 @@ This file contains informations on fixes / waypoints. The structure of this file
 
 ¹ A globally unique combination of the identifier, region and airport.
 
-² Can take one of the following values: *ENROUTE* (En-route navigation) or *TERMINAL* (Approach). 
+² Can take one of the following values: *ENROUTE* (En-route navigation) or *TERMINAL* (Approach).
 
 ------
 
