@@ -1,5 +1,12 @@
 # Changelog for version 2.x
 
+**Version 2.0.2**
+
+- Add 6174 Beechcraft aircraft.
+- Add 4 Nextant Aerospace aircraft.
+- Add Nextant Aerospace 400XT (BE4W) aircraft type.
+- Fix 5 Beechcraft aircraft types names.
+
 **Version 2.0.1**
 
 - Add 40 Airbus aircraft.
