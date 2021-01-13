@@ -301,7 +301,7 @@ CRJ2,CR2,Bombardier,CRJ-200,L2J,M,41000,,140,424,460,2.69,2.69,6.22,26.77,48.35,
 CRJ7,CR7,Bombardier,CRJ-700,L2J,M,41000,,135,447,473,2.70,2.70,7.60,32.30,70.60,23.20,,,10989,1378,30391,33113,32999,28260,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima673
 CRJ9,CR9,Bombardier,CRJ-900,L2J,M,41000,,,447,470,2.70,2.70,7.50,36.20,71.10,24.90,,,10989,1553,33339,36628,36514,31751,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima673
 CRJX,CRK,Bombardier,CRJ-1000,L2J,M,41000,,,447,470,2.70,2.70,7.50,39.10,74.40,26.20,,,11117,1622,36968,41050,40823,35153,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima673
-CRUZ,,CZAW,SportCruiser,L1P,L,,,,,,,,,,,,,,,,,,,,
+CRUZ,,Czech Sport Aircraft,SportCruiser,L1P,L,,,,,,,,,,,,,,,,,,,,
 CUB2,,Aces High,Cuby 2,L1P,L,,,,,86,,,1.77,5.56,15.00,10.21,,,,124,,,,,
 D11,,Jodel,D-11,L1P,L,,,,,,,,,,,,,,,,,,,,
 DC10,D10,McDonnell Douglas,DC-10,L3J,H,,,138,,,,,,,,,,,,,,,,,
