@@ -1,0 +1,198 @@
+icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
+30057d,I-MELI,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0488,L1P,,,,
+3862fb,F-PATT,Czech Sport Aircraft,SportCruiser,CRUZ,700715,L1P,,,,
+386fdb,F-PELA,Czech Sport Aircraft,SportCruiser,CRUZ,700921,L1P,,,,
+3989f9,F-HCPZ,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0489,L1P,,,,
+399240,F-HESA,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,P1102024,L1P,,,,
+3994c0,F-HFGA,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0547,L1P,,,,
+3994c1,F-HFGB,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0548,L1P,,,,
+39adc2,F-HLOC,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0485,L1P,,,,
+39ade8,F-HLPI,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0552,L1P,,,,
+39b571,F-HNLR,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0435,L1P,,,,
+39c800,F-HSAA,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0502,L1P,,,,
+39c801,F-HSAB,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0504,L1P,,,,
+39c802,F-HSAC,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0531,L1P,,,,
+39c804,F-HSAE,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0520,L1P,,,,
+39c80f,F-HSAP,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0417,L1P,,,,
+39d00f,F-HUAP,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0518,L1P,,,,
+39d113,F-HUIT,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0409,L1P,,,,
+39d5f2,F-HVPS,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0478,L1P,,,,
+39dc0c,F-HXAM,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0443,L1P,,,,
+39e443,F-HZCD,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0589,L1P,,,,
+39e444,F-HZCE,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0590,L1P,,,,
+3d12be,D-EFIS,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0412,L1P,,,,
+3d12f2,D-EFKS,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0498,L1P,,,,
+3d13a4,D-EFRO,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0452,L1P,,,,
+3d1f99,D-EKFH,Czech Sport Aircraft,SportCruiser,CRUZ,P1102009,L1P,,,,
+3d25aa,D-EMNA,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0459,L1P,,,,
+3d2e2d,D-EPSV,Czech Sport Aircraft,SportCruiser,CRUZ,P1001017,L1P,,,,
+3d3507,D-ESIH,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0447,L1P,,,,
+3d3873,D-ETPZ,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0322,L1P,,,,
+3d46ac,D-EZAA,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0455,L1P,,,,
+405022,G-CZAW,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14542,L1P,,2016-01-11,,2006-01-01
+405257,G-SASI,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14651,L1P,,2014-01-28,,2009-01-01
+405281,G-CESZ,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14652,L1P,,2017-06-13,,2007-01-01
+4052b9,G-SCRZ,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14684,L1P,,2016-05-25,,2008-01-01
+4052cf,G-VIIZ,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14672,L1P,,2007-09-04,,2007-01-01
+405301,G-MUTT,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14667,L1P,,2017-02-09,,2007-01-01
+40530b,G-FELX,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14661,L1P,,2007-09-17,,2007-01-01
+4055ec,G-CRWZ,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14648,L1P,,2008-04-23,,2009-01-01
+4057b3,G-ZECH,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14685,L1P,,2016-06-24,,2009-01-01
+4057df,G-OCRZ,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14668,L1P,,2008-03-03,,2008-01-01
+405804,G-XERO,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14658,L1P,,2008-05-15,,2009-01-01
+40582f,G-KRUZ,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14765,L1P,,2008-05-22,,2010-01-01
+4058c0,G-ENST,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14769,L1P,,2012-04-04,,2009-01-01
+4058c7,G-ZAAP,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14663,L1P,,2011-02-28,,2008-01-01
+405948,G-EDDS,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14660,L1P,,2013-06-17,,2010-01-01
+405981,G-CFEZ,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14675,L1P,,2008-02-14,,2008-01-01
+405a6d,G-CSAW,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14649,L1P,,2008-03-11,,2008-01-01
+405a83,G-STVT,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14676,L1P,,2008-03-14,,2010-01-01
+405ae5,G-TUGI,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14786,L1P,,2008-03-28,,2008-01-01
+405b19,G-MOOV,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14666,L1P,,2008-05-27,,2008-01-01
+405b26,G-DADZ,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14792,L1P,,2014-10-14,,2009-01-01
+405b78,G-CRZA,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14657,L1P,,2015-07-28,,2009-01-01
+405b9e,G-MRDS,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14665,L1P,,2011-06-23,,2008-01-01
+405be9,G-CRUI,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14723,L1P,,2008-05-01,,2008-01-01
+405bff,G-SCZR,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14647,L1P,,2017-07-31,,2008-01-01
+405c3b,G-JAYZ,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14670,L1P,,2008-05-16,,2011-01-01
+405ce2,G-CZSC,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14814,L1P,,2011-07-20,,2009-01-01
+405d44,G-CFLG,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14771,L1P,,2016-10-17,,2008-01-01
+405d4d,G-MESH,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14823,L1P,,2008-07-21,,2009-01-01
+405d59,G-CFKB,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14766,L1P,,2012-04-10,,2008-01-01
+405d69,G-CFIU,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14822,L1P,,2008-07-04,,2008-01-01
+405e56,G-IBUZ,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14835,L1P,,2010-11-22,,2010-01-01
+405e62,G-CRAR,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14841,L1P,,2009-07-30,,2009-01-01
+405eaf,G-RRAT,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14821,L1P,,2008-09-22,,2009-01-01
+405eb5,G-SPCZ,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14842,L1P,,2008-09-22,,2012-01-01
+405edf,G-SCSC,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14852,L1P,,2017-07-14,,2009-01-01
+405eee,G-CFNV,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14844,L1P,,2011-11-16,,2009-01-01
+405f05,G-SCCZ,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14845,L1P,,2015-02-25,,2010-01-01
+405f1b,G-DOIG,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14859,L1P,,2016-09-21,,2010-01-01
+405f1e,G-CFPJ,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14858,L1P,,2008-10-31,,2009-01-01
+405f38,G-TEZZ,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14863,L1P,,2017-09-27,,2009-01-01
+405f45,G-CFOV,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14832,L1P,,2008-11-18,,2008-01-01
+405f47,G-CFPA,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14869,L1P,,2011-10-18,,2008-01-01
+405f61,G-MELL,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14866,L1P,,2008-12-01,,2010-01-01
+405f6f,G-SCPI,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14855,L1P,,2015-03-12,,2008-01-01
+405f76,G-CFUZ,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14664,L1P,,2017-09-15,,2009-01-01
+405fa1,G-WWZZ,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14877,L1P,,2010-09-17,,2009-01-01
+405fb1,G-MISJ,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14862,L1P,,2013-12-16,,2010-01-01
+406024,G-CGCH,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14650,L1P,,2009-03-05,,2009-01-01
+40602c,G-SWYM,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14893,L1P,,2009-03-10,,2009-01-01
+40602f,G-WOOO,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14840,L1P,,2012-06-19,,2010-01-01
+406078,G-CFXN,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14903,L1P,,2017-07-11,,2010-01-01
+406150,G-CGDV,Czech Sport Aircraft,SportCruiser,CRUZ,09SC285,L1P,,2012-09-20,,2009-01-01
+406151,G-CGDW,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0272,L1P,,2009-08-17,,2009-01-01
+406178,G-JONL,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14889,L1P,,2009-07-23,,2010-01-01
+40617b,G-CGEO,Czech Sport Aircraft,SportCruiser,CRUZ,09SC303,L1P,,2009-09-14,,2009-01-01
+4061a0,G-JHDD,Czech Sport Aircraft,SportCruiser,CRUZ,09SC294,L1P,,2015-04-21,,2009-01-01
+4061ac,G-KJBS,Czech Sport Aircraft,SportCruiser,CRUZ,09SC308,L1P,,2009-11-03,,2009-01-01
+40620d,G-HMPS,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14873,L1P,,2009-10-14,,2010-01-01
+406215,G-OFSP,Czech Sport Aircraft,SportCruiser,CRUZ,09SC302,L1P,,2016-03-11,,2009-01-01
+40623a,G-PBAT,Czech Sport Aircraft,SportCruiser,CRUZ,09SC296,L1P,,2010-03-22,,2009-01-01
+40623f,G-CGJT,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14911,L1P,,2009-11-10,,2009-01-01
+406280,G-CGLR,Czech Sport Aircraft,SportCruiser,CRUZ,09SC324,L1P,,2010-06-04,,2010-01-01
+406287,G-HAYY,Czech Sport Aircraft,SportCruiser,CRUZ,09SC326,L1P,,2010-05-10,,2010-01-01
+406289,G-ISCD,Czech Sport Aircraft,SportCruiser,CRUZ,10SC297,L1P,,2010-05-10,,2010-01-01
+406292,G-CGIL,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14856,L1P,,2010-09-23,,2010-01-01
+406295,G-EMSA,Czech Sport Aircraft,SportCruiser,CRUZ,09SC323,L1P,,2010-05-11,,2010-01-01
+4062ba,G-CKSC,Czech Sport Aircraft,SportCruiser,CRUZ,09SC327,L1P,,2013-07-19,,2010-01-01
+4062d1,G-KUIP,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14956,L1P,,2010-01-25,,2011-01-01
+4062d6,G-CGJL,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14686,L1P,,2015-11-06,,2010-01-01
+4062dc,G-CGJS,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14962,L1P,,2010-01-29,,2011-01-01
+4062f3,G-CGMP,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14948,L1P,,2013-05-14,,2010-01-01
+406304,G-CGLT,Czech Sport Aircraft,SportCruiser,CRUZ,09SC329,L1P,,2015-12-07,,2010-01-01
+406307,G-CGLC,Czech Sport Aircraft,SportCruiser,CRUZ,09SC322,L1P,,2016-04-12,,2010-01-01
+40630a,G-MOGS,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14728,L1P,,2010-02-24,,2011-01-01
+406333,G-DGSC,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14979,L1P,,2017-08-31,,2011-01-01
+406346,G-CGLP,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14846,L1P,,2011-03-09,,2010-01-01
+40634a,G-CGMM,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14934,L1P,,2010-04-07,,2011-01-01
+406361,G-DVOY,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14976,L1P,,2017-01-26,,2010-01-01
+406384,G-CGNG,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14659,L1P,,2014-09-25,,2012-01-01
+406391,G-LHER,Czech Sport Aircraft,SportCruiser,CRUZ,P1001042,L1P,,2010-07-15,,2010-01-01
+406393,G-PALI,Czech Sport Aircraft,SportCruiser,CRUZ,P1001040,L1P,,2010-07-01,,2010-01-01
+406398,G-MRVK,Czech Sport Aircraft,SportCruiser,CRUZ,P1001041,L1P,,2010-08-09,,2010-01-01
+4063b0,G-CGPR,Czech Sport Aircraft,SportCruiser,CRUZ,P1001043,L1P,,2011-06-06,,2010-01-01
+406410,G-EZZE,Czech Sport Aircraft,SportCruiser,CRUZ,PFA 338-14687,L1P,,2014-10-07,,2011-01-01
+4065bd,G-CGWH,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14826,L1P,,2017-07-11,,2011-01-01
+406663,G-CRSR,Czech Sport Aircraft,SportCruiser,CRUZ,P1102001,L1P,,2011-10-07,,2011-01-01
+406937,G-CIAX,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-15125,L1P,,2013-09-26,,2013-01-01
+406986,G-CHXG,Czech Sport Aircraft,SportCruiser,CRUZ,LAA 338-14884,L1P,,2013-03-28,,2017-01-01
+4069fa,G-CRZR,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0448,L1P,,2015-06-19,,2012-01-01
+406acc,G-XARA,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0500,L1P,,2014-01-17,,2013-01-01
+406b5f,G-DTFT,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0506,L1P,,2017-02-05,,2014-01-01
+406b67,G-TIPY,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0516,L1P,,2014-06-25,,2014-01-01
+406b71,G-EGLK,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0511,L1P,,2016-01-06,,2014-01-01
+406bb7,G-CJHB,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0509,L1P,,2014-05-28,,2014-01-01
+406bc7,G-CSHB,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0445,L1P,,2017-06-21,,2012-01-01
+406ddf,G-OOPY,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0519,L1P,,2016-05-06,,2015-01-01
+407468,G-NJCZ,Czech Sport Aircraft,SportCruiser,CRUZ,P1001087,L1P,,2017-10-04,,2010-01-01
+44075d,OE-CRU,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0508,L1P,,,,
+44ac65,OO-KCE,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0449,L1P,,,,
+44cc61,OO-SCA,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0450,L1P,,,,
+44cc62,OO-SCB,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0451,L1P,,,,
+44cc63,OO-SCC,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0433,L1P,,,,
+48461f,PH-NAM,Czech Sport Aircraft,SportCruiser,CRUZ,07SC047,L1P,,,,
+4849b0,PH-KOX,Czech Sport Aircraft,SportCruiser,CRUZ,08SC104,L1P,,,,
+484a3d,PH-POJ,Czech Sport Aircraft,SportCruiser,CRUZ,06SC017,L1P,,,,
+484a76,PH-URS,Czech Sport Aircraft,SportCruiser,CRUZ,08SC121,L1P,,,,
+484a77,PH-DAN,Czech Sport Aircraft,SportCruiser,CRUZ,08SC149,L1P,,,,
+484ab7,PH-NNN,Czech Sport Aircraft,SportCruiser,CRUZ,08SC159,L1P,,,,
+484ac7,PH-REP,Czech Sport Aircraft,SportCruiser,CRUZ,08SC172,L1P,,,,
+484b0d,PH-XMR,Czech Sport Aircraft,SportCruiser,CRUZ,08SC195,L1P,,,,
+484b2b,PH-VVV,Czech Sport Aircraft,SportCruiser,CRUZ,08SC179,L1P,,,,
+484b2e,PH-BEM,Czech Sport Aircraft,SportCruiser,CRUZ,08SC215,L1P,,,,
+484bb3,PH-MAN,Czech Sport Aircraft,SportCruiser,CRUZ,09SC252,L1P,,,,
+484bc1,PH-ISF,Czech Sport Aircraft,SportCruiser,CRUZ,09SC254,L1P,,,,
+484cce,PH-LSA,Czech Sport Aircraft,SportCruiser,CRUZ,09SC270QB,L1P,,,,
+484ed9,PH-PJO,Czech Sport Aircraft,SportCruiser,CRUZ,P1001033,L1P,,,,
+484fa3,PH-ARI,Czech Sport Aircraft,SportCruiser,CRUZ,P1102010,L1P,,,,
+484faf,PH-KMJ,Czech Sport Aircraft,SportCruiser,CRUZ,P1102011,L1P,,,,
+48501f,PH-VER,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0423,L1P,,,,
+485037,PH-NEW,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0444,L1P,,,,
+485053,PH-NOS,Czech Sport Aircraft,SportCruiser,CRUZ,C0493,L1P,,,,
+485062,PH-VTA,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0487,L1P,,,,
+4850f0,PH-NBA,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0513,L1P,,,,
+4850f1,PH-ZLV,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0514,L1P,,,,
+489822,SP-GBC,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0507,L1P,,,,
+489830,SP-GBR,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0533,L1P,,,,
+489831,SP-GBS,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0546,L1P,,,,
+49560c,CS-UPL,Czech Sport Aircraft,SportCruiser,CRUZ,06SC041,L1P,,,,
+49560e,CS-UPN,Czech Sport Aircraft,SportCruiser,CRUZ,07SC024,L1P,,,,
+495611,CS-UPQ,Czech Sport Aircraft,SportCruiser,CRUZ,07SC070,L1P,,,,
+495617,CS-UPW,Czech Sport Aircraft,SportCruiser,CRUZ,07SC052,L1P,,,,
+495621,CS-UQA,Czech Sport Aircraft,SportCruiser,CRUZ,07SC077,L1P,,,,
+495623,CS-UQC,Czech Sport Aircraft,SportCruiser,CRUZ,07SC060,L1P,,,,
+495625,CS-UQE,Czech Sport Aircraft,SportCruiser,CRUZ,07SC069,L1P,,,,
+495626,CS-UQF,Czech Sport Aircraft,SportCruiser,CRUZ,07SC085,L1P,,,,
+49564c,CS-URL,Czech Sport Aircraft,SportCruiser,CRUZ,09SC287,L1P,,,,
+495656,CS-URV,Czech Sport Aircraft,SportCruiser,CRUZ,09SC166,L1P,,,,
+495665,CS-USE,Czech Sport Aircraft,SportCruiser,CRUZ,09SC165,L1P,,,,
+495681,CS-UTA,Czech Sport Aircraft,SportCruiser,CRUZ,09SC311,L1P,,,,
+49cc64,OK-SCD,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0476,L1P,,,,
+49d0a8,OK-SCA,Czech Sport Aircraft,SportCruiser,CRUZ,P1102003,L1P,,,,
+49d18a,OK-NIC,Czech Sport Aircraft,SportCruiser,CRUZ,09SC305,L1P,,,,
+4ae34c,SE-XZL,Czech Sport Aircraft,SportCruiser,CRUZ,700946-1421,L1P,,,,
+4b3c6e,HB-WXA,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0438,L1P,,,,
+4b3c6f,HB-WXB,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0458,L1P,,,,
+4b3c8a,HB-WYC,Czech Sport Aircraft,SportCruiser,CRUZ,09SC298,L1P,,2010-04-28,,2009-01-01
+4b3c96,HB-WYO,Czech Sport Aircraft,SportCruiser,CRUZ,P1007087,L1P,,,,
+4b3c97,HB-WYP,Czech Sport Aircraft,SportCruiser,CRUZ,P1102005,L1P,,,,
+4b40bd,HB-YNL,Czech Sport Aircraft,SportCruiser,CRUZ,08SC122QB,L1P,,2010-07-30,,2010-01-01
+4b40be,HB-YNM,Czech Sport Aircraft,SportCruiser,CRUZ,08SC180QB,L1P,,,,
+4ca74f,EI-EDJ,Czech Sport Aircraft,SportCruiser,CRUZ,700796,L1P,,2009-12-21,,2008-01-01
+4ca7f8,EI-EHV,Czech Sport Aircraft,SportCruiser,CRUZ,OC4092,L1P,,2009-10-09,,2009-01-01
+4ca876,EI-GCJ,Czech Sport Aircraft,SportCruiser,CRUZ,09SC321,L1P,,,,
+4ca87b,EI-EMV,Czech Sport Aircraft,SportCruiser,CRUZ,07sc053,L1P,,2010-04-28,,2007-01-01
+505d32,OM-TRI,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0475,L1P,,,,
+505e58,OM-ARX,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,P1102040,L1P,,,,
+505eef,OM-TWO,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0472,L1P,,,,
+505f43,OM-M771,Czech Sport Aircraft,SportCruiser,CRUZ,P1001025,L1P,,,,
+505f44,OM-M772,Czech Sport Aircraft,SportCruiser,CRUZ,10SC292,L1P,,,,
+505f4d,OM-M119,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,P1102017,L1P,,,,
+505f4f,OM-M206,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,P1102006,L1P,,,,
+505f76,OM-M396,Czech Sport Aircraft,SportCruiser,CRUZ,08SC134,L1P,,,,
+506de7,S5-DMN,Czech Sport Aircraft,PS-28 Cruiser,CRUZ,C0461,L1P,,,,
+506ec7,S5-MMI,Czech Sport Aircraft,SportCruiser,CRUZ,08SC173,L1P,,,,
+a0a686,N141BF,Czech Sport Aircraft,SportCruiser,CRUZ,C0625,L1P,,,2022-02-28,2018-01-01
+ad8b47,N972CB,Czech Sport Aircraft,SportCruiser,CRUZ,P1001015,L1P,,2019-07-15,2022-07-31,2010-01-01
