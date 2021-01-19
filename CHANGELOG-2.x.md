@@ -1,5 +1,12 @@
 # Changelog for version 2.x
 
+**Version 2.0.3**
+
+- Add 6141 Cessna aircraft.
+- Add 197 Czech Sport Aircraft aircraft.
+- Fix aircraft type CRUZ manufacturer name.
+- Fix aircraft type T50 name.
+
 **Version 2.0.2**
 
 - Add 6174 Beechcraft aircraft.
