@@ -116,7 +116,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 383473,F-BNDT,Reims Aviation,F172G Skyhawk,C172,0198,L1P,,,,
 3834a5,F-BNFF,Reims Aviation,F150F,C150,0001,L1P,,,,
 3834aa,F-BNFK,Cessna,182J Skylane,C182,18256783,L1P,,,,
-383562,F-BNLC,,185B Skywagon,C185,18500533,L1P,,,,
+383562,F-BNLC,Cessna,185B Skywagon,C185,18500533,L1P,,,,
 383586,F-BNMG,Cessna,172C Skyhawk,C172,17249164,L1P,,,,
 383664,F-BNTE,Reims Aviation,F172G Skyhawk,C172,0229,L1P,,,,
 3838c0,F-BOGA,Reims Aviation,F150G,C150,0092,L1P,,,,
@@ -153,7 +153,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 38442d,F-BRBN,Reims Aviation,F150J,C150,0520,L1P,,,,
 384431,F-BRBR,Reims Aviation,F172H Skyhawk,C172,0617,L1P,,,,
 384435,F-BRBV,Reims Aviation,F172H Skyhawk,C172,0682,L1P,,,,
-3844e7,F-BRHH,,185C Skywagon,C185,18500660,L1P,,,,
+3844e7,F-BRHH,Cessna,185C Skywagon,C185,18500660,L1P,,,,
 384512,F-BRIS,Cessna,182M Skylane,C182,18259675,L1P,,,,
 3845f2,F-BRPS,Reims Aviation,FR172F Reims Rocket,C172,0083,L1P,,,,
 384646,F-BRSG,Cessna,182N Skylane,C182,18260154,L1P,,,,
@@ -182,7 +182,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 384913,F-BSIT,Reims Aviation,F150K,C150,0654,L1P,,,,
 384914,F-BSIU,Reims Aviation,F150K,C150,0655,L1P,,,,
 384917,F-BSIX,Reims Aviation,F150K,C150,0657,L1P,,,,
-384a30,F-BSRQ,,185 Skywagon,C185,18500106,L1P,,,,
+384a30,F-BSRQ,Cessna,185 Skywagon,C185,18500106,L1P,,,,
 384a95,F-BSUV,Cessna,182N Skylane,C182,18260463,L1P,,,,
 384c59,F-BTCZ,Cessna,182P Skylane,C182,18260951,L1P,,,,
 384c69,F-BTDJ,Cessna,182H Skylane,C182,18256367,L1P,,,,
@@ -281,7 +281,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 385514,F-BVIU,Reims Aviation,F150L,C150,1094,L1P,,,,
 385517,F-BVIX,Reims Aviation,F172M Skyhawk,C172,1239,L1P,,,,
 385519,F-BVIZ,Reims Aviation,F177 Cardinal RG,C77R,0110,L1P,,,,
-385534,F-BVJU,,185A Skywagon,C185,18500500,L1P,,,,
+385534,F-BVJU,Cessna,185A Skywagon,C185,18500500,L1P,,,,
 385640,F-BVSA,Reims Aviation,FR172J Reims Rocket,C172,0502,L1P,,,,
 385642,F-BVSC,Reims Aviation,FR172J Reims Rocket,C172,0506,L1P,,,,
 385643,F-BVSD,Reims Aviation,F150L,C150,1110,L1P,,,,
@@ -320,7 +320,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 385d18,F-BXIY,Reims Aviation,F172M Skyhawk,C172,1359,L1P,,,,
 385da0,F-BXNA,Reims Aviation,F150M,C150,1154,L1P,,,,
 385da1,F-BXNB,Reims Aviation,F177 Cardinal RG,C77R,0134,L1P,,,,
-385da3,F-BXND,,A185F Skywagon,C185,18502836,L1P,,,,
+385da3,F-BXND,Cessna,A185F Skywagon,C185,18502836,L1P,,,,
 385da4,F-BXNE,Reims Aviation,F177 Cardinal RG,C77R,0132,L1P,,,,
 385da6,F-BXNG,Reims Aviation,F150M,C150,1248,L1P,,,,
 385da7,F-BXNH,Reims Aviation,F150M,C150,1244,L1P,,,,
@@ -434,7 +434,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 390538,F-GBJY,Reims Aviation,F172 Skyhawk,C172,1778,L1P,,,,
 390539,F-GBJZ,Reims Aviation,F172 Skyhawk,C172,1779,L1P,,,,
 3905cc,F-GBOM,Reims Aviation,F172M Skyhawk,C172,1401,L1P,,,,
-3905ed,F-GBPN,,A185F Skywagon,C185,18503819,L1P,,,,
+3905ed,F-GBPN,Cessna,A185F Skywagon,C185,18503819,L1P,,,,
 390600,F-GBQA,Reims Aviation,F182Q Skylane,C182,0103,L1P,,,,
 390601,F-GBQB,Reims Aviation,F182Q Skylane,C182,0104,L1P,,,,
 390603,F-GBQD,Reims Aviation,F152,C152,1587,L1P,,,,
@@ -492,7 +492,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 390a4f,F-GCSP,Cessna,172RG Cutlass,C72R,172RG0563,L1P,,,,
 390a52,F-GCSS,Cessna,172RG Cutlass,C72R,172RG0434,L1P,,,,
 390a6a,F-GCTK,Cessna,172RG Cutlass,C72R,172RG0566,L1P,,,,
-390ab7,F-GCVX,,A185F Skywagon,C185,18503383,L1P,,,,
+390ab7,F-GCVX,Cessna,A185F Skywagon,C185,18503383,L1P,,,,
 390b0b,F-GCYL,Reims Aviation,F172P Skyhawk,C172,2086,L1P,,,,
 390b11,F-GCYR,Reims Aviation,F172P Skyhawk,C172,2104,L1P,,,,
 390b18,F-GCYY,Reims Aviation,F172P Skyhawk,C172,2066,L1P,,,,
@@ -583,7 +583,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 391855,F-GGCV,Cessna,172RG Cutlass,C72R,172RG1111,L1P,,,,
 391857,F-GGCX,Cessna,172RG Cutlass,C72R,172RG1134,L1P,,,,
 391859,F-GGCZ,Cessna,172RG Cutlass,C72R,172RG0708,L1P,,,,
-391864,F-GGDE,,A185F Skywagon,C185,18504075,L1P,,,,
+391864,F-GGDE,Cessna,A185F Skywagon,C185,18504075,L1P,,,,
 391a58,F-GGSY,Cessna,150M,C150,15078308,L1P,,,,
 391b29,F-GGZJ,Cessna,172N Skyhawk,C172,17269362,L1P,,,,
 391b2e,F-GGZO,Reims Aviation,F172 Skyhawk,C172,1997,L1P,,,,
@@ -623,7 +623,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 392327,F-GIZH,Cessna,172R Skyhawk,C172,17280427,L1P,,,,
 392328,F-GIZI,Cessna,172R Skyhawk,C172,17280435,L1P,,,,
 392411,F-GJAR,Cessna,172N Skyhawk,C172,17269835,L1P,,,,
-39242b,F-GJBL,,A185F Skywagon,C185,18504023,L1P,,,,
+39242b,F-GJBL,Cessna,A185F Skywagon,C185,18504023,L1P,,,,
 392446,F-GJCG,Cessna,R182 Skylane RG,C82R,R18200340,L1P,,,,
 39244d,F-GJCN,Cessna,152,C152,15283979,L1P,,,,
 39244e,F-GJCO,Cessna,152,C152,15281503,L1P,,,,
@@ -979,7 +979,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d096f,D-EBVB,Cessna,180H Skywagon,C180,18051589,L1P,,,,
 3d0977,D-EBVJ,Cessna,150F,C150,15063532,L1P,,,,
 3d097c,D-EBVO,Reims Aviation,F152,C152,1767,L1P,,,,
-3d0980,D-EBVS,,A185F Skywagon,C185,18503782,L1P,,,,
+3d0980,D-EBVS,Cessna,A185F Skywagon,C185,18503782,L1P,,,,
 3d09a2,D-EBXA,Reims Aviation,FR172E Reims Rocket,C172,0056,L1P,,,,
 3d09aa,D-EBXI,Reims Aviation,FR172E Reims Rocket,C172,0053,L1P,,,,
 3d09ae,D-EBXM,Reims Aviation,F172 Skyhawk,C172,1525,L1P,,,,
@@ -2465,7 +2465,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d38ce,D-ETTM,Cessna,182T Skylane,C182,18281922,L1P,,,,
 3d38d3,D-ETTR,Cessna,172R Skyhawk,C172,17281221,L1P,,,,
 3d38d4,D-ETTS,Cessna,172R Skyhawk,C172,17281220,L1P,,,,
-3d38d5,D-ETTT,,A185F Skywagon,C185,18504190,L1P,,,,
+3d38d5,D-ETTT,Cessna,A185F Skywagon,C185,18504190,L1P,,,,
 3d38d6,D-ETTU,Cessna,172S Skyhawk SP,C172,172S10081,L1P,,,,
 3d391f,D-ETWP,Cessna,172S Skyhawk SP,C172,172S9374,L1P,,,,
 3d3926,D-ETWW,Cessna,172N Skyhawk,C172,17270981,L1P,,,,
@@ -2601,7 +2601,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 400c1f,G-BGHJ,Reims Aviation,F172N Skyhawk,C172,1777,L1P,,2004-12-22,,1979-01-01
 400c73,G-EFBP,Reims Aviation,FR172K Reims Hawk XP,C172,0664,L1P,,2017-01-05,,1980-01-01
 400c80,G-ISHK,Cessna,172S Skyhawk SP,C172,172S9783,L1P,,,,
-400c81,G-BYBP,,A185F Skywagon,C185,18503804,L1P,,2001-11-29,,1979-01-01
+400c81,G-BYBP,Cessna,A185F Skywagon,C185,18503804,L1P,,2001-11-29,,1979-01-01
 400c87,G-FANL,Cessna,R172K Hawk XP,C172,R1722873,L1P,,1997-10-16,,1978-01-01
 400cca,G-BRDO,Cessna,177B Cardinal,C177,17702166,L1P,,2016-06-01,,1975-01-01
 400d4f,G-BSRR,Cessna,182Q Skylane,C182,18266915,L1P,,2002-08-08,,1979-01-01
@@ -2775,7 +2775,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4018aa,G-AYGC,Reims Aviation,F150K,C150,0556,L1P,,2013-10-16,,1970-01-01
 4018ae,G-AYGX,Reims Aviation,FR172G Reims Rocket,C172,0208,L1P,,2017-06-29,,1970-01-01
 4018bb,G-RKKT,Reims Aviation,FR172G Reims Rocket,C172,0225,L1P,,2009-01-15,,1970-01-01
-4018d8,G-AYNN,,185B Skywagon,C185,18500518,L1P,,2005-10-07,,1962-01-01
+4018d8,G-AYNN,Cessna,185B Skywagon,C185,18500518,L1P,,2005-10-07,,1962-01-01
 4018d9,G-AYOW,Cessna,182N Skylane,C182,18260481,L1P,,2016-06-17,,1971-01-01
 4018db,G-AYOZ,Reims Aviation,FA150L Aerobat,C150,0085,L1P,,2012-06-08,,1971-01-01
 4018dd,G-OAMP,Reims Aviation,F177 Cardinal RG,C77R,0006,L1P,,2013-04-11,,1971-01-01
@@ -2881,7 +2881,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 401bde,G-BDEX,Reims Aviation,FRA150M Aerobat,C150,0279,L1P,,2015-09-15,,1975-01-01
 401be3,G-DEND,Reims Aviation,F150M,C150,1201,L1P,,2015-10-26,,1975-01-01
 401bef,G-BDIG,Cessna,182P Skylane,C182,18263938,L1P,,2017-08-08,,1975-01-01
-401bf5,G-BDKC,,A185F Skywagon,C185,18502569,L1P,,2012-01-17,,1975-01-01
+401bf5,G-BDKC,Cessna,A185F Skywagon,C185,18502569,L1P,,2012-01-17,,1975-01-01
 401c05,G-BDNU,Reims Aviation,F172M Skyhawk,C172,1405,L1P,,1995-10-17,,1976-01-01
 401c08,G-BDOD,Reims Aviation,F150M,C150,1266,L1P,,2004-11-23,,1975-01-01
 401c11,G-BZZD,Reims Aviation,F172M Skyhawk,C172,1436,L1P,,2000-04-10,,1976-01-01
@@ -3057,7 +3057,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 402051,G-BKKN,Cessna,182R Skylane,C182,18267801,L1P,,1988-10-28,,1981-01-01
 402052,G-BKKO,Cessna,182R Skylane,C182,18267852,L1P,,2014-07-11,,1981-01-01
 402054,G-BKLO,Reims Aviation,F172M Skyhawk,C172,1380,L1P,STL,1989-01-10,,1975-01-01
-402065,G-BKPC,,A185F Skywagon,C185,18503809,L1P,,2014-09-16,,1979-01-01
+402065,G-BKPC,Cessna,A185F Skywagon,C185,18503809,L1P,,2014-09-16,,1979-01-01
 402095,G-PTTC,Reims Aviation,F152,C152,1940,L1P,,2017-05-09,,1983-01-01
 4020a4,G-BLAC,Reims Aviation,FA152 Aerobat,C152,0370,L1P,,2011-02-22,,1980-01-01
 4020ca,G-BLHJ,Reims Aviation,F172P Skyhawk,C172,2182,L1P,,2008-06-11,,1983-01-01
@@ -3065,7 +3065,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4020dc,G-MABE,Reims Aviation,F150L,C150,1119,L1P,,2016-09-08,,1974-01-01
 4020f3,G-BZVB,Reims Aviation,FR172H Reims Rocket,C172,0327,L1P,,2016-06-17,,1972-01-01
 4020f8,G-AYRG,Reims Aviation,F172K Skyhawk,C172,0761,L1P,,2007-05-12,,1971-01-01
-4020fc,G-BLOS,,185A Skywagon,C185,18500359,L1P,,2014-04-14,,1962-01-01
+4020fc,G-BLOS,Cessna,185A Skywagon,C185,18500359,L1P,,2014-04-14,,1962-01-01
 402103,G-BLPH,Reims Aviation,FRA150L Aerobat,C150,0239,L1P,,2008-09-12,,1974-01-01
 402145,G-BSPE,Reims Aviation,F172P Skyhawk,C172,2073,L1P,,2002-08-28,,1980-01-01
 402146,G-BTAL,Reims Aviation,F152,C152,1444,L1P,,2008-04-19,,1978-01-01
@@ -3079,7 +3079,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 40217c,G-CPFC,Reims Aviation,F152,C152,1430,L1P,,2009-01-06,,1977-01-01
 402182,G-CSBM,Reims Aviation,F150M,C150,1359,L1P,,2015-05-18,,1977-01-01
 402183,G-CSFC,Cessna,150L,C150,15075360,L1P,,2015-10-12,,1973-01-01
-402193,G-DCKK,Reims Aviation,F172N Skyhawk,C172 1743,L1P,,2014-06-18,,1978-01-01
+402193,G-DCKK,Reims Aviation,F172N Skyhawk,C172,1743,L1P,,2014-06-18,,1978-01-01
 40219b,G-DODD,Reims Aviation,F172P Skyhawk,C172,2175,L1P,,2015-08-24,,1982-01-01
 40219c,G-DOVE,Cessna,182Q Skylane,C182,18266724,L1P,,2016-02-18,,1979-01-01
 40219e,G-DUVL,Reims Aviation,F172N Skyhawk,C172,1723,L1P,,2006-04-27,,1978-01-01
@@ -3174,7 +3174,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 402823,G-ARMN,Cessna,175B Skylark,C175,17556994,L1P,,2015-09-09,,1961-01-01
 402825,G-ARFI,Cessna,150A,C150,15059100,L1P,,2011-05-10,,1960-01-01
 40282b,G-CSCS,Reims Aviation,F172N Skyhawk,C172,1707,L1P,,2017-08-24,,1978-01-01
-402846,G-RNRM,,A185F Skywagon,C185,18502541,L1P,,2000-07-06,,1974-01-01
+402846,G-RNRM,Cessna,A185F Skywagon,C185,18502541,L1P,,2000-07-06,,1974-01-01
 402848,G-BNCS,Cessna,180 Skywagon,C180,18030022,L1P,,1989-03-14,,1953-01-01
 402852,G-AJJS,Cessna,120,C120,13047,L1P,,2014-07-31,,1947-01-01
 402854,G-WACF,Cessna,152,C152,15284852,L1P,,2014-03-25,,1980-01-01
@@ -3394,7 +3394,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4039a1,G-BVUZ,Cessna,120,C120,11334,L1P,,2016-04-14,,1946-01-01
 403a91,G-BWEU,Reims Aviation,F152,C152,1894,L1P,EAX,2012-08-01,,1982-01-01
 403b88,G-BWMC,Cessna,182P Skylane,C182,18263117,L1P,,2015-08-07,,1974-01-01
-403ba6,G-BWWF,,185A Skywagon,C185,18500240,L1P,,2010-06-16,,1962-01-01
+403ba6,G-BWWF,Cessna,185A Skywagon,C185,18500240,L1P,,2010-06-16,,1962-01-01
 403bad,G-BWNB,Cessna,152,C152,15280051,L1P,,2009-05-20,,1978-01-01
 403bae,G-BWNC,Cessna,152,C152,15284415,L1P,,2009-05-20,,1980-01-01
 403baf,G-BWND,Cessna,152,C152,15285905,L1P,,2015-09-14,,1984-01-01
@@ -3543,7 +3543,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 40619a,G-EGLA,Cessna,172M Skyhawk,C172,17263391,L1P,,2017-02-23,,1974-01-01
 406243,G-LUEK,Cessna,182T Skylane,C182,18281740,L1P,,2015-08-25,,2005-01-01
 40626e,G-GKRC,Cessna,180K Skywagon,C180,18052799,L1P,,2010-01-12,,1976-01-01
-40629d,G-SAUO,,A185F Skywagon,C185,18502324,L1P,,2010-02-01,,1974-01-01
+40629d,G-SAUO,Cessna,A185F Skywagon,C185,18502324,L1P,,2010-02-01,,1974-01-01
 4062e5,G-LOOC,Cessna,172S Skyhawk,C172,172S11006,L1P,,2010-02-04,,2009-01-01
 4062e9,G-CGKY,Cessna,182T Skylane,C182,18282213,L1P,,2010-06-16,,2010-01-01
 40632c,G-DBOD,Cessna,172S Skyhawk,C172,172S10961,L1P,,2010-03-12,,2010-01-01
@@ -3878,7 +3878,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 44d872,OO-VCR,Cessna,152,C152,15283529,L1P,,,,
 44d876,OO-VCV,Cessna,177B Cardinal,C177,17702576,L1P,,,,
 44d877,OO-VCW,Cessna,172R Skyhawk,C172,17280344,L1P,,,,
-44d9e1,OO-VOA,,A185F Skywagon,C185,18503518,L1P,,,,
+44d9e1,OO-VOA,Cessna,A185F Skywagon,C185,18503518,L1P,,,,
 44da03,OO-VPC,Cessna,182P Skylane,C182,18263928,L1P,,,,
 44da82,OO-VTB,Reims Aviation,F150F,C150,0004,L1P,,,,
 44dc23,OO-WAC,Reims Aviation,F150M,C150,1250,L1P,,,,
@@ -4108,17 +4108,17 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 46058a,OH-CCO,Reims Aviation,F150H,C150,0253,L1P,,,,
 46058e,OH-CCS,Reims Aviation,F150H,C150,0323,L1P,,,,
 460590,OH-CCU,Reims Aviation,F150H,C150,0326,L1P,,,,
-460594,OH-CCY,,A185E Skywagon,C185,18501352,L1P,,,,
+460594,OH-CCY,Cessna,A185E Skywagon,C185,18501352,L1P,,,,
 460595,OH-CCZ,Reims Aviation,FR172E Reims Rocket,C172,0017,L1P,,,,
 460596,OH-CDA,Reims Aviation,FA150K Aerobat,C150,0034,L1P,,,,
 460597,OH-CDB,Reims Aviation,FA150K Aerobat,C150,0035,L1P,,,,
 460599,OH-CDD,Reims Aviation,FA150K Aerobat,C150,0037,L1P,,,,
 46059a,OH-CDE,Reims Aviation,FA150K Aerobat,C150,0038,L1P,,,,
 46059b,OH-CDF,Reims Aviation,FR172G Reims Rocket,C172,0188,L1P,,,,
-46059e,OH-CDI,,A185E Skywagon,C185,18501529,L1P,,,,
-4605a0,OH-CDK,,A185E Skywagon,C185,18501675,L1P,,,,
+46059e,OH-CDI,Cessna,A185E Skywagon,C185,18501529,L1P,,,,
+4605a0,OH-CDK,Cessna,A185E Skywagon,C185,18501675,L1P,,,,
 4605a3,OH-CDN,Cessna,180H Skywagon,C180,18052134,L1P,,,,
-4605a4,OH-CDO,,A185E Skywagon,C185,18501773,L1P,,,,
+4605a4,OH-CDO,Cessna,A185E Skywagon,C185,18501773,L1P,,,,
 4605ac,OH-CDW,Reims Aviation,F172H Skyhawk,C172,0679,L1P,,,,
 4605b4,OH-CEE,Reims Aviation,F150G,C150,0075,L1P,,,,
 4605b5,OH-CEF,Cessna,150E,C150,15061433,L1P,,,,
@@ -4127,7 +4127,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4605c1,OH-CER,Cessna,180H Skywagon,C180,18051823,L1P,,,,
 4605c2,OH-CES,Reims Aviation,F150G,C150,0162,L1P,,,,
 4605c3,OH-CET,Reims Aviation,F150G,C150,0142,L1P,,,,
-4605c5,OH-CEV,,A185E Skywagon,C185,18501180,L1P,,,,
+4605c5,OH-CEV,Cessna,A185E Skywagon,C185,18501180,L1P,,,,
 4605c6,OH-CEW,Reims Aviation,F172H Skyhawk,C172,0344,L1P,,,,
 4605c9,OH-CEZ,Reims Aviation,F172H Skyhawk,C172,0386,L1P,,,,
 4605cf,OH-CFF,Reims Aviation,F172H Skyhawk,C172,0753,L1P,,,,
@@ -4154,7 +4154,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 460613,OH-CHV,Reims Aviation,F182Q Skylane,C182,0071,L1P,,,,
 460616,OH-CHY,Reims Aviation,F172 Skyhawk,C172,1893,L1P,,,,
 46061b,OH-CID,Reims Aviation,F172 Skyhawk,C172,1897,L1P,,,,
-460621,OH-CIJ,,A185F Skywagon,C185,18504004,L1P,,,,
+460621,OH-CIJ,Cessna,A185F Skywagon,C185,18504004,L1P,,,,
 460623,OH-CIL,Reims Aviation,F172P Skyhawk,C172,2080,L1P,,,,
 460625,OH-CIN,Reims Aviation,F152,C152,1874,L1P,,,,
 460627,OH-CIP,Reims Aviation,F152,C152,1857,L1P,,,,
@@ -4171,7 +4171,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 460659,OH-CKN,Cessna,177B Cardinal,C177,17702264,L1P,,,,
 46065a,OH-CKO,Cessna,152,C152,15283579,L1P,,,,
 46065b,OH-CKP,Cessna,R172K Hawk XP,C172,R1723007,L1P,,,,
-46065d,OH-CKR,,A185F Skywagon,C185,18503548,L1P,,,,
+46065d,OH-CKR,Cessna,A185F Skywagon,C185,18503548,L1P,,,,
 460661,OH-CKV,Cessna,150M,C150,15076935,L1P,,,,
 460662,OH-CKW,Cessna,180K Skywagon,C180,18053053,L1P,,,,
 460664,OH-CKY,Cessna,150M,C150,15076334,L1P,,,,
@@ -4253,7 +4253,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 460790,OH-CWM,Cessna,152,C152,15280391,L1P,,,,
 460792,OH-CWO,Cessna,152,C152,15282757,L1P,,,,
 46079c,OH-CWY,Cessna,A150L Aerobat,C150,A1500368,L1P,,,,
-4607f6,OH-DAK,,A185F Skywagon,C185,18502880,L1P,,,,
+4607f6,OH-DAK,Cessna,A185F Skywagon,C185,18502880,L1P,,,,
 46080a,OH-DBE,Reims Aviation,F150K,C150,0610,L1P,,,,
 460818,OH-DBS,Reims Aviation,F150G,C150,0125,L1P,,,,
 4608cd,OH-DIR,Cessna,182Q Skylane,C182,18266280,L1P,,,,
@@ -4386,7 +4386,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4784cd,LN-FTA,Cessna,172R Skyhawk,C172,17281383,L1P,,,,
 4784d5,LN-MTW,Cessna,182N Skylane,C182,18260459,L1P,,,,
 4784d9,LN-ALR,Reims Aviation,F177 Cardinal RG,C77R,0170,L1P,,,,
-4784e3,LN-LMG,,A185F Skywagon,C185,18503278,L1P,,,,
+4784e3,LN-LMG,Cessna,A185F Skywagon,C185,18503278,L1P,,,,
 4784f2,LN-DAC,Cessna,182M Skylane,C182,18259391,L1P,,,,
 478507,LN-HOX,Reims Aviation,F172 Skyhawk,C172,2029,L1P,,,,
 47850c,LN-BEH,Reims Aviation,F150L,C150,0707,L1P,,,,
@@ -4394,7 +4394,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 478548,LN-IKQ,Reims Aviation,FR172F Reims Rocket,C172,0101,L1P,,,,
 47854b,LN-DAY,Reims Aviation,F172 Skyhawk,C172,1608,L1P,,,,
 47854c,LN-BIH,Cessna,172B Skyhawk,C172,17248149,L1P,,,,
-47854d,LN-BGO,,A185F Skywagon,C185,18502437,L1P,,,,
+47854d,LN-BGO,Cessna,A185F Skywagon,C185,18502437,L1P,,,,
 478555,LN-LJF,Reims Aviation,F172H Skyhawk,C172,0572,L1P,,,,
 478560,LN-ASA,Reims Aviation,F172M Skyhawk,C172,1107,L1P,,,,
 478566,LN-BWH,Cessna,180H Skywagon,C180,18051995,L1P,,,,
@@ -4409,7 +4409,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 47857d,LN-BIK,Cessna,180H Skywagon,C180,18052105,L1P,,,,
 47857e,LN-DAH,Reims Aviation,F172M Skyhawk,C172,1471,L1P,,,,
 478584,LN-IKG,Cessna,172C Skyhawk,C172,17249042,L1P,,,,
-478586,LN-KCA,,A185E Skywagon,C185,18501302,L1P,,,,
+478586,LN-KCA,Cessna,A185E Skywagon,C185,18501302,L1P,,,,
 47858a,LN-ASO,Cessna,180B Skywagon,C180,18050534,L1P,,,,
 47858b,LN-BEL,Cessna,150F,C150,15061903,L1P,,,,
 47858c,LN-PLH,Cessna,182S Skylane,C182,18280524,L1P,,,,
@@ -4428,23 +4428,23 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4785af,LN-TSB,Cessna,182A Skylane,C182,18233977,L1P,,,,
 4785b1,LN-NPK,Cessna,172B Skyhawk,C172,17248518,L1P,,,,
 4785b7,LN-LGG,Reims Aviation,F172 Skyhawk,C172,1929,L1P,,,,
-4785c8,LN-KAO,,A185E Skywagon,C185,18501187,L1P,,,,
+4785c8,LN-KAO,Cessna,A185E Skywagon,C185,18501187,L1P,,,,
 4785cb,LN-AED,Cessna,172N Skyhawk,C172,17268157,L1P,,,,
 4785cc,LN-FAW,Reims Aviation,F172 Skyhawk,C172,1703,L1P,,,,
 4785cd,LN-LGC,Cessna,172B Skyhawk,C172,17247960,L1P,,,,
 4785d7,LN-LVT,Cessna,172S Skyhawk SP,C172,172S8438,L1P,,,,
 4785d9,LN-ASY,Reims Aviation,F172 Skyhawk,C172,1591,L1P,,,,
-4785da,LN-BDF,,A185E Skywagon,C185,18501047,L1P,,,,
+4785da,LN-BDF,Cessna,A185E Skywagon,C185,18501047,L1P,,,,
 4785e8,LN-AEG,Cessna,172E Skyhawk,C172,17250985,L1P,,,,
 4785e9,LN-DAV,Reims Aviation,F172M Skyhawk,C172,1479,L1P,,,,
 4785eb,LN-AGM,Cessna,172S Skyhawk SP,C172,172S9674,L1P,,,,
 4785f1,LN-MTE,Cessna,182N Skylane,C182,18260245,L1P,,,,
 4785f2,LN-TSW,Cessna,150E,C150,15061451,L1P,,,,
 4785f3,LN-BWO,Reims Aviation,FRA150L Aerobat,C150,0154,L1P,,,,
-4785f4,LN-DBJ,,A185F Skywagon,C185,18503369,L1P,,,,
+4785f4,LN-DBJ,Cessna,A185F Skywagon,C185,18503369,L1P,,,,
 4785fd,LN-BGM,Reims Aviation,F172M Skyhawk,C172,1070,L1P,,,,
 4785ff,LN-MTH,Cessna,172N Skyhawk,C172,17272201,L1P,,,,
-478602,LN-NFD,,A185F Skywagon,C185,18504152,L1P,,,,
+478602,LN-NFD,Cessna,A185F Skywagon,C185,18504152,L1P,,,,
 478619,LN-ALB,Reims Aviation,F172 Skyhawk,C172,1566,L1P,,,,
 47861b,LN-ASD,Cessna,182P Skylane,C182,18263104,L1P,,,,
 47861c,LN-ASF,Reims Aviation,F172M Skyhawk,C172,1083,L1P,,,,
@@ -4476,7 +4476,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 47867f,LN-ASP,Reims Aviation,F172M Skyhawk,C172,1466,L1P,,,,
 478683,LN-VYZ,Reims Aviation,F172H Skyhawk,C172,0414,L1P,,,,
 47868d,LN-ASJ,Reims Aviation,F172M Skyhawk,C172,1303,L1P,,,,
-478695,LN-ABO,,185A Skywagon,C185,18500439,L1P,,,,
+478695,LN-ABO,Cessna,185A Skywagon,C185,18500439,L1P,,,,
 478696,LN-BDG,Cessna,180 Skywagon,C180,18032150,L1P,,,,
 47869b,LN-SFK,Cessna,182M Skylane,C182,18259952,L1P,,,,
 4786a0,LN-ALV,Reims Aviation,F172P Skyhawk,C172,2118,L1P,,,,
@@ -4628,7 +4628,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 48498c,PH-WAI,Reims Aviation,F172M Skyhawk,C172,0961,L1P,,,,
 48498f,PH-TEX,Reims Aviation,F172M Skyhawk,C172,1010,L1P,,,,
 484990,PH-DES,Cessna,182P Skylane,C182,18263920,L1P,,,,
-4849af,PH-DUK,,185 Skywagon,C185,18500046,L1P,,,,
+4849af,PH-DUK,Cessna,185 Skywagon,C185,18500046,L1P,,,,
 4849d3,PH-SLK,Cessna,182T Skylane,C182,18282070,L1P,,,,
 4849d8,PH-STT,Cessna,172S Skyhawk SP,C172,172S8898,L1P,,,,
 4849df,PH-MRA,Cessna,172M Skyhawk,C172,17266964,L1P,,,,
@@ -5034,7 +5034,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4a9f55,SE-GZU,Reims Aviation,FR172G Reims Rocket,C172,0178,L1P,,,,
 4a9f56,SE-GZV,Reims Aviation,FR172E Reims Rocket,C172,0005,L1P,,,,
 4aa443,SE-IBC,Reims Aviation,FR182 Skylane RG,C82R,0039,L1P,,,,
-4aa4a4,SE-IED,,A185F Skywagon,C185,18503320,L1P,,,,
+4aa4a4,SE-IED,Cessna,A185F Skywagon,C185,18503320,L1P,,,,
 4aa4c4,SE-IFD,Reims Aviation,F172 Skyhawk,C172,1864,L1P,,,,
 4aa4d2,SE-IFR,Reims Aviation,FR182 Skylane RG,C82R,0047,L1P,,,,
 4aa4d8,SE-IFX,Reims Aviation,F152,C152,1802,L1P,,,,
@@ -5046,14 +5046,14 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4aa52e,SE-IIN,Cessna,172N Skyhawk,C172,17270712,L1P,,,,
 4aa534,SE-IIT,Cessna,172M Skyhawk,C172,17267175,L1P,,,,
 4aa562,SE-IKB,Cessna,140,C140,9624,L1P,,,,
-4aa578,SE-IKX,,A185E Skywagon,C185,18501530,L1P,,,,
+4aa578,SE-IKX,Cessna,A185E Skywagon,C185,18501530,L1P,,,,
 4aa5ce,SE-INN,Reims Aviation,F172H Skyhawk,C172,0556,L1P,,,,
 4aa607,SE-IPG,Reims Aviation,F172P Skyhawk,C172,2234,L1P,,,,
 4aa643,SE-IRC,Reims Aviation,F172P Skyhawk,C172,2173,L1P,,,,
-4aa653,SE-IRS,,A185F Skywagon,C185,18502409,L1P,,,,
-4aa656,SE-IRV,,A185E Skywagon,C185,18501161,L1P,,,,
+4aa653,SE-IRS,Cessna,A185F Skywagon,C185,18502409,L1P,,,,
+4aa656,SE-IRV,Cessna,A185E Skywagon,C185,18501161,L1P,,,,
 4aa69a,SE-ITZ,Reims Aviation,F172M Skyhawk,C172,1197,L1P,,,,
-4aa6b3,SE-IUS,,A185E Skywagon,C185,18501471,L1P,,,,
+4aa6b3,SE-IUS,Cessna,A185E Skywagon,C185,18501471,L1P,,,,
 4aa70e,SE-IXN,Reims Aviation,FR172G Reims Rocket,C172,0196,L1P,,,,
 4aa716,SE-IXV,Cessna,172P Skyhawk,C172,17274575,L1P,,,,
 4aa724,SE-IYD,Cessna,172P Skyhawk,C172,17275052,L1P,,,,
@@ -5194,7 +5194,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b06b2,HB-CNY,Reims Aviation,F172N Skyhawk,C172,1681,L1P,,1982-01-19,,1978-01-01
 4b06b8,HB-COE,Cessna,180 Skywagon,C180,18030465,L1P,,1953-09-19,,1953-01-01
 4b06dd,HB-CPP,Cessna,172 Skyhawk,C172,17229928,L1P,,1957-06-07,,1957-01-01
-4b06e9,HB-CQB,,A185F Skywagon,C185,18504093,L1P,,2011-03-23,,1980-01-01
+4b06e9,HB-CQB,Cessna,A185F Skywagon,C185,18504093,L1P,,2011-03-23,,1980-01-01
 4b06ed,HB-CQF,Cessna,172M Skyhawk,C172,17261782,L1P,,1993-08-11,,1973-01-01
 4b06f0,HB-CQI,Cessna,152,C152,15280211,L1P,,,,
 4b06f3,HB-CQL,Cessna,172P Skyhawk,C172,17274190,L1P,,1995-07-13,,1981-01-01
@@ -5797,7 +5797,7 @@ a4f9e8,N42GM,Cessna,L-19/O-1 Bird Dog,O1,23316,L1P,,,2023-06-30,1954-01-01
 a50d1c,N4242C,Cessna,172C Skyhawk,C172,17249187,L1P,,,,
 a52001,N4294Q,Cessna,172L Skyhawk,C172,17260194,L1P,,,2023-12-31,
 a52c83,N432WC,Cessna,L-19/O-1 Bird Dog,O1,21912,L1P,,,2024-01-31,
-a532c9,N434JG,,A185F Skywagon,C185,18503785,L1P,,,2023-10-31,1979-01-01
+a532c9,N434JG,Cessna,A185F Skywagon,C185,18503785,L1P,,,2023-10-31,1979-01-01
 a534cf,N4343V,Cessna,195A Businessliner,C195,7249,L1P,,,,
 a5444d,N4388G,Cessna,L-19A/O-1A Bird Dog,O1,21898,L1P,,,,
 a54ead,N441DP,Cessna,172M Skyhawk,C172,17265691,L1P,,,2021-10-31,1975-01-01
