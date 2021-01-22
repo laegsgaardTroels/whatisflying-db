@@ -343,15 +343,15 @@ EPBP,BXP,Biała Podlaska Airfield,medium,52.00078,23.13253,485,EPWW,EU,PL,1,0
 EPBS,,Lotnisko Borne Sulinowo,small,53.57615,16.52773,469,EPWW,EU,PL,1,0
 EPCH,CZW,Częstochowa-Rudniki,small,50.885,19.2047,860,EPWW,EU,PL,1,0
 EPDK,,Debowa Klada Airfield,small,51.6126,23.0072,,EPWW,EU,PL,1,0
-EPGE,,Giże,small,53.98253,22.4018,,EPWW,EU,PL,1,0
-EPGM,,Giżycko-Mazury Residence,small,54.00645,21.81824,410,EPWW,EU,PL,1,0
-EPHN,,Narew,small,52.90878,23.54134,,EPWW,EU,PL,1,0
+EPGE,,Giże Airport,small,53.98253,22.4018,,EPWW,EU,PL,1,0
+EPGM,,Giżycko-Mazury Residence Airport,small,54.00645,21.81824,410,EPWW,EU,PL,1,0
+EPHN,,Narew Airport,small,52.90878,23.54134,,EPWW,EU,PL,1,0
 EPJA,,Jastarnia Airport,small,54.71028,18.64528,3,EPWW,EU,PL,1,0
 EPJL,,Laszki Field,small,50.0085,22.9189,,EPWW,EU,PL,1,0
 EPJS,,Jeżów Sudecki Airport,small,50.94403,15.76653,1834,EPWW,EU,PL,1,0
 EPKL,,Krasocin Field,small,50.89882,20.12751,820,EPWW,EU,PL,1,0
 EPLN,,Łańsk / Gryźliny Airport,small,53.60806,20.34444,538,EPWW,EU,PL,1,0
-EPMX,,Milewo,small,52.66814,20.42817,,EPWW,EU,PL,1,0
+EPMX,,Milewo Airport,small,52.66814,20.42817,,EPWW,EU,PL,1,0
 EPMY,,Myślibórz-Giżyn Airfield,small,52.94141,15.03004,,EPWW,EU,PL,1,0
 EPPC,,Pińczów Airport,small,50.5183,20.515,610,EPWW,EU,PL,1,0
 EPPI,,Pila Airport,small,53.17,16.7125,259,EPWW,EU,PL,1,0
@@ -359,9 +359,9 @@ EPRS,,Sochaczew-Rybno,small,52.24279,20.12658,280,EPWW,EU,PL,1,0
 EPSJ,,Sobienie Field,small,51.95114,21.35253,,EPWW,EU,PL,1,0
 EPSO,,Sochaczew Air Base,small,52.1986,20.2928,259,EPWW,EU,PL,1,0
 EPSR,,Słupsk-Krȩpa Airfield,small,54.4083,17.0956,249,EPWW,EU,PL,1,0
-EPSS,,Świdnica - Krzczonów Airstrip,small,50.81718,16.58186,833,EPWW,EU,PL,1,0
-EPZB,,Zborowo,small,52.36206,16.63872,268,EPWW,EU,PL,1,0
-EPZK,,Konopnica,small,51.36018,18.82206,,EPWW,EU,PL,1,0
+EPSS,,Świdnica-Krzczonów Airstrip,small,50.81718,16.58186,833,EPWW,EU,PL,1,0
+EPZB,,Zborowo Airport,small,52.36206,16.63872,268,EPWW,EU,PL,1,0
+EPZK,,Konopnica Airport,small,51.36018,18.82206,,EPWW,EU,PL,1,0
 ESKA,,Gimo Air Base,small,60.1328,18.1049,,ESAA,EU,SE,1,0
 ESKX,,Björkvik Air Base,medium,58.7908,16.5712,,ESAA,EU,SE,1,0
 ESMP,,Anderstorp Airport,small,57.2642,13.5994,507,ESAA,EU,SE,1,0
@@ -369,8 +369,8 @@ ESNE,,Överkalix Airport,small,66.5287,22.35,,ESAA,EU,SE,1,0
 ESSH,,Laxå Airport,small,58.9787,14.6662,,ESAA,EU,SE,1,0
 ESVE,,Stegeborg Airport,small,58.43333,16.605,6,ESAA,EU,SE,1,0
 ETHM,,Mendig Airfield,medium,50.366,7.31533,597,EDGG,EU,DE,1,0
-ETHR,,Sonderlandeplatz Roth,small,49.2175,11.1002,1268,EDMM,EU,DE,1,0
-ETIN,KZG,Flugplatz Kitzingen,small,49.7431,10.2006,689,EDGG,EU,DE,1,0
+ETHR,,Roth Airport,small,49.2175,11.1002,1268,EDMM,EU,DE,1,0
+ETIN,KZG,Kitzingen Airport,small,49.7431,10.2006,689,EDGG,EU,DE,1,0
 EVAH,,Langaci-Limbaži Airport,small,57.4849,24.67213,211,EVRR,EU,LV,1,0
 EVDA,DGP,Daugavpils Intrenational Airport,medium,55.94472,26.665,398,EVRR,EU,LV,1,0
 EVEA,,Jelgava Airfield,small,56.6728,23.6792,20,EVRR,EU,LV,1,0
@@ -378,12 +378,12 @@ EVGA,,Lielvarde Air Base,small,56.7783,24.8539,200,EVRR,EU,LV,1,0
 EVKA,,Jēkabpils Air Base,medium,56.5347,25.8925,289,EVRR,EU,LV,1,0
 EVTA,,Jūrmala Airport,medium,56.9422,23.2239,220,EVRR,EU,LV,1,0
 EVTE,,Talsi Airfield,small,57.2544,22.56622,,EVRR,EU,LV,1,0
-EYJB,,Jurbarkas Aerodromas,small,55.11805,22.76487,,EYVL,EU,LT,1,0
+EYJB,,Jurbarkas Airport,small,55.11805,22.76487,,EYVL,EU,LT,1,0
 EYKD,,Kėdainiai Air Base,medium,55.3117,23.9564,171,EYVL,EU,LT,1,0
 EYLN,,Valenčiūnai Airport,small,55.0214,22.9739,171,EYVL,EU,LT,1,0
 EYND,,Nida Airport,small,55.32778,21.04583,6,EYVL,EU,LT,1,0
 EYPP,PNV,Panevėžys Air Base,medium,55.7294,24.4608,197,EYVL,EU,LT,1,0
-EYRK,,Rokiškio aerodromas,small,55.97192,25.60424,459,EYVL,EU,LT,1,0
+EYRK,,Rokiškio Airport,small,55.97192,25.60424,459,EYVL,EU,LT,1,0
 FAAM,,Amsterdam Airport,small,-26.63333,30.6,4310,FAJA,AF,ZA,1,0
 FABF,,Barkly East Airport,small,-30.96667,27.60417,5940,FAJA,AF,ZA,1,0
 FABG,,Buffelshoek Airport,small,-24.70246,31.58788,1347,FAJA,AF,ZA,1,0
@@ -395,7 +395,7 @@ FADE,,Delmas Airport,small,-26.14167,28.69167,5075,FAJA,AF,ZA,1,0
 FADG,,Dordrecht Airport,small,-31.38333,27.03333,5200,FACA,AF,ZA,1,0
 FADH,,Durnacol Airport,small,-28.0461,30.0064,4317,FAJA,AF,ZA,1,0
 FADM,,Kokstad Airport,small,-30.5565,29.4082,4084,FAJA,AF,ZA,1,0
-FADN,,Air Force Base Durban,small,-29.9701,30.9505,33,FAJA,AF,ZA,1,0
+FADN,,Durban International Airport,small,-29.9701,30.9505,33,FAJA,AF,ZA,1,0
 FADV,,Devon Airport,small,-26.359,28.7897,5460,FAJA,AF,ZA,1,0
 FADY,,De Aar Military Airport,small,-30.63651,23.91973,4037,FAJA,AF,ZA,1,0
 FAED,,Edenburg Airport,small,-29.75,25.9,4509,FAJA,AF,ZA,1,0
@@ -424,7 +424,7 @@ FANH,,New Hanover Airport,small,-29.356,30.5184,2490,FAJA,AF,ZA,1,0
 FANL,,New Largo Airport,small,-25.9785,28.9844,5038,FAJA,AF,ZA,1,0
 FANV,,Nieuwoudtville Airfield,small,-31.35,19.11667,1890,FACA,AF,ZA,1,0
 FAOD,,Odendaalsrus Airport,small,-27.871,26.6934,1340,FAJA,AF,ZA,1,0
-FAON,,Ornate Lake - St Lucia Airport,small,-28.0449,32.4254,128,FAJA,AF,ZA,1,0
+FAON,,Ornate Lake-St Lucia Airport,small,-28.0449,32.4254,128,FAJA,AF,ZA,1,0
 FAOT,,Ottosdal Airport,small,-26.7983,26.0003,4860,FAJA,AF,ZA,1,0
 FAOY,,Orkney Airport,small,-26.9839,26.6514,4265,FAJA,AF,ZA,1,0
 FARD,,Riversdale Airport,small,-34.1117,21.2628,591,FACA,AF,ZA,1,0
@@ -456,11 +456,11 @@ FBHV,,Haina Ventures Airport,small,-20.9524,23.66918,3185,FBGR,AF,BW,1,0
 FBJA,,Jao Airport,small,-19.3163,22.5951,3175,FBGR,AF,BW,1,0
 FBJC,,Tsigaro Airport,small,-20.4563,25.1507,3000,FBGR,AF,BW,1,0
 FBKA,,Kaa Airport,small,-24.33064,20.63567,3645,FBGR,AF,BW,1,0
-FBKD,,Kwando - Lagoon Airport,small,-18.20909,23.3872,3150,FBGR,AF,BW,1,0
+FBKD,,Kwando-Lagoon Airport,small,-18.20909,23.3872,3150,FBGR,AF,BW,1,0
 FBKI,,Kiri Airport,small,-19.6162,23.04247,3135,FBGR,AF,BW,1,0
 FBKK,,Kanana Airport,small,-19.5688,22.87558,3140,FBGR,AF,BW,1,0
 FBKP,,Kings Pool Airport,small,-18.44196,23.68872,3100,FBGR,AF,BW,1,0
-FBKW,,Kwando - Lebala Airport,small,-18.36099,23.53049,3125,FBGR,AF,BW,1,0
+FBKW,,Kwando-Lebala Airport,small,-18.36099,23.53049,3125,FBGR,AF,BW,1,0
 FBLL,,Limpopo-Lipadi Airport,small,-22.55153,28.4921,2460,FAJA,AF,BW,1,0
 FBLO,LOQ,Lobatse Airport,small,-25.1981,25.7139,3823,FBGR,AF,BW,1,0
 FBMU,,Mamuno Airport,small,-22.26809,20.03109,4155,FBGR,AF,BW,1,0
@@ -591,7 +591,7 @@ GMFM,MEK,Bassatine Airport,medium,33.8791,-5.51512,1890,GMMM,AF,MA,1,0
 GMFN,,Taouima Nador Airport,small,35.15,-2.917,10,GMMM,AF,MA,1,0
 GMFU,,Fes Sefrou Airport,small,34.0081,-4.96556,1539,GMMM,AF,MA,1,0
 GMMA,SMW,Smara Airport,medium,26.7318,-11.6847,350,GCCC,AF,EH,1,0
-GMMF,SII,Sidi Ifni Xx Airport,small,29.3667,-10.1878,190,GMMM,AF,MA,1,0
+GMMF,SII,Sidi Ifni Airport,small,29.3667,-10.1878,190,GMMM,AF,MA,1,0
 GMMJ,,El Jadida Airport,small,33.2333,-8.51667,92,GMMM,AF,MA,1,0
 GMMS,SFI,Safi Airport,small,32.2833,-9.23333,171,GMMM,AF,MA,1,0
 GMMY,NNA,Kenitra Airport,medium,34.2989,-6.59588,16,GMMM,AF,MA,1,0
@@ -640,7 +640,7 @@ HSBT,,Bentu Airport,small,9.217,29.817,2000,HSSS,AF,SS,1,0
 HSCG,,Carthago Airport,small,18.75139,36.99167,3230,HSSS,AF,SD,1,0
 HSDB,EDB,El Debba Airport,small,18.0146,30.9595,843,HSSS,AF,SD,1,0
 HSDL,,Dilling Airport,small,11.9906,29.6732,2206,HSSS,AF,SD,1,0
-HSFA,HGI,"Paloich Airport, Heliport",medium,10.52917,32.50056,1290,HSSS,AF,SS,1,0
+HSFA,HGI,Paloich Airport,medium,10.52917,32.50056,1290,HSSS,AF,SS,1,0
 HSGF,GSU,Azaza Airport,small,14.133,35.317,1640,HSSS,AF,SD,1,0
 HSGG,DNX,Galegu Airport,small,12.533,35.067,1640,HSSS,AF,SD,1,0
 HSGN,EGN,Geneina Airport,small,13.4817,22.4672,2650,HSSS,AF,SD,1,0
@@ -680,8 +680,6 @@ HTNG,,Ngerengere Air Force Base,small,-6.71708,38.15394,738,HTDC,AF,TZ,1,0
 HTOL,,Oltipesi Airport,small,-4.28773,36.61612,4668,HTDC,AF,TZ,1,0
 HUFP,,Fort Portal Airport,small,0.7063,30.2493,5255,HUEC,AF,UG,1,0
 HUKT,,Kitgum Airport,small,3.2817,32.8882,3130,HUEC,AF,UG,1,0
-JAMI,,Jamies,small,35.52047,-90.72907,,KZME,NA,US,1,0
-JOEY,,Joeys,small,35.39849,-91.34825,,KZME,NA,US,1,0
 KAAA,,Logan County Airport,small,40.1587,-89.335,597,KZAU,NA,US,1,0
 KAAO,,Colonel James Jabara Airport,small,37.7476,-97.2211,1421,KZKC,NA,US,1,0
 KAAS,,Taylor County Airport,small,37.3583,-85.3094,921,KZID,NA,US,1,0
@@ -699,7 +697,7 @@ KAEG,,Double Eagle II Airport,small,35.1452,-106.795,5837,KZAB,NA,US,1,0
 KAEJ,,Central Colorado Regional Airport,small,38.8142,-106.121,7946,KZDV,NA,US,1,0
 KAFJ,WSG,Washington County Airport,small,40.1365,-80.2902,1184,KZOB,NA,US,1,0
 KAFK,,Nebraska City Municipal Airport,small,40.6069,-95.8657,1165,KZMP,NA,US,1,0
-KAFP,,Anson County Airport - Jeff Cloud Field,small,35.0206,-80.0771,300,KZTL,NA,US,1,0
+KAFP,,Anson County Airport / Jeff Cloud Field,small,35.0206,-80.0771,300,KZTL,NA,US,1,0
 KAGR,,MacDill Air Force Base Auxiliary Field,small,27.6506,-81.3494,68,KZMA,NA,US,1,0
 KAGZ,,Wagner Municipal Airport,small,43.0633,-98.2962,1475,KZMP,NA,US,1,0
 KAHQ,,Wahoo Municipal Airport,small,41.2413,-96.594,1224,KZMP,NA,US,1,0
@@ -709,7 +707,7 @@ KAIT,,Aitkin Municipal Steve Kurtz Field,small,46.5484,-93.6768,1205,KZMP,NA,US,
 KAJG,,Mount Carmel Municipal Airport,small,38.6065,-87.7267,429,KZID,NA,US,1,0
 KAJO,,Corona Municipal Airport,small,33.8977,-117.602,533,KZLA,NA,US,1,0
 KAJR,,Habersham County Airport,small,34.4999,-83.5567,1448,KZTL,NA,US,1,0
-KAJZ,,Blake Field,small,38.7864,-108.064,5193,KZDV,NA,US,1,0
+KAJZ,,Blake Field Airport,small,38.7864,-108.064,5193,KZDV,NA,US,1,0
 KAKH,,Gastonia Municipal Airport,small,35.2026,-81.1499,798,KZTL,NA,US,1,0
 KAKQ,,Wakefield Municipal Airport,small,36.9872,-77.0011,113,KZDC,NA,US,1,0
 KAMG,,Bacon County Airport,small,31.5361,-82.5066,200,KZJX,NA,US,1,0
@@ -829,11 +827,11 @@ KCPU,,Calaveras Co Maury Rasmussen Field,small,38.1461,-120.648,1325,KZOA,NA,US,
 KCQA,,Lakefield Airport,small,40.4841,-84.5601,894,KZID,NA,US,1,0
 KCQB,,Chandler Regional Airport,small,35.7238,-96.8203,984,KZKC,NA,US,1,0
 KCQM,,Cook Municipal Airport,small,47.8219,-92.6894,1327,KZMP,NA,US,1,0
-KCQW,HCW,Cheraw Municipal Airport/Lynch Bellinger Field,small,34.7129,-79.957,239,KZJX,NA,US,1,0
+KCQW,HCW,Cheraw Municipal Airport / Lynch Bellinger Field,small,34.7129,-79.957,239,KZJX,NA,US,1,0
 KCQX,,Chatham Municipal Airport,small,41.6884,-69.9895,68,KZBW,NA,US,1,0
 KCRZ,,Corning Municipal Airport,small,40.9941,-94.755,1274,KZMP,NA,US,1,0
 KCSB,,Cambridge Municipal Airport,small,40.3066,-100.162,2414,KZDV,NA,US,1,0
-KCTJ,,West Georgia Regional Airport / O V Gray Field,small,33.631,-85.152,1161,KZTL,NA,US,1,0
+KCTJ,,West Georgia Regional Airport / O.V. Gray Field,small,33.631,-85.152,1161,KZTL,NA,US,1,0
 KCTK,,Ingersoll Airport,small,40.5691,-90.0748,684,KZAU,NA,US,1,0
 KCUL,,Carmi Municipal Airport,small,38.0895,-88.1231,388,KZID,NA,US,1,0
 KCUT,,Custer County Airport,small,43.7333,-103.618,5602,KZDV,NA,US,1,0
@@ -857,8 +855,8 @@ KDAW,,Skyhaven Airport,small,43.2841,-70.9293,322,KZBW,NA,US,1,0
 KDCM,,Chester Catawba Regional Airport,small,34.7893,-81.1958,656,KZTL,NA,US,1,0
 KDCY,,Daviess County Airport,small,38.7004,-87.1297,473,KZID,NA,US,1,0
 KDDH,,William H. Morse State Airport,small,42.8913,-73.2464,827,KZBW,NA,US,1,0
-KDED,,Deland Municipal Sidney H Taylor Field,small,29.067,-81.2838,79,KZJX,NA,US,1,0
-KDEQ,,J Lynn Helms Sevier County Airport,small,34.047,-94.3994,355,KZFW,NA,US,1,0
+KDED,,Deland Municipal Airport / Sidney H. Taylor Field,small,29.067,-81.2838,79,KZJX,NA,US,1,0
+KDEQ,,J. Lynn Helms Sevier County Airport,small,34.047,-94.3994,355,KZFW,NA,US,1,0
 KDEW,,Deer Park Airport,small,47.9666,-117.427,2211,KZSE,NA,US,1,0
 KDIJ,,Driggs Reed Memorial Airport,small,43.7424,-111.098,6229,KZLC,NA,US,1,0
 KDKB,,De Kalb Taylor Municipal Airport,small,41.9337,-88.7057,914,KZAU,NA,US,1,0
@@ -867,7 +865,7 @@ KDKX,,Knoxville Downtown Island Airport,small,35.9639,-83.8739,833,KZTL,NA,US,1,
 KDLC,DLL,Dillon County Airport,small,34.4491,-79.3686,133,KZJX,NA,US,1,0
 KDLO,,Delano Municipal Airport,small,35.7456,-119.237,314,KZLA,NA,US,1,0
 KDLZ,,Delaware Municipal Airport,small,40.2797,-83.1148,945,KZID,NA,US,1,0
-KDMW,,Carroll County Regional Jack B Poage Field,small,39.6083,-77.0077,789,KZNY,NA,US,1,0
+KDMW,,Carroll County Regional Jack B. Poage Field,small,39.6083,-77.0077,789,KZNY,NA,US,1,0
 KDPL,,Duplin County Airport,small,35.0001,-77.9817,136,KZDC,NA,US,1,0
 KDQH,,Douglas Municipal Airport,small,31.4767,-82.8605,257,KZJX,NA,US,1,0
 KDRA,DRA,Desert Rock Airport,medium,36.6194,-116.033,3314,KZLA,NA,US,1,0
@@ -879,7 +877,7 @@ KDUC,DUC,Halliburton Field,small,34.4709,-97.9599,1114,KZFW,NA,US,1,0
 KDUH,,Toledo Suburban Airport,small,41.7359,-83.6554,669,KZOB,NA,US,1,0
 KDUX,,Moore County Airport,small,35.8579,-102.013,3705,KZAB,NA,US,1,0
 KDVK,,Stuart Powell Field,small,37.5779,-84.7697,1022,KZID,NA,US,1,0
-KDVO,NOT,Marin County Airport - Gnoss Field,small,38.1436,-122.556,2,KZOA,NA,US,1,0
+KDVO,NOT,Marin County Airport / Gnoss Field,small,38.1436,-122.556,2,KZOA,NA,US,1,0
 KDVP,NSL,Slayton Municipal Airport,small,43.9868,-95.7826,1623,KZMP,NA,US,1,0
 KDWA,,Yolo County Davis Woodland Winters Airport,small,38.5791,-121.857,100,KZOA,NA,US,1,0
 KDWU,,Ashland Regional Airport,small,38.5545,-82.738,546,KZID,NA,US,1,0
@@ -933,7 +931,7 @@ KEVU,,Northwest Missouri Regional Airport,small,40.3525,-94.915,1145,KZMP,NA,US,
 KEVY,,Summit Airport,small,39.5204,-75.7204,70,KZDC,NA,US,1,0
 KEXX,,Davidson County Airport,small,35.7811,-80.3038,733,KZTL,NA,US,1,0
 KEYE,,Eagle Creek Airpark,small,39.8307,-86.2944,823,KZID,NA,US,1,0
-KEYF,,Curtis L Brown Jr Field,small,34.6018,-78.5793,131,KZDC,NA,US,1,0
+KEYF,,Curtis L. Brown Jr. Field,small,34.6018,-78.5793,131,KZDC,NA,US,1,0
 KEZF,,Shannon Airport,small,38.2668,-77.4492,85,KZDC,NA,US,1,0
 KEZI,,Kewanee Municipal Airport,small,41.2052,-89.9639,858,KZAU,NA,US,1,0
 KEZM,,Heart of Georgia Regional Airport,small,32.2142,-83.128,304,KZTL,NA,US,1,0
@@ -961,9 +959,9 @@ KFOA,,Flora Municipal Airport,small,38.6649,-88.453,473,KZKC,NA,US,1,0
 KFOM,FIL,Fillmore Municipal Airport,small,38.9583,-112.363,4985,KZLC,NA,US,1,0
 KFOT,,Rohnerville Airport,small,40.5539,-124.133,393,KZSE,NA,US,1,0
 KFOZ,,Bigfork Municipal Airport,small,47.7828,-93.6502,1348,KZMP,NA,US,1,0
-KFPK,,Fitch H Beach Airport,small,42.5745,-84.8114,891,KZOB,NA,US,1,0
+KFPK,,Fitch H. Beach Airport,small,42.5745,-84.8114,891,KZOB,NA,US,1,0
 KFQD,,Rutherford County Marchman Field,small,35.4282,-81.9351,1077,KZTL,NA,US,1,0
-KFSE,,Fosston Municipal Airport-Anderson Field,small,47.5928,-95.7735,1277,KZMP,NA,US,1,0
+KFSE,,Fosston Municipal Airport / Anderson Field,small,47.5928,-95.7735,1277,KZMP,NA,US,1,0
 KFSO,,Franklin County State Airport,small,44.9403,-73.0975,228,KZBW,NA,US,1,0
 KFSW,FMS,Fort Madison Municipal Airport,small,40.6593,-91.3268,724,KZAU,NA,US,1,0
 KFTG,,Colorado Air and Space Port,small,39.78419,-104.53764,5512,KZDV,NA,US,1,0
@@ -980,12 +978,12 @@ KFZI,,Fostoria Metropolitan Airport,small,41.1908,-83.3945,752,KZOB,NA,US,1,0
 KFZY,,Oswego County Airport,small,43.3508,-76.3881,475,KZBW,NA,US,1,0
 KGAF,,Hutson Field,small,48.4047,-97.3709,824,KZMP,NA,US,1,0
 KGAS,,Gallia Meigs Regional Airport,small,38.8341,-82.1634,566,KZID,NA,US,1,0
-KGAX,,Williams Auxiliary Air Field 6,small,32.88467,-112.81654,,KZAB,NA,US,1,0
+KGAX,,Williams Auxiliary Airfield 6,small,32.88467,-112.81654,,KZAB,NA,US,1,0
 KGBN,,Gila Bend Af Aux Airport,small,32.8875,-112.72,883,KZAB,NA,US,1,0
-KGCD,JDA,Grant Co Regional/Ogilvie Field,small,44.4042,-118.963,3703,KZSE,NA,US,1,0
+KGCD,JDA,Grant Co Regional Airport / Ogilvie Field,small,44.4042,-118.963,3703,KZSE,NA,US,1,0
 KGCM,,Claremore Regional Airport,small,36.2927,-95.4796,733,KZKC,NA,US,1,0
 KGCT,,Guthrie County Regional Airport,small,41.6878,-94.4352,1230,KZMP,NA,US,1,0
-KGDB,,Granite Falls Municipal-Lenzen-Roe Memorial Field,small,44.7533,-95.556,1047,KZMP,NA,US,1,0
+KGDB,,Granite Falls Municipal Airport / Lenzen-Roe Memorial Field,small,44.7533,-95.556,1047,KZMP,NA,US,1,0
 KGDJ,,Granbury Regional Airport,small,32.4444,-97.8169,778,KZFW,NA,US,1,0
 KGDW,GDW,Gladwin Zettel Memorial Airport,small,43.9706,-84.475,776,KZMP,NA,US,1,0
 KGEO,,Brown County Airport,small,38.8819,-83.8827,958,KZID,NA,US,1,0
@@ -996,7 +994,7 @@ KGFZ,,Greenfield Municipal Airport,small,41.327,-94.4457,1364,KZMP,NA,US,1,0
 KGGF,,Grant Municipal Airport,small,40.8695,-101.733,3425,KZDV,NA,US,1,0
 KGGI,,Grinnell Regional Airport,small,41.7092,-92.7349,1008,KZAU,NA,US,1,0
 KGGP,,Logansport Cass County Airport,small,40.7112,-86.3749,738,KZAU,NA,US,1,0
-KGHG,,Marshfield Municipal George Harlow Field,small,42.0983,-70.6722,11,KZBW,NA,US,1,0
+KGHG,,Marshfield Municipal Airport / George Harlow Field,small,42.0983,-70.6722,11,KZBW,NA,US,1,0
 KGHW,,Glenwood Municipal Airport,small,45.6439,-95.3204,1393,KZMP,NA,US,1,0
 KGKJ,MEJ,Port Meadville Airport,small,41.6265,-80.2147,1399,KZOB,NA,US,1,0
 KGKY,,Arlington Municipal Airport,small,32.6639,-97.0943,628,KZFW,NA,US,1,0
@@ -1007,7 +1005,7 @@ KGNC,,Gaines County Airport,small,32.67153,-102.65685,3315,KZFW,NA,US,1,0
 KGNF,,Grenada Municipal Airport,small,33.8325,-89.7982,208,KZME,NA,US,1,0
 KGOO,,Nevada County Airport,small,39.224,-121.003,3152,KZOA,NA,US,1,0
 KGOP,,Gatesville Municipal Airport,small,31.4213,-97.797,905,KZFW,NA,US,1,0
-KGOV,,Grayling Army Air Field,small,44.6803,-84.7289,1158,KZMP,NA,US,1,0
+KGOV,,Grayling Army Airfield,small,44.6803,-84.7289,1158,KZMP,NA,US,1,0
 KGPH,,Midwest National Air Center Airport,small,39.3325,-94.3096,777,KZKC,NA,US,1,0
 KGPM,,Grand Prairie Municipal Airport,small,32.6988,-97.0469,588,KZFW,NA,US,1,0
 KGTE,,Gothenburg Municipal Airport,small,40.9263,-100.148,2559,KZDV,NA,US,1,0
@@ -1019,9 +1017,9 @@ KGWR,,Gwinner Roger Melroe Field,small,46.2187,-97.6432,1266,KZMP,NA,US,1,0
 KGWW,,Goldsboro-Wayne Municipal Airport,small,35.4606,-77.9649,134,KZDC,NA,US,1,0
 KGYB,,Giddings-Lee County Airport,small,30.1693,-96.98,485,KZHU,NA,US,1,0
 KGYH,GDC,Donaldson Field Airport,small,34.7583,-82.3764,955,KZTL,NA,US,1,0
-KGYI,PNX,North Texas Regional Airport/Perrin Field,small,33.7141,-96.6737,749,KZFW,NA,US,1,0
+KGYI,PNX,North Texas Regional Airport / Perrin Field,small,33.7141,-96.6737,749,KZFW,NA,US,1,0
 KGYL,,Glencoe Municipal Airport,small,44.756,-94.0812,992,KZMP,NA,US,1,0
-KGZH,,Evergreen Regional Airport/Middleton Field,small,31.4158,-87.044,259,KZJX,NA,US,1,0
+KGZH,,Evergreen Regional Airport / Middleton Field,small,31.4158,-87.044,259,KZJX,NA,US,1,0
 KGZN,,Gregory M. Simmons Memorial Airport,small,32.36735,-99.02364,1711,KZFW,NA,US,1,0
 KGZS,,Abernathy Field,small,35.1537,-87.0568,685,KZME,NA,US,1,0
 KHAE,,Hannibal Regional Airport,small,39.7245,-91.4437,769,KZKC,NA,US,1,0
@@ -1033,7 +1031,7 @@ KHCD,,Hutchinson Municipal Butler Field,small,44.8599,-94.3825,1062,KZMP,NA,US,1
 KHCO,,Hallock Municipal Airport,small,48.7527,-96.943,819,KZMP,NA,US,1,0
 KHDC,,Hammond Northshore Regional Airport,small,30.5216,-90.4184,47,KZHU,NA,US,1,0
 KHDO,,South Texas Regional Airport at Hondo,small,29.3595,-99.1767,930,KZHU,NA,US,1,0
-KHEF,MNZ,Manassas Regional Airport/Harry P. Davis Field,small,38.7214,-77.5154,192,KZDC,NA,US,1,0
+KHEF,MNZ,Manassas Regional Airport / Harry P. Davis Field,small,38.7214,-77.5154,192,KZDC,NA,US,1,0
 KHEG,,Herlong Airport,small,30.2778,-81.8059,87,KZJX,NA,US,1,0
 KHEI,,Hettinger Municipal Airport,small,46.0149,-102.656,2705,KZMP,NA,US,1,0
 KHEQ,,Holyoke Airport,small,40.5694,-102.273,3730,KZDV,NA,US,1,0
@@ -1080,7 +1078,7 @@ KHZE,,Mercer County Regional Airport,small,47.2899,-101.581,1814,KZMP,NA,US,1,0
 KHZR,,False River Regional Airport,small,30.7183,-91.4787,40,KZHU,NA,US,1,0
 KHZX,,Isedor Iverson Airport,small,46.6188,-93.3098,1228,KZMP,NA,US,1,0
 KHZY,JFN,Northeast Ohio Regional Airport,small,41.778,-80.6955,924,KZOB,NA,US,1,0
-KIBM,,Kimball Municipal Robert E Arraj Field,small,41.1881,-103.677,4926,KZDV,NA,US,1,0
+KIBM,,Kimball Municipal Airport / Robert E. Arraj Field,small,41.1881,-103.677,4926,KZDV,NA,US,1,0
 KICR,,Winner Regional Airport,small,43.3902,-99.8421,2033,KZMP,NA,US,1,0
 KIDL,,Indianola Municipal Airport,small,33.4857,-90.6789,126,KZMP,NA,US,1,0
 KIEN,XPR,Pine Ridge Airport,small,43.0225,-102.511,3333,KZDV,NA,US,1,0
@@ -1104,11 +1102,11 @@ KIWI,ISS,Wiscasset Airport,small,43.9614,-69.7126,70,KZBW,NA,US,1,0
 KIXA,,Halifax-Northampton Regional Airport,small,36.3298,-77.63523,145,KZDC,NA,US,1,0
 KIXD,JCI,New Century Aircenter Airport,small,38.8309,-94.8903,1087,KZKC,NA,US,1,0
 KIZG,FRY,Eastern Slopes Regional Airport,small,43.9911,-70.9479,454,KZBW,NA,US,1,0
-KJAU,,Colonel Tommy C Stiner Airfield,small,36.3346,-84.1623,1180,KZTL,NA,US,1,0
-KJDD,,Wood County Airport - Collins Field,small,32.7422,-95.4965,434,KZFW,NA,US,1,0
+KJAU,,Colonel Tommy C. Stiner Airfield,small,36.3346,-84.1623,1180,KZTL,NA,US,1,0
+KJDD,,Wood County Airport / Collins Field,small,32.7422,-95.4965,434,KZFW,NA,US,1,0
 KJER,,Jerome County Airport,small,42.7267,-114.457,4053,KZLC,NA,US,1,0
 KJES,,Jesup Wayne County Airport,small,31.554,-81.8825,107,KZJX,NA,US,1,0
-KJFX,,Walker County Airport-Bevill Field,small,33.902,-87.3142,482,KZTL,NA,US,1,0
+KJFX,,Walker County Airport / Bevill Field,small,33.902,-87.3142,482,KZTL,NA,US,1,0
 KJFZ,,Tazewell County Airport,small,37.0637,-81.7983,2653,KZID,NA,US,1,0
 KJGG,,Williamsburg Jamestown Airport,small,37.2392,-76.7161,49,KZDC,NA,US,1,0
 KJKA,GUF,Jack Edwards Airport,small,30.2905,-87.6718,17,KZJX,NA,US,1,0
@@ -1121,9 +1119,9 @@ KJSO,JKV,Cherokee County Airport,small,31.8693,-95.2174,677,KZFW,NA,US,1,0
 KJSV,,Sallisaw Municipal Airport,small,35.4382,-94.8028,527,KZME,NA,US,1,0
 KJVY,,Clark Regional Airport,small,38.3654,-85.7382,474,KZID,NA,US,1,0
 KJWG,,Watonga Regional Airport,small,35.8647,-98.4208,1550,KZKC,NA,US,1,0
-KJWN,,John C Tune Airport,small,36.1824,-86.8867,495,KZME,NA,US,1,0
+KJWN,,John C. Tune Airport,small,36.1824,-86.8867,495,KZME,NA,US,1,0
 KJWY,,Mid-Way Regional Airport,small,32.4587,-96.9124,713,KZFW,NA,US,1,0
-KJXI,,Fox Stephens Field Gilmer Municipal Airport,small,32.699,-94.9489,415,KZFW,NA,US,1,0
+KJXI,,Gilmer Municipal Airport / Fox Stephens Field,small,32.699,-94.9489,415,KZFW,NA,US,1,0
 KJYG,,St James Municipal Airport,small,43.9863,-94.5579,1067,KZMP,NA,US,1,0
 KJYL,,Plantation Airpark,small,32.6453,-81.5971,188,KZJX,NA,US,1,0
 KJYM,,Hillsdale Municipal Airport,small,41.9213,-84.5858,1182,KZOB,NA,US,1,0
@@ -1132,21 +1130,21 @@ KJYR,,York Municipal Airport,small,40.8968,-97.6228,1670,KZMP,NA,US,1,0
 KJZI,,Charleston Executive Airport,small,32.7009,-80.0029,17,KZJX,NA,US,1,0
 KJZP,,Pickens County Airport,small,34.4534,-84.4574,1535,KZTL,NA,US,1,0
 KLBO,,Floyd W. Jones Lebanon Airport,small,37.6483,-92.6524,1321,KZKC,NA,US,1,0
-KLBR,,Clarksville Red River City-J D Trissell Field,small,33.5932,-95.0636,440,KZFW,NA,US,1,0
+KLBR,,Clarksville Red River County Airport / J.D. Trissell Field,small,33.5932,-95.0636,440,KZFW,NA,US,1,0
 KLBX,LJN,Texas Gulf Coast Regional Airport,medium,29.1086,-95.4621,25,KZHU,NA,US,1,0
 KLHB,,Hearne Municipal Airport,small,30.8718,-96.6222,285,KZHU,NA,US,1,0
-KLHM,,Lincoln Regional Karl Harder Field,small,38.9092,-121.351,121,KZOA,NA,US,1,0
+KLHM,,Lincoln Regional Airport / Karl Harder Field,small,38.9092,-121.351,121,KZOA,NA,US,1,0
 KLHQ,,Fairfield County Airport,small,39.7556,-82.6571,868,KZID,NA,US,1,0
-KLHW,LIY,Wright AAF (Fort Stewart)/Midcoast Regional Airport,small,31.8891,-81.5623,45,KZJX,NA,US,1,0
+KLHW,LIY,Midcoast Regional Airport,small,31.8891,-81.5623,45,KZJX,NA,US,1,0
 KLHX,,La Junta Municipal Airport,small,38.0497,-103.509,4229,KZDV,NA,US,1,0
 KLHZ,LFN,Triangle North Executive Airport,small,36.0233,-78.3303,369,KZDC,NA,US,1,0
 KLIU,,Littlefield Municipal Airport,small,33.9239,-102.387,3616,KZFW,NA,US,1,0
 KLJF,,Litchfield Municipal Airport,small,45.0971,-94.5073,1140,KZMP,NA,US,1,0
-KLKR,,Lancaster County-Mc Whirter Field,small,34.7229,-80.8546,486,KZTL,NA,US,1,0
-KLKU,LOW,Louisa County Airport/Freeman Field,small,38.0098,-77.9701,493,KZDC,NA,US,1,0
+KLKR,,Lancaster County Airport / McWhirter Field,small,34.7229,-80.8546,486,KZTL,NA,US,1,0
+KLKU,LOW,Louisa County Airport / Freeman Field,small,38.0098,-77.9701,493,KZDC,NA,US,1,0
 KLLJ,CHL,Challis Airport,small,44.523,-114.218,5072,KZLC,NA,US,1,0
 KLLN,,Levelland Municipal Airport,small,33.5525,-102.372,3514,KZFW,NA,US,1,0
-KLLQ,,Monticello Municipal Ellis Field,medium,33.6386,-91.751,270,KZME,NA,US,1,0
+KLLQ,,Monticello Municipal Airport / Ellis Field,medium,33.6386,-91.751,270,KZME,NA,US,1,0
 KLLR,,Little River Airport,small,39.262,-123.754,572,KZOA,NA,US,1,0
 KLLU,,Lamar Municipal Airport,small,37.4895,-94.3115,1009,KZKC,NA,US,1,0
 KLMO,,Vance Brand Airport,small,40.1637,-105.163,5055,KZDV,NA,US,1,0
@@ -1156,18 +1154,18 @@ KLOM,BBX,Wings Field,small,40.1375,-75.2651,302,KZNY,NA,US,1,0
 KLPR,,Lorain County Regional Airport,small,41.3443,-82.1776,793,KZOB,NA,US,1,0
 KLQR,,Larned Pawnee County Airport,small,38.2086,-99.086,2012,KZKC,NA,US,1,0
 KLRG,,Lincoln Regional Airport,small,45.3622,-68.5347,208,KZBW,NA,US,1,0
-KLRO,,Mt Pleasant Regional-Faison field,small,32.8978,-79.7829,12,KZJX,NA,US,1,0
+KLRO,,Mt Pleasant Regional Airport / Faison field,small,32.8978,-79.7829,12,KZJX,NA,US,1,0
 KLRY,,Lawrence Smith Memorial Airport,small,38.611,-94.3421,915,KZKC,NA,US,1,0
 KLTY,,Liberty County Airport,small,48.5107,-110.991,3160,KZLC,NA,US,1,0
 KLUD,,Decatur Municipal Airport,small,33.2546,-97.5806,1047,KZFW,NA,US,1,0
 KLUG,,Ellington Airport,small,35.507,-86.8039,717,KZME,NA,US,1,0
-KLUM,,Menomonie Municipal Score Field,small,44.8923,-91.8679,895,KZMP,NA,US,1,0
+KLUM,,Menomonie Municipal Airport / Score Field,small,44.8923,-91.8679,895,KZMP,NA,US,1,0
 KLUX,,Laurens County Airport,small,34.5071,-81.9472,697,KZTL,NA,US,1,0
 KLVJ,,Pearland Regional Airport,small,29.5213,-95.2421,44,KZHU,NA,US,1,0
 KLVN,,Airlake Airport,small,44.6279,-93.2281,960,KZMP,NA,US,1,0
 KLWA,,South Haven Area Regional Airport,small,42.3512,-86.2557,666,KZAU,NA,US,1,0
 KLWC,LWC,Lawrence Municipal Airport,small,39.0112,-95.2166,833,KZKC,NA,US,1,0
-KLXL,,Little Falls-Morrison County-Lindbergh field,small,45.9497,-94.3474,1123,KZMP,NA,US,1,0
+KLXL,,Little Falls-Morrison County Airport / Lindbergh field,small,45.9497,-94.3474,1123,KZMP,NA,US,1,0
 KLXT,,Lee's Summit Municipal Airport,small,38.9597,-94.3714,1004,KZKC,NA,US,1,0
 KLXY,,Mexia Limestone County Airport,small,31.6398,-96.5147,544,KZFW,NA,US,1,0
 KLYV,,Quentin Aanenson Field,small,43.6212,-96.2158,1431,KZMP,NA,US,1,0
@@ -1181,7 +1179,7 @@ KMBO,DXE,Bruce Campbell Field,small,32.4387,-90.1031,326,KZME,NA,US,1,0
 KMBT,,Murfreesboro Municipal Airport,small,35.8775,-86.3775,614,KZME,NA,US,1,0
 KMCX,,White County Airport,small,40.7088,-86.7668,676,KZAU,NA,US,1,0
 KMCZ,,Martin County Airport,small,35.8622,-77.1782,76,KZDC,NA,US,1,0
-KMDQ,,Madison County Executive Airport-Tom Sharp Jr Field,small,34.8614,-86.5575,756,KZTL,NA,US,1,0
+KMDQ,,Madison County Executive Airport / Tom Sharp Jr Field,small,34.8614,-86.5575,756,KZTL,NA,US,1,0
 KMDS,XMD,Madison Municipal Airport,small,44.016,-97.0859,1718,KZMP,NA,US,1,0
 KMDZ,MDF,Taylor County Airport,small,45.101,-90.3033,1478,KZMP,NA,US,1,0
 KMEB,MXE,Laurinburg Maxton Airport,small,34.7919,-79.3658,216,KZDC,NA,US,1,0
@@ -1192,7 +1190,7 @@ KMGG,,Maple Lake Municipal Airport,small,45.236,-93.9856,1028,KZMP,NA,US,1,0
 KMGN,,Harbor Springs Airport,small,45.4256,-84.9134,686,KZMP,NA,US,1,0
 KMHP,,Metter Municipal Airport,small,32.3739,-82.0792,197,KZJX,NA,US,1,0
 KMIO,,Miami Regional Airport,small,36.9092,-94.8875,808,KZKC,NA,US,1,0
-KMIT,MIT,Shafter Airport - Minter Field,small,35.5074,-119.192,424,KZLA,NA,US,1,0
+KMIT,MIT,Shafter Airport / Minter Field,small,35.5074,-119.192,424,KZLA,NA,US,1,0
 KMJD,,Picayune Municipal Airport,small,30.4875,-89.6512,55,KZHU,NA,US,1,0
 KMKA,,Miller Municipal Airport,small,44.5252,-98.9581,1569,KZMP,NA,US,1,0
 KMKJ,,Mountain Empire Airport,small,36.8949,-81.3499,2558,KZTL,NA,US,1,0
@@ -1206,7 +1204,7 @@ KMNF,,Mountain View Airport,small,36.9928,-91.7145,1181,KZKC,NA,US,1,0
 KMNI,,Santee Cooper Regional Airport,small,33.5871,-80.2087,103,KZJX,NA,US,1,0
 KMNV,,Monroe County Airport,small,35.5454,-84.3802,1031,KZTL,NA,US,1,0
 KMNZ,,Hamilton Municipal Airport,small,31.6659,-98.1486,1299,KZFW,NA,US,1,0
-KMOX,,Morris Municipal - Charlie Schmidt Airport,small,45.566,-95.9672,1138,KZMP,NA,US,1,0
+KMOX,,Morris Municipal Airport / Charlie Schmidt Field,small,45.566,-95.9672,1138,KZMP,NA,US,1,0
 KMPE,,Philadelphia Municipal Airport,small,32.7994,-89.126,458,KZME,NA,US,1,0
 KMPG,,Marshall County Airport,small,39.8808,-80.7358,1214,KZOB,NA,US,1,0
 KMPI,RMY,Mariposa Yosemite Airport,small,37.5109,-120.04,2254,KZOA,NA,US,1,0
@@ -1222,30 +1220,30 @@ KMWK,,Mount Airy Surry County Airport,small,36.4597,-80.553,1249,KZTL,NA,US,1,0
 KMYJ,,Mexico Memorial Airport,small,39.1575,-91.8183,823,KZKC,NA,US,1,0
 KMYZ,,Marysville Municipal Airport,small,39.8553,-96.6306,1283,KZKC,NA,US,1,0
 KMZH,,Moose Lake Carlton County Airport,small,46.4188,-92.8047,1076,KZMP,NA,US,1,0
-KNBJ,NHX,Naval Outlying Field Barin,small,30.3891,-87.6353,54,KZJX,NA,US,1,0
-KNDY,DGN,Dahlgren Naval Surface Warfare Center Airport,small,38.3325,-77.0372,18,KZDC,NA,US,1,0
-KNDZ,,Whiting Field Naval Air Station South Airport,medium,30.7044,-87.023,177,KZJX,NA,US,1,0
-KNFD,,Summerdale Naval Outlying Field,small,30.5077,-87.6455,149,KZJX,NA,US,1,0
-KNFE,,Fentress Naval Auxiliary Landing Field,small,36.6951,-76.1355,16,KZDC,NA,US,1,0
+KNBJ,NHX,Barin Nolf Airport,small,30.3891,-87.6353,54,KZJX,NA,US,1,0
+KNDY,DGN,Dahlgren NSWC,small,38.3325,-77.0372,18,KZDC,NA,US,1,0
+KNDZ,,Whiting Field NAS South Airport,medium,30.7044,-87.023,177,KZJX,NA,US,1,0
+KNFD,,Summerdale NOLF,small,30.5077,-87.6455,149,KZJX,NA,US,1,0
+KNFE,,Fentress NALF,small,36.6951,-76.1355,16,KZDC,NA,US,1,0
 KNFJ,,Choctaw Nolf Airport,small,30.5069,-86.9597,102,KZJX,NA,US,1,0
-KNFW,FWH,NAS Fort Worth JRB/Carswell Field,medium,32.7692,-97.4415,650,KZFW,NA,US,1,0
+KNFW,FWH,NAS JRB Fort Worth Airport / Carswell Field,medium,32.7692,-97.4415,650,KZFW,NA,US,1,0
 KNGS,,Santa Rosa Nolf Airport,small,30.6108,-86.94,150,KZJX,NA,US,1,0
 KNGW,,Cabaniss Field Nolf Airport,small,27.7003,-97.4344,30,KZHU,NA,US,1,0
 KNHZ,NHZ,Brunswick Executive Airport,medium,43.8922,-69.9386,72,KZBW,NA,US,1,0
-KNID,,China Lake Naws (Armitage Field) Airport,medium,35.6854,-117.692,2283,KZLA,NA,US,1,0
-KNJM,,Bogue Field Mcalf Airport,small,34.6904,-77.0297,21,KZDC,NA,US,1,0
+KNID,,China Lake NAWS / Armitage Field,medium,35.6854,-117.692,2283,KZLA,NA,US,1,0
+KNJM,,Bogue Field MCALF,small,34.6904,-77.0297,21,KZDC,NA,US,1,0
 KNJW,,Joe Williams Nolf Airport,small,32.7962,-88.8317,539,KZME,NA,US,1,0
-KNOG,,Orange Grove Naval Auxiliary Landing Field,small,27.9011,-98.0517,257,KZHU,NA,US,1,0
-KNOW,,Port Angeles Cgas Airport,small,48.1415,-123.414,13,KZSE,NA,US,1,0
-KNQB,,Silverhill Nolf Airport,small,30.5636,-87.8097,129,KZJX,NA,US,1,0
-KNRA,,Coupeville Nolf Airport,small,48.1883,-122.632,199,KZSE,NA,US,1,0
+KNOG,,Orange Grove NALF,small,27.9011,-98.0517,257,KZHU,NA,US,1,0
+KNOW,,Port Angeles CGAS,small,48.1415,-123.414,13,KZSE,NA,US,1,0
+KNQB,,Silverhill NOLF,small,30.5636,-87.8097,129,KZJX,NA,US,1,0
+KNRA,,Coupeville NOLF,small,48.1883,-122.632,199,KZSE,NA,US,1,0
 KNRN,,Norton Municipal Airport,small,39.8504,-99.8947,2383,KZDV,NA,US,1,0
-KNRQ,,Spencer Nolf Airport,small,30.6253,-87.14,151,KZJX,NA,US,1,0
-KNSI,,San Nicolas Island Nolf Airport,small,33.2398,-119.458,506,KZLA,NA,US,1,0
-KNUC,,San Clemente Island Naval Auxiliary Landing Field,small,33.0227,-118.588,184,KZLA,NA,US,1,0
-KNUI,,Webster Nolf Airport,small,38.146,-76.4286,22,KZDC,NA,US,1,0
-KNWL,,Waldron Field Nolf Airport,small,27.635,-97.3122,25,KZHU,NA,US,1,0
-KNXP,,Twentynine Palms Strategic Expeditionary Landing Field,medium,34.2962,-116.162,2051,KZLA,NA,US,1,0
+KNRQ,,Spencer NOLF,small,30.6253,-87.14,151,KZJX,NA,US,1,0
+KNSI,,San Nicolas Island NOLF,small,33.2398,-119.458,506,KZLA,NA,US,1,0
+KNUC,,San Clemente Island NALF,small,33.0227,-118.588,184,KZLA,NA,US,1,0
+KNUI,,Webster NOLF,small,38.146,-76.4286,22,KZDC,NA,US,1,0
+KNWL,,Waldron NOLF,small,27.635,-97.3122,25,KZHU,NA,US,1,0
+KNXP,,Twentynine Palms SELF,medium,34.2962,-116.162,2051,KZLA,NA,US,1,0
 KOBI,,Woodbine Municipal Airport,small,39.2192,-74.7948,42,KZDC,NA,US,1,0
 KOCQ,,J. Douglas Bake Memorial Airport,small,44.8742,-87.9096,604,KZMP,NA,US,1,0
 KODO,,Odessa Schlemeyer Field,small,31.9206,-102.387,3004,KZFW,NA,US,1,0
@@ -1256,9 +1254,9 @@ KOEL,,Oakley Municipal Airport,small,39.1099,-100.816,3045,KZDV,NA,US,1,0
 KOFP,,Hanover County Municipal Airport,small,37.709,-77.4367,207,KZDC,NA,US,1,0
 KOGM,,Ontonagon County Schuster Field,small,46.8455,-89.3671,669,KZMP,NA,US,1,0
 KOIN,,Oberlin Municipal Airport,small,39.8339,-100.539,2703,KZDV,NA,US,1,0
-KOJA,,Thomas P Stafford Airport,small,35.5448,-98.6685,1605,KZFW,NA,US,1,0
+KOJA,,Thomas P. Stafford Airport,small,35.5448,-98.6685,1605,KZFW,NA,US,1,0
 KOKB,OCN,Oceanside Municipal Airport,small,33.2173,-117.354,28,KZLA,NA,US,1,0
-KOKH,ODW,AJ Eisenberg Airport,small,48.2515,-122.674,193,KZSE,NA,US,1,0
+KOKH,ODW,A.J. Eisenberg Airport,small,48.2515,-122.674,193,KZSE,NA,US,1,0
 KOKV,WGO,Winchester Regional Airport,small,39.1435,-78.1444,726,KZDC,NA,US,1,0
 KOKZ,,Kaolin Field,small,32.9667,-82.8382,438,KZTL,NA,US,1,0
 KOLG,,Solon Springs Municipal Airport,small,46.3148,-91.8164,1102,KZMP,NA,US,1,0
@@ -1291,11 +1289,11 @@ KOXV,,Knoxville Municipal Airport,small,41.2989,-93.1138,928,KZAU,NA,US,1,0
 KOYM,STQ,St Marys Municipal Airport,small,41.4125,-78.5026,1934,KZOB,NA,US,1,0
 KOZW,,Livingston County Spencer J. Hardy Airport,small,42.6292,-83.9821,962,KZOB,NA,US,1,0
 KPAN,PJB,Payson Airport,small,34.2568,-111.339,5157,KZAB,NA,US,1,0
-KPAO,PAO,Palo Alto Airport of Santa Clara County,small,37.4611,-122.115,4,KZOA,NA,US,1,0
+KPAO,PAO,Palo Alto Airport,small,37.4611,-122.115,4,KZOA,NA,US,1,0
 KPBH,,Price County Airport,small,45.709,-90.4025,1497,KZMP,NA,US,1,0
-KPBX,PVL,Pike County-Hatcher Field,small,37.5618,-82.5664,1473,KZID,NA,US,1,0
+KPBX,PVL,Pike County Airport / Hatcher Field,small,37.5618,-82.5664,1473,KZID,NA,US,1,0
 KPCM,,Plant City Municipal Airport,small,28.0002,-82.1642,153,KZMA,NA,US,1,0
-KPCW,,Carl R Keller Field,small,41.5163,-82.8687,590,KZOB,NA,US,1,0
+KPCW,,Carl R. Keller Field,small,41.5163,-82.8687,590,KZOB,NA,US,1,0
 KPCZ,,Waupaca Municipal Airport,small,44.3333,-89.0198,840,KZMP,NA,US,1,0
 KPDC,PCD,Prairie Du Chien Municipal Airport,small,43.0193,-91.1237,661,KZAU,NA,US,1,0
 KPEA,,Pella Municipal Airport,small,41.4001,-92.9459,885,KZAU,NA,US,1,0
@@ -1303,13 +1301,13 @@ KPEO,,Penn Yan Airport,small,42.6371,-77.0529,990,KZOB,NA,US,1,0
 KPEX,,Paynesville Municipal Airport,small,45.3723,-94.7466,1180,KZMP,NA,US,1,0
 KPEZ,,Pleasanton Municipal Airport,small,28.9542,-98.52,430,KZHU,NA,US,1,0
 KPHG,,Phillipsburg Municipal Airport,small,39.7358,-99.3171,1907,KZDV,NA,US,1,0
-KPHH,ADR,Robert F Swinnie Airport,small,33.4517,-79.5262,26,KZJX,NA,US,1,0
+KPHH,ADR,Robert F. Swinnie Airport,small,33.4517,-79.5262,26,KZJX,NA,US,1,0
 KPIL,,Port Isabel Cameron County Airport,small,26.1662,-97.3459,19,KZHU,NA,US,1,0
 KPJC,,Zelienople Municipal Airport,small,40.8016,-80.1607,898,KZOB,NA,US,1,0
 KPJY,,Pinckneyville Du Quoin Airport,small,37.9779,-89.3605,400,KZKC,NA,US,1,0
 KPKV,,Calhoun County Airport,small,28.654,-96.6813,32,KZHU,NA,US,1,0
 KPLD,,Portland Municipal Airport,small,40.4508,-84.9901,925,KZID,NA,US,1,0
-KPLU,,Pierce County-Thun Field,small,47.1039,-122.287,538,KZSE,NA,US,1,0
+KPLU,,Pierce County Airport / Thun Field,small,47.1039,-122.287,538,KZSE,NA,US,1,0
 KPMP,PPM,Pompano Beach Airpark,small,26.2471,-80.1111,19,KZMA,NA,US,1,0
 KPMU,,Panola County Airport,small,34.3635,-89.8926,221,KZME,NA,US,1,0
 KPMV,,Plattsmouth Municipal Airport,small,40.9502,-95.9179,1204,KZMP,NA,US,1,0
@@ -1322,10 +1320,10 @@ KPPQ,,Pittsfield Penstone Municipal Airport,small,39.6389,-90.7784,710,KZKC,NA,U
 KPQL,PGL,Trent Lott International Airport,small,30.4628,-88.5292,17,KZHU,NA,US,1,1
 KPQN,,Pipestone Municipal Airport,small,43.9833,-96.3003,1736,KZMP,NA,US,1,0
 KPRG,,Edgar County Airport,small,39.7002,-87.6696,654,KZID,NA,US,1,0
-KPRN,,Mac Crenshaw Memorial Airport,small,31.8457,-86.6107,451,KZTL,NA,US,1,0
+KPRN,,McCrenshaw Memorial Airport,small,31.8457,-86.6107,451,KZTL,NA,US,1,0
 KPRZ,,Portales Municipal Airport,small,34.1455,-103.41,4078,KZAB,NA,US,1,0
 KPSO,PGO,Stevens Field,small,37.2863,-107.056,7664,KZDV,NA,US,1,0
-KPTD,,Potsdam Municipal-Damon field,small,44.6767,-74.9484,474,KZBW,NA,US,1,0
+KPTD,,Potsdam Municipal Airport / Damon field,small,44.6767,-74.9484,474,KZBW,NA,US,1,0
 KPVB,,Platteville Municipal Airport,small,42.6894,-90.4444,1025,KZAU,NA,US,1,0
 KPVE,,Beech River Regional Airport,small,35.6564,-88.1954,488,KZME,NA,US,1,0
 KPVG,,Hampton Roads Executive Airport,small,36.7802,-76.4488,28,KZDC,NA,US,1,0
@@ -1343,7 +1341,7 @@ KRAW,,Warsaw Municipal Airport,small,38.3469,-93.3454,936,KZKC,NA,US,1,0
 KRBE,,Rock County Airport,small,42.5697,-99.5684,2349,KZDV,NA,US,1,0
 KRBO,,Nueces County Airport,small,27.7785,-97.6905,79,KZHU,NA,US,1,0
 KRCM,,Skyhaven Airport,small,38.7842,-93.8029,798,KZKC,NA,US,1,0
-KRCP,,Stockton / Rooks County Regional,small,39.34659,-99.30465,1998,KZDV,NA,US,1,0
+KRCP,,Rooks County Regional Airport,small,39.34659,-99.30465,1998,KZDV,NA,US,1,0
 KRCX,,Rusk County Airport,small,45.4968,-91.0005,1238,KZMP,NA,US,1,0
 KRCZ,,Richmond County Airport,small,34.8913,-79.7596,358,KZDC,NA,US,1,0
 KRDK,,Red Oak Municipal Airport,small,41.0105,-95.2599,1045,KZMP,NA,US,1,0
@@ -1361,9 +1359,9 @@ KRNP,,Owosso Community Airport,small,42.993,-84.1389,736,KZOB,NA,US,1,0
 KRNV,,Cleveland Municipal Airport,small,33.7611,-90.7579,139,KZME,NA,US,1,0
 KROS,,Rush City Regional Airport,small,45.698,-92.953,926,KZMP,NA,US,1,0
 KRPB,,Belleville Municipal Airport,small,39.8179,-97.6596,1537,KZMP,NA,US,1,0
-KRPD,RIE,Rice Lake Regional Airport - Carl's Field,small,45.419,-91.7735,1109,KZMP,NA,US,1,0
+KRPD,RIE,Rice Lake Regional Airport / Carl's Field,small,45.419,-91.7735,1109,KZMP,NA,US,1,0
 KRPH,,Graham Municipal Airport,small,33.1102,-98.5553,1123,KZFW,NA,US,1,0
-KRPJ,,Rochelle Municipal Airport - Koritz Field,small,41.893,-89.0783,781,KZAU,NA,US,1,0
+KRPJ,,Rochelle Municipal Airport / Koritz Field,small,41.893,-89.0783,781,KZAU,NA,US,1,0
 KRQB,WBR,Roben Hood Airport,small,43.7226,-85.5041,990,KZMP,NA,US,1,0
 KRQE,,Window Rock Airport,small,35.6521,-109.067,6742,KZAB,NA,US,1,0
 KRQO,RQO,El Reno Regional Airport,small,35.4727,-98.0058,1420,KZFW,NA,US,1,0
@@ -1372,12 +1370,12 @@ KRSV,,Robinson Municipal Airport,small,39.016,-87.6498,462,KZID,NA,US,1,0
 KRUE,,Russellville Regional Airport,small,35.2591,-93.0933,404,KZME,NA,US,1,0
 KRUG,,Rugby Municipal Airport,small,48.3904,-100.024,1548,KZMP,NA,US,1,0
 KRUQ,SRW,Mid-Carolina Regional Airport,small,35.6459,-80.5203,772,KZTL,NA,US,1,0
-KRVJ,,Swinton Smith Field at Reidsville Municipal Airport,small,32.059,-82.1517,195,KZJX,NA,US,1,0
+KRVJ,,Reidsville Municipal Airport,small,32.059,-82.1517,195,KZJX,NA,US,1,0
 KRVL,RED,Mifflin County Airport,small,40.6774,-77.6268,819,KZNY,NA,US,1,0
 KRVN,,Hawkins County Airport,small,36.4576,-82.885,1255,KZTL,NA,US,1,0
 KRWN,,Arens Field,small,41.0923,-86.6129,711,KZAU,NA,US,1,0
 KRWV,,Caldwell Municipal Airport,small,30.5155,-96.7041,391,KZHU,NA,US,1,0
-KRYM,,Ray S Miller Army Air Field,small,46.0912,-94.3605,1150,KZMP,NA,US,1,0
+KRYM,,Ray S. Miller AAF,small,46.0912,-94.3605,1150,KZMP,NA,US,1,0
 KRYN,,Ryan Field,small,32.1422,-111.175,2417,KZAB,NA,US,1,0
 KRYV,,Watertown Municipal Airport,small,43.1696,-88.7232,833,KZAU,NA,US,1,0
 KRYW,,Lago Vista Texas Rusty Allen Airport,small,30.4986,-97.9695,1231,KZHU,NA,US,1,0
@@ -1388,19 +1386,19 @@ KRZT,,Ross County Airport,small,39.4404,-83.0231,725,KZID,NA,US,1,0
 KSAZ,,Staples Municipal Airport,small,46.3809,-94.8066,1287,KZMP,NA,US,1,0
 KSBO,,Emanuel County Airport,small,32.6091,-82.3699,327,KZTL,NA,US,1,0
 KSBU,,Blue Earth Municipal Airport,small,43.5953,-94.0928,1107,KZMP,NA,US,1,0
-KSCD,,Merkel Field Sylacauga Municipal Airport,small,33.1718,-86.3055,569,KZTL,NA,US,1,0
+KSCD,,Sylacauga Municipal Airport / Merkel Field,small,33.1718,-86.3055,569,KZTL,NA,US,1,0
 KSCX,,Scott Municipal Airport,small,36.4556,-84.5857,1545,KZID,NA,US,1,0
 KSDA,,Shenandoah Municipal Airport,small,40.7516,-95.4137,971,KZMP,NA,US,1,0
 KSDC,,Williamson Sodus Airport,small,43.2347,-77.121,424,KZOB,NA,US,1,0
 KSDL,SCF,Scottsdale Airport,small,33.6229,-111.911,1510,KZAB,NA,US,1,0
-KSEQ,,Randolph Air Force Base Auxiliary Airport,small,29.5658,-97.9083,525,KZHU,NA,US,1,0
+KSEQ,,Randolph AFBAF,small,29.5658,-97.9083,525,KZHU,NA,US,1,0
 KSET,,St Charles County Smartt Airport,small,38.9297,-90.43,437,KZKC,NA,US,1,0
 KSEZ,SDX,Sedona Airport,small,34.8486,-111.788,4830,KZAB,NA,US,1,0
 KSFQ,,Suffolk Executive Airport,small,36.6824,-76.6019,72,KZDC,NA,US,1,0
 KSFY,,Tri Township Airport,small,42.0458,-90.1079,616,KZAU,NA,US,1,0
 KSGJ,UST,Northeast Florida Regional Airport,medium,29.9592,-81.3398,10,KZJX,NA,US,1,0
 KSGR,SGR,Sugar Land Regional Airport,medium,29.6223,-95.6565,82,KZHU,NA,US,1,0
-KSGS,,South St Paul Municipal Richard E Fleming field,small,44.8571,-93.0329,821,KZMP,NA,US,1,0
+KSGS,,South St Paul Municipal Airport / Richard E. Fleming field,small,44.8571,-93.0329,821,KZMP,NA,US,1,0
 KSGU,SGU,St George Municipal Airport,medium,37.03639,-113.51031,2941,KZLA,NA,US,1,0
 KSHL,,Sheldon Regional Airport,small,43.2084,-95.8334,1419,KZMP,NA,US,1,0
 KSIF,,Rockingham County NC Shiloh Airport,small,36.4372,-79.851,694,KZDC,NA,US,1,0
@@ -1420,7 +1418,7 @@ KSPW,SPW,Spencer Municipal Airport,small,43.1655,-95.2028,1339,KZMP,NA,US,1,0
 KSRB,,Upper Cumberland Regional Airport,small,36.0559,-85.5307,1025,KZME,NA,US,1,0
 KSRE,,Seminole Municipal Airport,small,35.2747,-96.6752,1024,KZFW,NA,US,1,0
 KSSQ,,Shell Lake Municipal Airport,small,45.7314,-91.9207,1233,KZMP,NA,US,1,0
-KSTF,,George M Bryan Airport,small,33.4331,-88.8486,333,KZME,NA,US,1,0
+KSTF,,George M. Bryan Airport,small,33.4331,-88.8486,333,KZME,NA,US,1,0
 KSTS,STS,Charles M. Schulz Sonoma County Airport,medium,38.509,-122.813,128,KZOA,NA,US,1,0
 KSUD,SUD,Stroud Municipal Airport,small,35.7896,-96.6557,900,KZKC,NA,US,1,0
 KSUO,,Rosebud Sioux Tribal Airport,small,43.2585,-100.85952,2724,KZDV,NA,US,1,0
@@ -1433,19 +1431,19 @@ KSXL,,Summersville Airport,small,38.2316,-80.8708,1820,KZID,NA,US,1,0
 KSYF,,Cheyenne County Municipal Airport,small,39.7611,-101.796,3413,KZDV,NA,US,1,0
 KSZT,,Sandpoint Airport,small,48.2995,-116.56,2131,KZSE,NA,US,1,0
 KSZY,,Robert Sibley Airport,small,35.2029,-88.4984,610,KZME,NA,US,1,0
-KTAN,,Taunton Municipal King Field,small,41.8744,-71.0166,43,KZBW,NA,US,1,0
+KTAN,,Taunton Municipal Airport / King Field,small,41.8744,-71.0166,43,KZBW,NA,US,1,0
 KTAZ,,Taylorville Municipal Airport,small,39.5342,-89.3278,622,KZKC,NA,US,1,0
 KTCY,,Tracy Municipal Airport,small,37.689,-121.442,193,KZOA,NA,US,1,0
-KTDF,,Raleigh Regional Airport at Person County,small,36.2849,-78.9842,609,KZDC,NA,US,1,0
+KTDF,,Raleigh Regional Airport,small,36.2849,-78.9842,609,KZDC,NA,US,1,0
 KTEL,,Perry County Municipal Airport,small,38.0177,-86.6909,660,KZID,NA,US,1,0
 KTEW,,Mason Jewett Field,small,42.5658,-84.4232,920,KZOB,NA,US,1,0
 KTFP,,McCampbell-Porter Airport,small,27.913,-97.2115,18,KZHU,NA,US,1,0
 KTGC,,Gibson County Airport,small,35.9325,-88.8489,359,KZME,NA,US,1,0
 KTGI,,Tangier Island Airport,small,37.8251,-75.9978,5,KZDC,NA,US,1,0
 KTIF,,Thomas County Airport,small,41.9622,-100.569,2925,KZDV,NA,US,1,0
-KTIP,,Rantoul National Avn Center-Frank Elliot field,small,40.2936,-88.1424,737,KZAU,NA,US,1,0
+KTIP,,Rantoul NAC / Frank Elliot Field,small,40.2936,-88.1424,737,KZAU,NA,US,1,0
 KTKC,,Tracy Municipal Airport,small,44.2491,-95.6073,1340,KZMP,NA,US,1,0
-KTKI,,Collin County Regional At Mc Kinney Airport,small,33.1779,-96.5905,585,KZFW,NA,US,1,0
+KTKI,,Collin County Regional Airport,small,33.1779,-96.5905,585,KZFW,NA,US,1,0
 KTKO,,Mankato Airport,small,39.8028,-98.2212,1859,KZMP,NA,US,1,0
 KTKV,,Tomahawk Regional Airport,small,45.4691,-89.8057,1487,KZMP,NA,US,1,0
 KTKX,KNT,Kennett Memorial Airport,small,36.2259,-90.0366,262,KZME,NA,US,1,0
@@ -1460,12 +1458,12 @@ KTRK,TKF,Truckee Tahoe Airport,medium,39.32,-120.14,5900,KZOA,NA,US,1,0
 KTSO,,Carroll County-Tolson Airport,small,40.5619,-81.0775,1163,KZOB,NA,US,1,0
 KTTA,,Sanford-Lee County Regional Airport,small,35.5837,-79.1008,246,KZDC,NA,US,1,0
 KTTF,,Custer Airport,small,41.9399,-83.4347,616,KZOB,NA,US,1,0
-KTTS,,NASA Shuttle Landing Facility Airport,medium,28.615,-80.6945,10,KZMA,NA,US,1,0
+KTTS,,NASA Shuttle Landing Facility,medium,28.615,-80.6945,10,KZMA,NA,US,1,0
 KTVB,,Cabool Memorial Airport,small,37.1324,-92.084,1220,KZKC,NA,US,1,0
 KTVK,,Centerville Municipal Airport,small,40.6839,-92.901,1023,KZAU,NA,US,1,0
 KTVR,,Vicksburg Tallulah Regional Airport,small,32.3516,-91.0277,86,KZME,NA,US,1,0
-KTVY,,Bolinder Field Tooele Valley Airport,small,40.6123,-112.351,4322,KZLC,NA,US,1,0
-KTWM,,Richard B Helgeson Airport,small,47.0492,-91.7451,1073,KZMP,NA,US,1,0
+KTVY,,Tooele Valley Airport / Bolinder Field,small,40.6123,-112.351,4322,KZLC,NA,US,1,0
+KTWM,,Richard B. Helgeson Airport,small,47.0492,-91.7451,1073,KZMP,NA,US,1,0
 KTWT,,Sturgis Municipal Airport,small,37.5408,-87.9518,372,KZME,NA,US,1,0
 KTYL,TYZ,Taylor Airport,small,34.4528,-110.115,5823,KZAB,NA,US,1,0
 KTYQ,,Indianapolis Executive Airport,small,40.0307,-86.2514,922,KZAU,NA,US,1,0
@@ -1481,7 +1479,7 @@ KUKF,IKB,Wilkes County Airport,small,36.2228,-81.0983,1301,KZTL,NA,US,1,0
 KUKL,,Coffey County Airport,small,38.3025,-95.725,1174,KZKC,NA,US,1,0
 KULS,,Ulysses Airport,small,37.604,-101.374,3071,KZKC,NA,US,1,0
 KUMP,,Indianapolis Metropolitan Airport,small,39.9352,-86.045,811,KZID,NA,US,1,0
-KUNI,ATO,Ohio University Snyder Field,small,39.211,-82.2314,766,KZID,NA,US,1,0
+KUNI,ATO,Ohio University Airport / Snyder Field,small,39.211,-82.2314,766,KZID,NA,US,1,0
 KUNO,,West Plains Municipal Airport,small,36.8784,-91.9027,1228,KZME,NA,US,1,0
 KUNV,SCE,University Park Airport,medium,40.8493,-77.8487,1239,KZNY,NA,US,1,0
 KUSE,,Fulton County Airport,small,41.6101,-84.1272,779,KZOB,NA,US,1,0
@@ -1492,9 +1490,9 @@ KUUV,,Sullivan Regional Airport,small,38.2335,-91.1643,933,KZKC,NA,US,1,0
 KUWL,,New Castle Henry County Airport / Marlatt Field,small,39.8759,-85.3265,1088,KZID,NA,US,1,0
 KUXL,,Southland Field,small,30.1314,-93.3761,10,KZHU,NA,US,1,0
 KUYF,,Madison County Airport,small,39.9327,-83.462,1082,KZID,NA,US,1,0
-KUZA,RKH,Rock Hill - York County Airport,small,34.9878,-81.0572,666,KZTL,NA,US,1,0
+KUZA,RKH,Rock Hill York County Airport,small,34.9878,-81.0572,666,KZTL,NA,US,1,0
 KVAY,LLY,South Jersey Regional Airport,small,39.9429,-74.8457,53,KZDC,NA,US,1,0
-KVBT,,Bentonville Municipal-Louise M Thaden Field,small,36.3457,-94.2193,1296,KZME,NA,US,1,0
+KVBT,,Bentonville Municipal Airport / Louise M. Thaden Field,small,36.3457,-94.2193,1296,KZME,NA,US,1,0
 KVCB,,Nut Tree Airport,small,38.3768,-121.962,117,KZOA,NA,US,1,0
 KVDF,,Tampa Executive Airport,small,28.014,-82.3453,22,KZJX,NA,US,1,0
 KVER,,Jesse Viertel Memorial Airport,small,38.9467,-92.6827,715,KZKC,NA,US,1,0
@@ -1511,9 +1509,9 @@ KVTI,,Vinton Veterans Memorial Airpark,small,42.2186,-92.0259,842,KZAU,NA,US,1,0
 KVUJ,,Stanly County Airport,small,35.4167,-80.1508,609,KZTL,NA,US,1,0
 KVUO,,Pearson Field,small,45.6205,-122.656,25,KZSE,NA,US,1,0
 KVVS,,Joseph A. Hardy Connellsville Airport,small,39.9592,-79.6571,1267,KZOB,NA,US,1,0
-KVVV,,Ortonville Municipal Martinson Field,small,45.3057,-96.4244,1100,KZMP,NA,US,1,0
+KVVV,,Ortonville Municipal Airport / Martinson Field,small,45.3057,-96.4244,1100,KZMP,NA,US,1,0
 KVWU,,Waskish Municipal Airport,small,48.1541,-94.5169,1181,KZMP,NA,US,1,0
-KWAL,WAL,Wallops Flight Facility Airport,small,37.9402,-75.4664,40,KZDC,NA,US,1,0
+KWAL,WAL,Wallops Flight Facility,small,37.9402,-75.4664,40,KZDC,NA,US,1,0
 KWLD,WLD,Strother Field,small,37.1686,-97.0376,1160,KZKC,NA,US,1,0
 KXBP,,Bridgeport Municipal Airport,small,33.1753,-97.8284,852,KZFW,NA,US,1,0
 KXFL,,Flagler Executive Airport,small,29.4674,-81.2063,33,KZJX,NA,US,1,0
@@ -1524,13 +1522,13 @@ KXSA,,Tappahannock-Essex County Airport,small,37.8596,-76.8941,135,KZDC,NA,US,1,
 KXTA,,Homey (Area 51) Airport,medium,37.235,-115.811,4462,KZLA,NA,US,1,0
 KXVG,,Longville Municipal Airport,small,46.9902,-94.204,1334,KZMP,NA,US,1,0
 KZEF,,Elkin Municipal Airport,small,36.28,-80.7861,1068,KZTL,NA,US,1,0
-KZER,,Schuylkill County /Joe Zerbey/ Airport,small,40.7065,-76.3731,1729,KZNY,NA,US,1,0
+KZER,,Schuylkill County / Joe Zerbey Airport,small,40.7065,-76.3731,1729,KZNY,NA,US,1,0
 KZUN,,Black Rock Airport,small,35.0832,-108.792,6454,KZAB,NA,US,1,0
-LBBA,,Bahovitsa,small,43.20611,24.65556,,LBSR,EU,BG,1,0
+LBBA,,Bahovitsa Airport,small,43.20611,24.65556,,LBSR,EU,BG,1,0
 LBBO,,Bohot Airport,small,43.30639,24.69139,1162,LBSR,EU,BG,1,0
-LBBQ,,Byala,small,43.46348,25.71161,,LBSR,EU,BG,1,0
-LBBZ,,Bazan,small,43.72843,26.1197,,LBSR,EU,BG,1,0
-LBDA,,Daskal Atanasovo,small,42.32139,25.89361,129,LBSR,EU,BG,1,0
+LBBQ,,Byala Airport,small,43.46348,25.71161,,LBSR,EU,BG,1,0
+LBBZ,,Bazan Airport,small,43.72843,26.1197,,LBSR,EU,BG,1,0
+LBDA,,Daskal Atanasovo Airport,small,42.32139,25.89361,129,LBSR,EU,BG,1,0
 LBDB,,Dolna Banya Airport,small,42.30853,23.82042,1779,LBSR,EU,BG,1,0
 LBGI,,Gorski Izvor Airstrip,small,42.03583,25.40833,164,LBSR,EU,BG,1,0
 LBGR,,Grivitsa Airfield,small,43.41506,24.73052,919,LBSR,EU,BG,1,0
@@ -1539,7 +1537,7 @@ LBKL,,Kalvacha Airport,small,42.58625,25.42625,1083,LBSR,EU,BG,1,0
 LBLS,,Lesnovo Airport,small,42.6345,23.64644,1825,LBSR,EU,BG,1,0
 LBMA,,Maritsa Airfield,small,42.2652,24.7205,630,LBSR,EU,BG,1,0
 LBRD,,Erden Airport,small,43.49917,23.30472,617,LBSR,EU,BG,1,0
-LBSB,,Slanchev Bryag,small,42.72638,27.62503,,LBSR,EU,BG,1,0
+LBSB,,Slanchev Bryag Airport,small,42.72638,27.62503,,LBSR,EU,BG,1,0
 LBSL,,Sliven Airfield,small,42.6463,26.3594,656,LBSR,EU,BG,1,0
 LBST,,Stryama Airfield,small,42.54028,24.82522,916,LBSR,EU,BG,1,0
 LBTG,TGV,Bukhovtsi Airfield,small,43.3066,26.7009,666,LBSR,EU,BG,1,0
@@ -1547,69 +1545,69 @@ LBVD,,Vidin Smurdan Airfield,small,44.0224,22.8161,200,LBSR,EU,BG,1,0
 LBWV,,Izgrev Airport,small,43.27722,27.70194,1119,LBSR,EU,BG,1,0
 LCEN,ECN,Ercan International Airport,medium,35.1547,33.4961,404,LCCC,AS,CY,1,1
 LDZI,,Ivanić-Grad Airstrip,small,45.71987,16.34327,,LDZO,EU,HR,1,0
-LDZS,,Sisak,small,45.46556,16.48639,,LDZO,EU,HR,1,0
-LELI,,Aeródromo de Linares,small,38.13321,-3.64255,1033,LECM,EU,ES,1,0
-LENE,,La Caminera,small,38.66867,-3.30315,,LECM,EU,ES,1,0
-LENN,,La Centenera,small,38.11489,-4.11547,2169,LECM,EU,ES,1,0
-LEOS,,Aeródromo de los Oteros,small,42.33306,-5.45194,2620,LECM,EU,ES,1,0
+LDZS,,Sisak Airport,small,45.46556,16.48639,,LDZO,EU,HR,1,0
+LELI,,Linares Airport,small,38.13321,-3.64255,1033,LECM,EU,ES,1,0
+LENE,,La Caminera Airport,small,38.66867,-3.30315,,LECM,EU,ES,1,0
+LENN,,La Centenera Airport,small,38.11489,-4.11547,2169,LECM,EU,ES,1,0
+LEOS,,Los Oteros Airport,small,42.33306,-5.45194,2620,LECM,EU,ES,1,0
 LEPR,,Palma Del Río Airport,small,37.7153,-5.21356,408,LECM,EU,ES,1,0
-LEVE,,Aeródromo Virgen de La Estrella,small,38.42056,-6.35694,1837,LECM,EU,ES,1,0
+LEVE,,Virgen de La Estrella Airport,small,38.42056,-6.35694,1837,LECM,EU,ES,1,0
 LEVI,,Viso del Marqués Airport,small,38.5056,-3.42615,2672,LECM,EU,ES,1,0
-LFDZ,,Condat sur Vézère,small,45.1,1.217,499,LFBB,EU,FR,1,0
-LFFO,,Beauvoir Fromentine,small,46.89072,-2.08873,10,LFRR,EU,FR,1,0
-LFKZ,,Aérodrome de St Claude Pratz,small,46.3889,5.77222,2051,LFMM,EU,FR,1,0
-LFNY,,Altisurface de Saint-Étienne-en-Dévoluy,small,44.6689,5.90611,6201,LFMM,EU,FR,1,0
+LFDZ,,Condat sur Vézère Airport,small,45.1,1.217,499,LFBB,EU,FR,1,0
+LFFO,,Beauvoir Fromentine Airport,small,46.89072,-2.08873,10,LFRR,EU,FR,1,0
+LFKZ,,St Claude Pratz Airport,small,46.3889,5.77222,2051,LFMM,EU,FR,1,0
+LFNY,,Saint-Étienne-en-Dévoluy Airport,small,44.6689,5.90611,6201,LFMM,EU,FR,1,0
 LFYK,,Marville Montmédy Airfield,small,49.4592,5.4025,909,LFFF,EU,FR,1,0
 LGRS,,Logan Reserve Airport,small,-27.7083,153.105,,YBBB,OC,AU,1,0
 LGSP,SPJ,Sparti Airport,small,36.9739,22.5263,500,LGGG,EU,GR,1,0
-LHBF,,Bükfördö,small,47.3848,16.80264,545,LHCC,EU,HU,1,0
+LHBF,,Bükfördö Airport,small,47.3848,16.80264,545,LHCC,EU,HU,1,0
 LHBO,,Bácsbokod repülőtér,small,46.15218,19.15044,512,LHCC,EU,HU,1,0
-LHCL,,Cegléd,small,47.16083,19.87861,315,LHCC,EU,HU,1,0
+LHCL,,Cegléd Airport,small,47.16083,19.87861,315,LHCC,EU,HU,1,0
 LHER,,Eger Apollo Airfield,small,47.9052,20.4055,790,LHCC,EU,HU,1,0
-LHFC,,Bodmér,small,47.44462,18.55632,492,LHCC,EU,HU,1,0
+LHFC,,Bodmér Airport,small,47.44462,18.55632,492,LHCC,EU,HU,1,0
 LHFP,,Piusz-Puszta,small,47.74444,16.61417,486,LOVV,EU,HU,1,0
 LHGM,,Gyomai Airport,small,46.95617,20.88312,265,LHCC,EU,HU,1,0
 LHGR,,Gyúró Airport,small,47.3914,18.75786,640,LHCC,EU,HU,1,0
-LHKI,,Kiskőrös-Akasztó,small,46.65694,19.2425,305,LHCC,EU,HU,1,0
-LHKT,,Kadarkút,small,46.2462,17.6088,,LHCC,EU,HU,1,0
-LHLI,,Lipót,small,47.8575,17.44833,,LHCC,EU,HU,1,0
+LHKI,,Kiskőrös-Akasztó Airport,small,46.65694,19.2425,305,LHCC,EU,HU,1,0
+LHKT,,Kadarkút Airport,small,46.2462,17.6088,,LHCC,EU,HU,1,0
+LHLI,,Lipót Airport,small,47.8575,17.44833,,LHCC,EU,HU,1,0
 LHMR,,Maklár Airfield,small,47.8111,20.4228,407,LHCC,EU,HU,1,0
 LHNK,,Nagykanizsa Airport,small,46.432,16.95817,466,LHCC,EU,HU,1,0
-LHNS,,Nagyszénás,small,46.69806,20.66861,,LHCC,EU,HU,1,0
+LHNS,,Nagyszénás Airport,small,46.69806,20.66861,,LHCC,EU,HU,1,0
 LHSA,,Szentkirályszabadja Airport,small,47.0779,17.9684,919,LHCC,EU,HU,1,0
-LHSB,,Szabadszállás,small,46.90028,19.36639,,LHCC,EU,HU,1,0
-LHSI,,Sitke,small,47.23556,17.02639,,LHCC,EU,HU,1,0
-LHSU,,Surjány,small,47.20072,20.48079,,LHCC,EU,HU,1,0
+LHSB,,Szabadszállás Airport,small,46.90028,19.36639,,LHCC,EU,HU,1,0
+LHSI,,Sitke Airport,small,47.23556,17.02639,,LHCC,EU,HU,1,0
+LHSU,,Surjány Airport,small,47.20072,20.48079,,LHCC,EU,HU,1,0
 LHTA,TZR,Taszár Air Base,medium,46.3931,17.9175,531,LHCC,EU,HU,1,0
 LHTL,,Tököl Airport,medium,47.3453,18.9808,318,LHCC,EU,HU,1,0
-LHTM,,Tápiószentmárton,small,47.31361,19.77389,,LHCC,EU,HU,1,0
-LHUH,,Úrhida,small,47.12639,18.31167,633,LHCC,EU,HU,1,0
-LHVE,,Veresegyház,small,47.63833,19.25639,,LHCC,EU,HU,1,0
+LHTM,,Tápiószentmárton Airport,small,47.31361,19.77389,,LHCC,EU,HU,1,0
+LHUH,,Úrhida Airport,small,47.12639,18.31167,633,LHCC,EU,HU,1,0
+LHVE,,Veresegyház Airport,small,47.63833,19.25639,,LHCC,EU,HU,1,0
 LHZK,,Zalakaros Airport,small,46.5539,17.15118,370,LHCC,EU,HU,1,0
-LIAA,,"Aviosuperficie ""Alvaro Leonardi""",small,42.57333,12.58444,374,LIRR,EU,IT,1,0
+LIAA,,Alvaro Leonardi Airport,small,42.57333,12.58444,374,LIRR,EU,IT,1,0
 LIAR,,Furbara Air Base,small,41.99453,12.0135,,LIRR,EU,IT,1,0
 LIET,TTB,Tortolì Airport,medium,39.9188,9.68298,23,LIRR,EU,IT,1,0
-LINF,,Aviosuperfice del Fermano,small,43.22652,13.74252,49,LIBB,EU,IT,1,0
-LIQG,,Aviosuperficie Cecina,small,43.28444,10.52278,,LIRR,EU,IT,1,0
+LINF,,Del Fermano Airfield,small,43.22652,13.74252,49,LIBB,EU,IT,1,0
+LIQG,,Cecina Airfield,small,43.28444,10.52278,,LIRR,EU,IT,1,0
 LJVE,,Šoštanj Airport,small,46.3975,15.0453,1283,LJLA,EU,SI,1,0
 LKCO,,Choceň Airport,small,49.97728,16.18492,873,LKAA,EU,CZ,1,0
-LKNY,,Nymburk Ul Ploch Airport,small,50.1686,15.0525,607,LKAA,EU,CZ,1,0
+LKNY,,Nymburk Airport,small,50.1686,15.0525,607,LKAA,EU,CZ,1,0
 LKOT,,Zlín Otrokovice Airfield,small,49.1983,17.5178,600,LKAA,EU,CZ,1,0
-LKPK,,Písek UL,small,49.33944,14.11389,1351,LKAA,EU,CZ,1,0
-LKSP,,Zlín Štípa,small,49.27278,17.74639,,LKAA,EU,CZ,1,0
+LKPK,,Písek-Krašovice Airport,small,49.33944,14.11389,1351,LKAA,EU,CZ,1,0
+LKSP,,Zlín Štípa Airport,small,49.27278,17.74639,,LKAA,EU,CZ,1,0
 LLBO,,Habonim Airfield,small,32.65,34.93278,17,LLTA,AS,IL,1,0
 LLER,ETM,Ramon Airport,large,29.72369,35.01142,288,LLTA,AS,IL,1,0
 LLES,,Ein Shemer Airfield,small,32.4408,35.0077,95,LLTA,AS,IL,1,0
 LLTN,,Tnuvot Ultralight Airfield,small,32.30861,34.97833,99,LLTA,AS,IL,1,0
 LLYO,YOT,Yotvata Airfield,small,29.90111,35.0675,249,LLTA,AS,IL,1,0
-LPMF,,Aerodromo de Monfortinho,small,39.9764,-6.90662,,LPPC,EU,PT,1,0
+LPMF,,Monfortinho Airfield,small,39.9764,-6.90662,,LPPC,EU,PT,1,0
 LPMO,,Morargil Airfield,small,38.99353,-8.14201,341,LPPC,EU,PT,1,0
 LRBN,,Bistrița Airfield,small,47.15857,24.55231,,LRBB,EU,RO,1,0
-LRCD,,Aerodromul Măgura,small,45.73722,24.16528,1524,LRBB,EU,RO,1,0
+LRCD,,Măgura Airfield,small,45.73722,24.16528,1524,LRBB,EU,RO,1,0
 LRCS,CSB,Caransebeş Airport,medium,45.42,22.2533,866,LRBB,EU,RO,1,0
 LRFL,,Floreni Airfield,small,47.36309,25.21035,,LRBB,EU,RO,1,0
-LROV,,Brașov-Ghimbav International Airport (U.C.),medium,45.70558,25.52287,1740,LRBB,EU,RO,1,1
-LRPH,,Şirna,small,44.78556,25.98821,,LRBB,EU,RO,1,0
+LROV,,Brașov-Ghimbav International Airport,medium,45.70558,25.52287,1740,LRBB,EU,RO,1,1
+LRPH,,Şirna Airport,small,44.78556,25.98821,,LRBB,EU,RO,1,0
 LSMA,,Alpnach Air Base,medium,46.9439,8.28417,1460,LSAS,EU,CH,1,0
 LSMF,,Mollis Airport,medium,47.0789,9.06483,1485,LSAS,EU,CH,1,0
 LSML,,Lodrino Air Base,small,46.2959,8.99213,,LSAS,EU,CH,1,0
@@ -1621,9 +1619,9 @@ LUCL,,Chadyr Lunga Airport,small,46.03499,28.85184,587,LUUU,EU,MD,1,0
 LUTR,,Tiraspol Airport,medium,46.8681,29.5906,141,LUUU,EU,MD,1,0
 LYCA,,Čačak-Preljina Airport,small,43.8981,20.435,776,LYBA,EU,RS,1,0
 LYJA,,Barutana Airfield,small,43.9766,21.23016,,LYBA,EU,RS,1,0
-LYLE,,Sportski Aerodrom Mira,small,43.01967,21.93196,738,LYBA,EU,RS,1,0
-LZBD,,Bidovce,small,48.7428,21.44833,984,LZBB,EU,SK,1,0
-LZSY,,Šurany,small,48.07597,18.114,384,LZBB,EU,SK,1,0
+LYLE,,Mira Airfield,small,43.01967,21.93196,738,LYBA,EU,RS,1,0
+LZBD,,Bidovce Airport,small,48.7428,21.44833,984,LZBB,EU,SK,1,0
+LZSY,,Šurany Airport,small,48.07597,18.114,384,LZBB,EU,SK,1,0
 MDAD,,Azua Airport,small,18.4255,-70.7314,262,MDCS,NA,DO,1,0
 MECT,,Catsa Airport,small,10.51694,-85.56556,66,MHTG,NA,CR,1,0
 MGBN,,Bananera Airport,small,15.4735,-88.8372,130,MHTG,NA,GT,1,0
@@ -1689,7 +1687,7 @@ MHJE,,Nueva Jerusalen Airport,small,15.87806,-84.72639,5,MHTG,NA,HN,1,0
 MHJI,GUO,Jicalapa Airport,small,15.00611,-86.04916,2133,MHTG,NA,HN,1,0
 MHJO,,La Joya Airport,small,14.80472,-86.91917,780,MHTG,NA,HN,1,0
 MHJQ,,Joya Del Quebracho Airport,small,14.83889,-86.96222,890,MHTG,NA,HN,1,0
-MHJU,JUT,Jutigalpa airport,small,14.6526,-86.2203,1314,MHTG,NA,HN,1,0
+MHJU,JUT,Jutigalpa Airport,small,14.6526,-86.2203,1314,MHTG,NA,HN,1,0
 MHLA,,La Alondra Airport,small,14.10889,-88.53389,1000,MHTG,NA,HN,1,0
 MHLF,,Flefil Airport,small,14.42333,-87.11972,810,MHTG,NA,HN,1,0
 MHLG,,La Grecia Airport,small,13.21472,-87.36361,29,MHTG,NA,HN,1,0
@@ -1763,7 +1761,7 @@ MMDM,MMC,Ciudad Mante National Airport,small,22.74318,-99.01737,341,MMFR,NA,MX,1
 MMGD,,Airport Isla Guadalupe,small,29.02287,-118.27342,,MMFR,NA,MX,1,0
 MMGT,,Rancho Medio Sitio Airport,small,20.9172,-101.334,6152,MMFR,NA,MX,1,0
 MMMG,MUG,Mulege Airport,small,26.90535,-111.97073,66,MMFR,NA,MX,1,0
-MMSG,,Air Base No. 11 Santa Gertrudis,small,27.78412,-105.70247,4659,MMFR,NA,MX,1,0
+MMSG,,Santa Gertrudis Air Base,small,27.78412,-105.70247,4659,MMFR,NA,MX,1,0
 MNAL,,Alamicamba Airport,small,13.5123,-84.2471,65,MHTG,NA,NI,1,0
 MNAM,,Altamira Airport,small,12.1106,-85.7605,121,MHTG,NA,NI,1,0
 MNBC,,Boaco Airport,small,12.4691,-85.6626,1184,MHTG,NA,NI,1,0
@@ -1773,14 +1771,14 @@ MNEP,,La Esperanza Airport,small,12.19948,-84.27853,88,MHTG,NA,NI,1,0
 MNES,,Estelí Airport,small,13.1117,-86.3633,2811,MHTG,NA,NI,1,0
 MNFF,,El Bluff Airport,small,11.9943,-83.6879,1,MHTG,NA,NI,1,0
 MNHG,,Hato Grande Airport,small,11.9814,-85.4327,177,MHTG,NA,NI,1,0
-MNJG,,Jinotega,small,13.0857,-85.9877,3232,MHTG,NA,NI,1,0
-MNJU,,Juigalpa,small,12.1,-85.36667,295,MHTG,NA,NI,1,0
+MNJG,,Jinotega Airport,small,13.0857,-85.9877,3232,MHTG,NA,NI,1,0
+MNJU,,Juigalpa Airport,small,12.1,-85.36667,295,MHTG,NA,NI,1,0
 MNKW,,Karawala Airport,small,12.8921,-83.5829,3,MHTG,NA,NI,1,0
 MNLP,,Omtepe Airport,small,11.52362,-85.703,200,MHTG,NA,NI,1,0
 MNMA,,Macantaca Airport,small,13.2451,-84.0839,55,MHTG,NA,NI,1,0
 MNNG,NVG,Nueva Guinea Airport,small,11.66667,-84.45,606,MHTG,NA,NI,1,0
 MNPP,,El Papalonal Airport,small,12.4657,-86.4679,141,MHTG,NA,NI,1,0
-MNRS,,Rivas,small,11.4277,-85.8385,174,MHTG,NA,NI,1,0
+MNRS,,Rivas Airport,small,11.4277,-85.8385,174,MHTG,NA,NI,1,0
 MPFS,,Fort Sherman Airport,small,9.36509,-79.9498,10,MPZL,NA,PA,1,0
 MPHO,BLB,Panamá Pacífico International Airport,small,8.91479,-79.5996,52,MPZL,NA,PA,1,1
 MPNU,,Augusto Vergara Airport,small,7.85738,-80.2761,69,MPZL,NA,PA,1,0
@@ -1826,7 +1824,7 @@ MUIV,,Nuevitas Airport,small,21.5538,-77.2586,3,MUFH,NA,CU,1,0
 MUTI,,Manati Airport,small,21.3107,-76.9202,6,MUFH,NA,CU,1,0
 MYCS,,Cay Sal Airport,small,23.6964,-80.3213,3,MUFH,NA,BS,1,0
 MYEL,,Lee Stocking Airport,small,23.7756,-76.1036,,MYNA,NA,BS,1,0
-MYGM,GBI,Auxiliary Airfield,small,26.6319,-78.3592,8,MYNA,NA,BS,1,0
+MYGM,GBI,Grand Bahama Auxiliary Airfield,small,26.6319,-78.3592,8,MYNA,NA,BS,1,0
 MYGW,WTD,West End Airport,small,26.6853,-78.975,5,MYNA,NA,BS,1,0
 MYLR,,Hard Bargain Airport,medium,23.01119,-74.90589,,KZMA,NA,BS,1,0
 MYXC,,Hog Key Airport,small,23.6007,-75.3393,5,KZMA,NA,BS,1,0
@@ -1834,7 +1832,7 @@ MYXD,,Leaf Cay Airport,small,24.1492,-76.4664,,MYNA,NA,BS,1,0
 MYXF,,Little Darby Island Airport,small,23.85814,-76.22309,,MYNA,NA,BS,1,0
 MYXH,,Sampson Cay Airport,small,24.216,-76.4785,8,MYNA,NA,BS,1,0
 MZJC,,Johnny Chan Chen Airstrip,small,18.44031,-88.45334,26,MHTG,NA,BZ,1,0
-MZMF,CYD,San Ignacio Town (Maya Flats) Airstrip,small,17.10487,-89.10113,351,MHTG,NA,BZ,1,0
+MZMF,CYD,San Ignacio Town Airstrip,small,17.10487,-89.10113,351,MHTG,NA,BZ,1,0
 NCMH,MHX,Manihiki Island Airport,small,-10.3767,-161.002,,NZZO,OC,CK,1,0
 NFFA,,Ba Airport,small,-17.53506,177.68092,20,NFFF,OC,FJ,1,0
 NFFR,RBI,Rabi Island Airport,small,-16.5337,179.9757,88,NFFF,OC,FJ,1,0
@@ -1860,7 +1858,7 @@ OAJG,,Joghari Airport,small,33.1585,67.54733,8248,OAKX,AS,AF,1,0
 OANL,,Nili Airport,small,35.8879,67.4885,,OAKX,AS,AF,1,0
 OART,,Rustag Airport,small,37.1,69.9,4543,OAKX,AS,AF,1,0
 OARZ,,Razer Airport,small,36.0227,70.7699,8269,OAKX,AS,AF,1,0
-OAYL,,Yakawlang (Yakolang) Airport,small,34.5133,66.3031,8700,OAKX,AS,AF,1,0
+OAYL,,Yakawlang Airport,small,34.5133,66.3031,8700,OAKX,AS,AF,1,0
 OAYW,,Yawan Airport,small,37.5617,70.4417,5645,OAKX,AS,AF,1,0
 OEKR,,Old Khurais Airport,small,25.0696,48.1949,1300,OEJD,AS,SA,1,0
 OENN,NUM,Neom Airport,medium,27.9276,35.28874,29,OEJD,AS,SA,1,0
@@ -1877,7 +1875,7 @@ OIIG,,Ghale Morghi Airport,medium,35.6448,51.3807,3627,OIIX,AS,IR,1,0
 OIIQ,,Ghom Airport,small,34.63333,50.88333,,OIIX,AS,IR,1,0
 OIIU,,Damghan Airport,small,36.1667,54.3439,3887,OIIX,AS,IR,1,0
 OIMD,,Gonabad Airport,small,34.35,58.68,,OIIX,AS,IR,1,0
-OIMH,,Torbat-e Heydarieh Airport,small,35.2667,59.2167,4363,OIIX,AS,IR,1,0
+OIMH,,Torbat-E Heydarieh Airport,small,35.2667,59.2167,4363,OIIX,AS,IR,1,0
 OINA,,Amol Airport,small,36.4708,52.3633,318,OIIX,AS,IR,1,0
 OINB,,Babolsar Airport,small,36.71126,52.6797,-49,OIIX,AS,IR,1,0
 OINH,,Behshahr Airport,small,36.6944,53.5425,137,OIIX,AS,IR,1,0
@@ -1887,7 +1885,7 @@ OISA,,North of Fars Airport,small,31.0355,52.7866,5320,OIIX,AS,IR,1,0
 OITS,,Saghez Airport,small,36.21833,46.29889,4880,OIIX,AS,IR,1,0
 OITU,IMQ,Maku National Airport,small,39.33,44.43,,OIIX,AS,IR,1,0
 OIYB,,Bafgh Airport,small,31.58333,55.56667,,OIIX,AS,IR,1,0
-OKDI,,Udairi Army Air Field,small,29.6976,47.436,430,OKAC,AS,KW,1,0
+OKDI,,Udairi Army Airfield,small,29.6976,47.436,430,OKAC,AS,KW,1,0
 OMAG,,KIZAD Airport,small,24.7265,54.83226,50,OMAE,AS,AE,1,0
 OMUQ,,Umm Al Quwain,small,25.57722,55.65111,,OMAE,AS,AE,1,0
 OOFQ,,Firq Air Base,small,22.8692,57.5433,1560,OOMM,AS,OM,1,0
@@ -1943,11 +1941,11 @@ OYSF,,As Salif Airport,small,15.3,42.683,,OYSC,AS,YE,1,0
 OZKL,,Koralta Station Airpirt,small,-31.62488,142.29614,400,YMMM,OC,AU,1,0
 PAAD,,Point Thomson Airstrip,small,70.136,-146.29003,56,PAZA,NA,US,1,0
 PAAL,PML,Port Moller Airport,small,56.006,-160.561,20,PAZA,NA,US,1,0
-PAAM,,Driftwood Bay Air Force Station Airport,small,53.97295,-166.85846,24,PAZA,NA,US,1,0
+PAAM,,Driftwood Bay AFS,small,53.97295,-166.85846,24,PAZA,NA,US,1,0
 PAAN,,Gold King Creek Airport,small,64.199,-147.92799,1720,PAZA,NA,US,1,0
 PABM,BMX,Big Mountain Airport,small,59.3612,-155.259,663,PAZA,NA,US,1,0
 PABP,,Badami Airport,small,70.1375,-147.03,26,PAZA,NA,US,1,0
-PABU,,Bullen Point Air Force Station Airport,small,70.1728,-146.836,18,PAZA,NA,US,1,0
+PABU,,Bullen Point AFS,small,70.1728,-146.836,18,PAZA,NA,US,1,0
 PACS,,Cape Sarichef Airport,small,54.5824,-164.914,291,PAZA,NA,US,1,0
 PAFV,FMC,Five Mile Airport,small,65.927,-149.84,510,PAZA,NA,US,1,0
 PAGT,NME,Nightmute Airport,small,60.471,-164.701,4,PAZA,NA,US,1,0
@@ -1968,12 +1966,12 @@ PFKA,KUK,Kasigluk Airport,small,60.8744,-162.524,48,PAZA,NA,US,1,0
 PFKK,KNK,Kokhanok Airport,small,59.4332,-154.804,115,PAZA,NA,US,1,0
 PFKO,KOT,Kotlik Airport,small,63.0306,-163.533,15,PAZA,NA,US,1,0
 PFME,,Mertarvik Quarry Road Landing Strip,small,60.81838,-164.51901,70,PAZA,NA,US,1,0
-PFNO,ORV,Robert (Bob) Curtis Memorial Airport,small,66.8179,-161.019,55,PAZA,NA,US,1,0
+PFNO,ORV,Robert Curtis Memorial Airport,small,66.8179,-161.019,55,PAZA,NA,US,1,0
 PFSH,SKK,Shaktoolik Airport,small,64.3711,-161.224,24,PAZA,NA,US,1,0
 PFTO,TKJ,Tok Junction Airport,small,63.3295,-142.95399,1639,PAZA,NA,US,1,0
 PHHF,,French Frigate Shoals Airport,small,23.8694,-166.285,6,KZAK,NA,US,1,0
 PHIK,HIK,Hickam Air Force Base,small,21.33528,-157.94833,13,KZAK,NA,US,1,0
-PHNP,,Ford Island Naval Auxiliary Landing Field,small,21.3649,-157.96001,18,KZAK,NA,US,1,0
+PHNP,,Ford Island NALF,small,21.3649,-157.96001,18,KZAK,NA,US,1,0
 PKSA,KAI,Kaieteur International Airport,medium,5.17275,-59.49148,1520,SYGC,SA,GY,1,1
 PLWN,TNQ,Washington Island Airstrip,small,4.69836,-160.39438,30,KZAK,OC,KI,1,0
 POSG,,Possum Grape Exit,small,35.45819,-91.39795,,KZME,NA,US,1,0
@@ -1985,18 +1983,18 @@ RCSP,,Taiping Island Airport,small,10.37709,114.36564,,RPHI,AS,TW,1,0
 RCWA,WOT,Wang'an Airport,small,23.36737,119.50278,115,RCAA,AS,TW,1,0
 RCXY,,Guiren Airport / Guiren Army Airfield,small,22.98186,120.28424,,RCAA,AS,TW,1,0
 RHST,,Rheinstetten Glider Field,small,48.9777,8.3425,380,EDGG,EU,DE,1,0
-RKST,,Camp Casey-Dongduchon (Camp Mobile) (H-220) Airfield,small,37.92084,127.05536,,RKRR,AS,KR,1,0
+RKST,,Camp Casey-Dongduchon Airfield,small,37.92084,127.05536,,RKRR,AS,KR,1,0
 RKTA,QDY,Taean Airport,small,36.59453,126.2958,16,RKRR,AS,KR,1,0
 RKTS,,Sangju Airfield,small,36.40745,128.17716,492,RKRR,AS,KR,1,0
 RPBL,BSI,Balesin Island Airport,small,14.41937,122.0394,25,RPHI,AS,PH,1,0
 RPLQ,,Colonel Ernesto Rabina Air Base,small,15.31768,120.42289,,RPHI,AS,PH,1,0
-RPSD,RZP,Cesar Lim Rodriguez (Taytay-Sandoval) Airport,small,11.05065,119.51927,80,RPHI,AS,PH,1,0
+RPSD,RZP,Cesar Lim Rodriguez Airport,small,11.05065,119.51927,80,RPHI,AS,PH,1,0
 RPSP,TAG,Bohol-Panglao International Airport,medium,9.56667,123.775,,RPHI,AS,PH,1,1
 RPSR,,Semirara Airport,small,12.07522,121.38847,,RPHI,AS,PH,1,0
 RPSV,SWL,San Vicente Airport,small,10.525,119.27389,24,RPHI,AS,PH,1,0
-RPUA,,Aparri (Maura) Airport,small,18.35485,121.65391,19,RPHI,AS,PH,1,0
+RPUA,,Aparri Airport,small,18.35485,121.65391,19,RPHI,AS,PH,1,0
 RPUE,,Lucena Airport,small,13.93119,121.6011,39,RPHI,AS,PH,1,0
-RPUJ,,Castillejos - Jesus F Magsaysay Airfield,small,14.94634,120.19019,200,RPHI,AS,PH,1,0
+RPUJ,,Jesus F. Magsaysay Airfield,small,14.94634,120.19019,200,RPHI,AS,PH,1,0
 RSCO,,Scotts Field,small,36.01434,-90.8002,,KZME,NA,US,1,0
 SAAA,,San Antonio De Areco Airport,small,-34.2214,-59.4422,98,SAEF,SA,AR,1,0
 SAAN,,Pergamino Airport,small,-33.919,-60.648,236,SAEF,SA,AR,1,0
@@ -2011,7 +2009,7 @@ SACP,,Chepes Airport,small,-31.35614,-66.59189,714,SACF,SA,AR,1,0
 SACQ,,Monte Quemado Airport,small,-25.78356,-62.82884,722,SACF,SA,AR,1,0
 SACS,,Villa De Soto Airport,small,-30.8652,-64.979,2013,SACF,SA,AR,1,0
 SACV,,Villa Maria Airport,small,-32.3894,-63.2586,672,SACF,SA,AR,1,0
-SADS,,Aeródromo San Justo - Aeroclub Argentino,small,-34.7311,-58.5975,62,SAEF,SA,AR,1,0
+SADS,,San Justo Airport,small,-34.7311,-58.5975,62,SAEF,SA,AR,1,0
 SADZ,,Matanza Airport,small,-34.7261,-58.5011,9,SAEF,SA,AR,1,0
 SAET,,Ñanco Lauquen Airport,small,-35.9715,-62.7724,301,SAEF,SA,AR,1,0
 SAHE,CVH,Caviahue Airport,small,-37.8514,-71.0092,5435,SAMF,SA,AR,1,0
@@ -2024,7 +2022,7 @@ SAML,,Punta De Vacas Airport,small,-32.8546,-69.7605,7906,SAMF,SA,AR,1,0
 SAMQ,,Mendoza Airpark,small,-32.8653,-68.8719,2694,SAMF,SA,AR,1,0
 SAMS,,San Carlos Airport,small,-33.7757,-69.0537,3050,SAMF,SA,AR,1,0
 SAMU,,Uspallata Airport,small,-32.5389,-69.3458,6525,SAMF,SA,AR,1,0
-SAND,,Sandwash Backcountry Strip,small,39.83081,-109.92889,5400,KZLC,NA,US,1,0
+SAND,,Sandwash Backcountry Airstrip,small,39.83081,-109.92889,5400,KZLC,NA,US,1,0
 SANH,,Las Termas Airport,small,-27.4737,-64.9055,270,SACF,SA,AR,1,0
 SAOE,,Rio Tercero Airport,small,-32.1733,-64.0883,1246,SACF,SA,AR,1,0
 SAOV,,Presidente Néstor Kirchner Regional Airport,medium,-32.3201,-63.22663,670,SACF,SA,AR,1,0
@@ -2035,25 +2033,24 @@ SASR,,Rivadavia Airport,small,-24.1886,-62.8834,679,SACF,SA,AR,1,0
 SATC,CLX,Clorinda Airport,small,-25.3036,-57.7344,206,SARR,SA,AR,1,0
 SATK,LLS,Alferez Armando Rodriguez Airport,small,-24.7214,-60.5488,426,SARR,SA,AR,1,0
 SAVA,,Piedra Del Aguila Airport,small,-40.1922,-70.01,2128,SAEF,SA,AR,1,0
-SAVJ,IGB,Cabo F.A.A. H. R. Bordón Airport,small,-41.3209,-69.5749,2925,SAVF,SA,AR,1,0
+SAVJ,IGB,Cabo Bordón Airport,small,-41.3209,-69.5749,2925,SAVF,SA,AR,1,0
 SAVM,,Lago Musters Airport,small,-45.5752,-69.077,889,SAVF,SA,AR,1,0
 SAVO,,San Pedro Airport,small,-33.698,-59.7267,88,SAEF,SA,AR,1,0
 SAVP,,Paso De Los Indios Airport,small,-43.8667,-69.05,575,SAVF,SA,AR,1,0
 SAWL,,Tolwin Observatory Airport,small,-54.5219,-67.199,90,SAVF,SA,AR,1,0
 SAWO,,Estación Aeronaval Airport,small,-54.8227,-68.3043,19,SAVF,SA,AR,1,0
-SAWZ,,Matienzo Base,small,-64.977,-60.10899,75,SCCZ,AN,AQ,1,0
-SAYB,,Base Belgrano II Airport,small,-77.87405,-34.62616,820,SAVF,AN,AQ,1,0
-SAYE,,Esperanza Base,small,-63.4,-56.9833,75,SCCZ,AN,AQ,1,0
-SAYJ,,Jubany Airbase,small,-62.2383,-58.6666,12,SCCZ,AN,AQ,1,0
-SAYO,,Orcadas Base,small,-60.7403,-44.7425,75,SAVF,AN,AQ,1,0
-SAYS,,San Martín Base,small,-68.1167,-67.1,75,SCCZ,AN,AQ,1,0
+SAWZ,,Matienzo Air Base,small,-64.977,-60.10899,75,SCCZ,AN,AQ,1,0
+SAYB,,Belgrano II Air Base,small,-77.87405,-34.62616,820,SAVF,AN,AQ,1,0
+SAYE,,Esperanza Air Base,small,-63.4,-56.9833,75,SCCZ,AN,AQ,1,0
+SAYJ,,Jubany Air Base,small,-62.2383,-58.6666,12,SCCZ,AN,AQ,1,0
+SAYO,,Orcadas Air Base,small,-60.7403,-44.7425,75,SAVF,AN,AQ,1,0
+SAYS,,San Martín Air Base,small,-68.1167,-67.1,75,SCCZ,AN,AQ,1,0
 SAZK,,Cerro Catedral Airport,small,-41.1633,-71.4427,3450,SAEF,SA,AR,1,0
 SAZU,,Puelches Airport,small,-38.1451,-65.92294,180,SAEF,SA,AR,1,0
 SBAC,ARX,Aracati Airport,medium,-4.56861,-37.80472,128,SBRE,SA,BR,1,0
 SBAM,,Amapá Airport,small,2.07751,-50.8582,45,SBAZ,SA,BR,1,0
 SBBT,BAT,Chafei Amsei Airport,medium,-20.5845,-48.5941,1898,SBBS,SA,BR,1,0
 SBCV,CRQ,Caravelas Airport,medium,-17.6523,-39.2531,36,SBRE,SA,BR,1,0
-SBEC,,Plataforma P-15 Airport,small,-22.6775,-40.6061,,SBCW,SA,BR,1,0
 SBEP,ESI,Espinosa Airport,small,-14.93369,-42.81,1900,SBRE,SA,BR,1,0
 SBJH,,São Paulo Catarina Executive Airport,medium,-23.42689,-47.16566,2549,SBCW,SA,BR,1,0
 SBLN,LIP,Lins Airport,medium,-21.664,-49.7305,1559,SBCW,SA,BR,1,0
@@ -2063,7 +2060,6 @@ SBTL,TEC,Telêmaco Borba Airport,medium,-24.3178,-50.6516,2610,SBCW,SA,BR,1,0
 SCAA,,Añorada Airport,small,-41.04278,-73.0475,459,SCTZ,SA,CL,1,0
 SCAD,,Santa Adriana Airport,small,-30.62861,-71.27306,558,SCEZ,SA,CL,1,0
 SCAV,,La Vertiente Airport,small,-36.61028,-72.03833,459,SCEZ,SA,CL,1,0
-SCBO,,General Bernardo O'Higgins Base Skyway,small,-63.344,-57.842,900,SCCZ,AN,AQ,1,0
 SCBS,,Posesión Airport,small,-52.3,-68.93333,100,SCCZ,SA,CL,1,0
 SCBU,,El Baúl Airstrip,small,-35.34143,-70.9108,3070,SCEZ,SA,CL,1,0
 SCCP,,Callipulli Airport,small,-40.62028,-72.84639,377,SCTZ,SA,CL,1,0
@@ -2143,12 +2139,12 @@ SDBA,,Batatais Airport,small,-20.87722,-47.58556,2890,SBBS,SA,BR,1,0
 SDBB,,Bebedouro Airport,small,-20.9004,-48.4733,1942,SBBS,SA,BR,1,0
 SDBE,,Biopalma Airport,small,-2.208,-48.8146,52,SBAZ,SA,BR,1,0
 SDBI,,Fazenda Piray Airport,small,-23.88522,-55.05591,1161,SBCW,SA,BR,1,0
-SDBK,QCJ,Botucatu - Tancredo de Almeida Neves Airport,small,-22.9395,-48.468,3012,SBCW,SA,BR,1,0
+SDBK,QCJ,Botucatu-Tancredo de Almeida Neves Airport,small,-22.9395,-48.468,3012,SBCW,SA,BR,1,0
 SDBN,,Fazenda Bonanza Airport,small,-23.68611,-47.5575,2316,SBCW,SA,BR,1,0
 SDBP,,Fazenda Pontal Airport,small,-15.73812,-51.11598,1351,SBBS,SA,BR,1,0
 SDBU,,Fazenda Douradinho Airport,small,-21.6433,-53.3106,1177,SBCW,SA,BR,1,0
 SDBV,,Balneário São Januário Airport,small,-24.87083,-47.75833,26,SBCW,SA,BR,1,0
-SDBY,,Bariri - Aparecido O. Silva Airport,small,-22.0692,-48.7064,1594,SBCW,SA,BR,1,0
+SDBY,,Bariri-Aparecido O. Silva Airport,small,-22.0692,-48.7064,1594,SBCW,SA,BR,1,0
 SDCA,,Capão Bonito Airport,small,-24.0362,-48.3567,2402,SBCW,SA,BR,1,0
 SDCD,,Catanduva Airport,small,-21.1492,-48.9887,1841,SBBS,SA,BR,1,0
 SDCE,,Fazenda Marambaia Airport,small,-17.43833,-44.93694,1766,SBBS,SA,BR,1,0
@@ -2169,7 +2165,7 @@ SDDI,,Fazenda Tamara Airport,small,-21.59256,-50.83322,2093,SBCW,SA,BR,1,0
 SDDJ,,Fazenda Santa Maria Airport,small,-20.8489,-50.0794,1525,SBBS,SA,BR,1,0
 SDDK,,Saint-Exupéry Airport,small,-22.48278,-49.98389,1886,SBCW,SA,BR,1,0
 SDDL,,Fazenda Dois Lagos Airport,small,-23.3075,-47.93389,1916,SBCW,SA,BR,1,0
-SDDN,,Andradina - Paulino Ribeiro de Andrade Airport,small,-20.925,-51.382,1247,SBCW,SA,BR,1,0
+SDDN,,Andradina-Paulino Ribeiro de Andrade Airport,small,-20.925,-51.382,1247,SBCW,SA,BR,1,0
 SDDQ,,Fazenda São Francisco Airport,small,-11.69435,-45.51127,2490,SBRE,SA,BR,1,0
 SDDR,QDC,Dracena Airport,small,-21.4605,-51.6069,1220,SBCW,SA,BR,1,0
 SDDS,,Fazenda Scheffer Airport,small,-8.34115,-65.70935,293,SBAZ,SA,BR,1,0
@@ -2190,7 +2186,7 @@ SDEX,,Fazenda Nossa Senhora do Carmo Airstrip,small,-12.5811,-45.8261,2547,SBRE,
 SDFA,,Fazenda Bonança Airport,small,-20.6764,-51.0308,1200,SBCW,SA,BR,1,0
 SDFB,,Fazenda Brumado Airport,small,-20.4289,-48.56208,1755,SBBS,SA,BR,1,0
 SDFC,,Fazenda Constância Airport,small,-20.4886,-49.1881,1673,SBBS,SA,BR,1,0
-SDFD,,Fernandópolis - Coronel Aviador Carlos Orleans Guimarães Airport,small,-20.2766,-50.2156,1640,SBBS,SA,BR,1,0
+SDFD,,Fernandópolis-Coronel Aviador Carlos Orleans Guimarães Airport,small,-20.2766,-50.2156,1640,SBBS,SA,BR,1,0
 SDFE,,Fazenda Santo Antônio Airport,small,-22.06806,-56.7025,633,SBCW,SA,BR,1,0
 SDFF,,Fazenda Fittipaldi Citrus Airport,small,-21.85444,-48.29583,1673,SBBS,SA,BR,1,0
 SDFH,,Fazenda Amália Airport,small,-21.444,-47.3709,2318,SBBS,SA,BR,1,0
@@ -2249,7 +2245,7 @@ SDKG,,Fazenda Gávea Airport,small,-23.225,-49.17917,2031,SBCW,SA,BR,1,0
 SDKJ,,Formosa do Rio Preto Airport,small,-11.0216,-45.1867,1598,SBRE,SA,BR,1,0
 SDKK,QOA,Mococa Airport,small,-21.4878,-47.0344,2116,SBBS,SA,BR,1,0
 SDKL,,Caracaranã Airport,small,3.83585,-59.77718,108,SBAZ,SA,BR,1,0
-SDKN,,Fazenda e Haras Bela Vista Airport,small,-22.43806,-48.40556,2339,SBBS,SA,BR,1,0
+SDKN,,Fazenda E Haras Bela Vista Airport,small,-22.43806,-48.40556,2339,SBBS,SA,BR,1,0
 SDKO,,Fazenda Campo Grande Airport,small,-20.2577,-48.7886,1830,SBBS,SA,BR,1,0
 SDKP,,Fazenda Jamaica Airport,small,-22.18972,-50.27889,1611,SBCW,SA,BR,1,0
 SDKQ,,Fazenda São João Airport,small,-20.21667,-49.06667,1673,SBBS,SA,BR,1,0
@@ -2274,6 +2270,9 @@ SDLV,,Fazenda São Francisco Airport,small,-22.92083,-51.35194,1581,SBCW,SA,BR,1
 SDLW,,Fazenda Campo Real Airport,small,-13.44694,-57.78111,1804,SBAZ,SA,BR,1,0
 SDLX,,Fazenda Jacareúna Airport,small,-11.44111,-52.20472,1417,SBAZ,SA,BR,1,0
 SDLY,,Matão Airport,small,-21.6231,-48.3525,2083,SBBS,SA,BR,1,0
+
+
+
 SDMA,,Fazenda Maristela Airport,small,-22.95417,-45.60167,1804,SBCW,SA,BR,1,0
 SDMC,,Maricá Airport,small,-22.9195,-42.8309,13,SBCW,SA,BR,1,0
 SDMD,,Fazenda Santa Izabel Airport,small,-18,-54.69583,1033,SBCW,SA,BR,1,0
