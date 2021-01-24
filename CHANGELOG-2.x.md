@@ -1,5 +1,13 @@
 # Changelog for version 2.x
 
+**Version 2.0.5**
+
+- Add 958 Cessna aircraft.
+- Add 1 navaid.
+- Add 3058 airport statistic datasets for year 2020.
+- Fix 3 Cessna aircraft types names.
+- Fix navaids incorrectly marked as DME-ILS instead of terminal, non-paired DMEs.
+
 **Version 2.0.4**
 
 - Fix broken CSV.

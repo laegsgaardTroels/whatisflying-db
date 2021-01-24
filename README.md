@@ -10,14 +10,14 @@ This repository contains the database for [https://whatisflying.com](https://wha
 
 ## Statistics
 
-- 42,900 aircraft, 7,000 with a picture.
+- 56,400 aircraft, 7,000 with a picture.
 - 590 aircraft types, 490 with a picture.
 - 190 aircraft models.
 - 2,000 airlines, 800 with a picture, 300 with a logo.
 - 10,000 airports.
 - 8,600 airport runways.
 - 18,700 airport radio frequencies.
-- 50,900 airport statistic datasets.
+- 53,900 airport statistic datasets.
 - 367,900 flights.
 - 270 flight information regions.
 - 20,500 navaids.
@@ -33,11 +33,11 @@ This dataset includes the following files:
 
 #### aircraft.csv
 
-This file contains informations on aircraft. Only aircraft of manufacturers for which there are very few aircraft are placed in this file. See the table below for the structure of this file.
+This file contains information on aircraft. Only aircraft of manufacturers for which there are very few aircraft are placed in this file. See the table below for the structure of this file.
 
 #### aircraft/*manufacturer*.csv
 
-These files contains informations on aircraft, for a single manufacturer. The structure of these files is as follows:
+These files contain information on aircraft, for a single manufacturer. The structure of these files is as follows:
 
 | Column             |     Type     | Description                                                  |       Example       |
 | ------------------ | :----------: | ------------------------------------------------------------ | :-----------------: |
@@ -109,7 +109,7 @@ This file contains information on aircraft types. The structure of this file is 
 
 #### aircraft_types_pictures.csv
 
-This file contains the list of photographs of aircraft types as well as information on the author and the license issued by the latter. The structure of this file is as follows:
+This file contains the list of photographs of aircraft types as well as information on the author, and the license issued by the latter. The structure of this file is as follows:
 
 | Column        |  Type  | Description                                                  |             Example             |
 | ------------- | :----: | ------------------------------------------------------------ | :-----------------------------: |
@@ -174,7 +174,7 @@ This file contains the list of airlines logos. The structure of this file is as 
 
 #### airlines_pictures.csv
 
-This file contains the list of photographs of aircraft wearing the livery of airlines as well as information on the author and the license issued by the latter. The structure of this file is as follows:
+This file contains the list of photographs of aircraft wearing the livery of airlines as well as information on the author, and the license issued by the latter. The structure of this file is as follows:
 
 | Column  |  Type  | Description                                                  |         Example          |
 | ------- | :----: | ------------------------------------------------------------ | :----------------------: |
@@ -238,11 +238,11 @@ This file contains information on radio frequencies used at airports. The struct
 | frequency   | integer | The actual frequency of the radio frequency, in kilohertz. | 118100  |
 | type        | string  | The type of the radio frequency ¹.                         |   TWR   |
 
-¹ Commonly used values: *AFIS*, *ATIS*, *APP* (approach), *DEP* (departure), *GND* (ground), *TWR* (tower),  *PFLT* (preflight),...
+¹ Commonly used values: *AFIS*, *ATIS*, *APP* (approach), *DEP* (departure), *GND* (ground), *TWR* (tower), *PFLT* (preflight),...
 
 #### airports_runways.csv
 
-This file contains informations on airport runways. The structure of this file is as follows:
+This file contains information on airport runways. The structure of this file is as follows:
 
 | Column                 |     Type      | Description                                                  | Example |
 | ---------------------- | :-----------: | ------------------------------------------------------------ | :-----: |
@@ -275,7 +275,7 @@ This dataset includes the following files:
 
 #### fixes.csv
 
-This file contains informations on fixes / waypoints. The structure of this file is as follows:
+This file contains information on fixes / waypoints. The structure of this file is as follows:
 
 | Column     |     Type     | Description                                                  |    Example    |
 | ---------- | :----------: | ------------------------------------------------------------ | :-----------: |
@@ -299,7 +299,7 @@ This dataset includes the following files:
 
 #### flights.csv
 
-This file contains informations on flights. The structure of this file is as follows:
+This file contains information on flights. The structure of this file is as follows:
 
 | Column            |      Type      | Description                                                  | Example |
 | ----------------- | :------------: | ------------------------------------------------------------ | :-----: |
@@ -317,7 +317,7 @@ This dataset includes the following files:
 
 #### firs.csv
 
-This file contains informations on flight information regions. The structure of this file is as follows:
+This file contains information on flight information regions. The structure of this file is as follows:
 
 | Column    |  Type  | Description                                     | Example  |
 | --------- | :----: | ----------------------------------------------- | :------: |
@@ -332,7 +332,7 @@ This dataset includes the following files:
 
 #### navaids.csv
 
-This file contains informations on navigational aids. The structure of this file is as follows:
+This file contains information on navigational aids. The structure of this file is as follows:
 
 | Column               |     Type      | Description                                                  |         Example          |
 | -------------------- | :-----------: | ------------------------------------------------------------ | :----------------------: |
