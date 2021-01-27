@@ -1,5 +1,10 @@
 # Changelog for version 2.x
 
+**Version 2.0.6**
+
+- Add 8146 Cessna aircraft.
+- Add 180 aircraft pictures.
+
 **Version 2.0.5**
 
 - Add 958 Cessna aircraft.
