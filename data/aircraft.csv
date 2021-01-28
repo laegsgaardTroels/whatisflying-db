@@ -65,6 +65,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4602e2,OH-BCK,Stinson,108-1,S108,108-863,L1P,,,,
 46b829,SX-NAI,ERCO,415-C Ercoupe,ERCO,1477,L1P,,,,
 484e80,PH-NCE,ERCO,415-CD Ercoupe,ERCO,4765,L1P,,,,
+49d048,OK-ALE,Aero Vodochody,Ae 270 Ibis,A270,0008,L1T,AOD,,,
 4a8c86,SE-CDF,Stinson,108-1,S108,108-1846,L1P,,,,
 a0d354,N152TP,Aermacchi,MB-326M,M326,481,L1J,,,2024-02-29,1967-01-01
 a0de79,N155TP,Aermacchi,MB-326M,M326,498,L1J,,,2021-10-31,1967-01-01
