@@ -1,5 +1,19 @@
 # Changelog for version 2.x
 
+**Version 2.0.7**
+
+- Add 22 ERCO aircraft.
+- Add 202 Eurofighter aircraft.
+- Add 1040 Hughes aircraft.
+- Add 1 Aero Vodochody aircraft.
+- Add 303 Jodel aircraft.
+- Add 102 aircraft pictures.
+- Add 2 Sikorsky aircraft types pictures.
+- Add 1 Aero Vodochody aircraft type picture.
+- Fix aircraft type A270 manufacturer name.
+- Fix aircraft type D11 name.
+- Fix aircraft type H269 manufacturer name.
+
 **Version 2.0.6**
 
 - Add 8146 Cessna aircraft.

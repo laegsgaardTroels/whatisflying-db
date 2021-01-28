@@ -26,7 +26,7 @@ A225,A25,Antonov,An-225 Mriya,L6J,H,,,,,,,,,,,,,,,,,,,,
 A23,,Aeroprakt,A-23 Dragon,L1P,L,,,,,,,,,,,,,,,,,,,,
 A25,,Aeroprakt,A-25 Breeze,A1P,L,,,,,,,,,,,,,,,,,,,,
 A27,,Aeroprakt,A-27,L1P,L,,,,,,,,,,,,,,,,,,,,
-A270,,Ibis Aerospace,Ae 270 Ibis,L1T,L,,,,,,,,,,,,,,,,,,,,
+A270,,Aero Vodochody,Ae 270 Ibis,L1T,L,,,,,,,,,,,,,,,,,,,,
 A29,,Avantage,A-29,L1P,L,10000,12000,,80,100,,,3.00,6.60,,10.10,,,,,,,800,,
 A3,,Douglas,A-3 Skywarrior,L2J,M,41000,,,520,530,,,6.95,23.27,75.40,22.10,,,,1825,,,37195,,
 A306,AB6,Airbus,A300-600,L2J,H,,,137,,,,,,,,,,,,,,,,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa172
@@ -303,7 +303,7 @@ CRJ9,CR9,Bombardier,CRJ-900,L2J,M,41000,,,447,470,2.70,2.70,7.50,36.20,71.10,24.
 CRJX,CRK,Bombardier,CRJ-1000,L2J,M,41000,,,447,470,2.70,2.70,7.50,39.10,74.40,26.20,,,11117,1622,36968,41050,40823,35153,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima673
 CRUZ,,Czech Sport Aircraft,SportCruiser,L1P,L,,,,,,,,,,,,,,,,,,,,
 CUB2,,Aces High,Cuby 2,L1P,L,,,,,86,,,1.77,5.56,15.00,10.21,,,,124,,,,,
-D11,,Jodel,D-11,L1P,L,,,,,,,,,,,,,,,,,,,,
+D11,,Jodel,D.11,L1P,L,,,,,,,,,,,,,,,,,,,,
 DC10,D10,McDonnell Douglas,DC-10,L3J,H,,,138,,,,,,,,,,,,,,,,,
 DC2,,Douglas,DC-2,L2P,M,22450,,,170,180,,,4.97,18.89,87.20,25.91,,,,870,,,,,
 DC3,D3F,Douglas,DC-3,L2P,M,23200,,77,180,200,,,5.16,19.70,91.70,29.00,,,3736,,,,,,
@@ -391,7 +391,7 @@ GL7T,,Bombardier,Global 7000,L2J,M,43000,51000,,487,507,,,8.20,33.88,116.50,31.7
 GLEX,CCX,Bombardier,Global Express,L2J,M,41000,51000,108,487,504,,,7.80,30.30,94.80,28.70,,,24333,6000,35652,45246,45132,26308,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima009
 GLF2,,Grumman,G-1159 Gulfstream II,L2J,M,,,125,,,,,,,,,,,,,,,,,
 H160,,Airbus Helicopters,H160,H2T,L,,20000,,138,170,4.91,3.54,,13.96,,,140.95,13.40,1440,475,,,6050,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar516
-H269,,Huges,269/TH-55 Osage,H1P,L,,,,,,,,,,,,,,,,,,,,
+H269,,Hughes,269/TH-55 Osage,H1P,L,,,,,,,,,,,,,,,,,,,,
 H46,,Boeing,CH-46 Sea Knight,H2T,M,,,,,,,,,,,,,,,,,,,,
 H47,,Boeing,CH-47 Chinook,H2T,M,,,,,,,,,,,,,,,,,,,,
 H500,,MD Helicopters,MD-500,H1T,L,,,,,,,,,,,,,,,,,,,,
