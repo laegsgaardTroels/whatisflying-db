@@ -1,5 +1,14 @@
 # Changelog for version 2.x
 
+**Version 2.0.8**
+
+- Add 307 Grumman American aircraft.
+- Add 18 Gulfstream American aircraft.
+- Add 58 Hawker Siddeley aircraft.
+- Add 251 MBB aircraft.
+- Add 1039 aircraft pictures.
+- Add aircraft type E530 picture.
+
 **Version 2.0.7**
 
 - Add 22 ERCO aircraft.
