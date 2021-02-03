@@ -1,0 +1,308 @@
+icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
+3851d5,F-BUOV,Grumman American,AA-5 Traveler,AA5,AA5-0410,L1P,,,,
+3851d7,F-BUOX,Grumman American,AA-1B Trainer,AA1,AA1B-0240,L1P,AA1,,,
+38528f,F-BUUP,Grumman American,AA-1B Trainer,AA1,AA1B-0333,L1P,AA1,,,
+385293,F-BUUT,Grumman American,AA-1B Trainer,AA1,AA1B-0332,L1P,AA1,,,
+38552d,F-BVJN,Grumman American,AA-1B Trainer,AA1,AA1B-0369,L1P,AA1,,,
+385532,F-BVJS,Grumman American,AA-5 Traveler,AA5,AA5-0551,L1P,,,,
+3856a8,F-BVVI,Grumman American,AA-5 Traveler,AA5,AA5-0686,L1P,,,,
+3856a9,F-BVVJ,Grumman American,AA-5B Tiger,AA5,AA5B-0008,L1P,,,,
+390133,F-GAJT,Grumman American,AA-1B Trainer,AA1,AA1B-0663,L1P,AA1,,,
+390134,F-GAJU,Grumman American,AA-1B Trainer,AA1,AA1B-0664,L1P,AA1,,,
+390273,F-GATT,Grumman American,AA-5B Tiger,AA5,AA5B-0651,L1P,,,,
+390274,F-GATU,Grumman American,AA-5A Cheetah,AA5,AA5A-0532,L1P,,,,
+390477,F-GBDX,Grumman American,AA-5B Tiger,AA5,AA5B-0936,L1P,,,,
+3905d0,F-GBOQ,Grumman American,AA-5B Tiger,AA5,AA5B-1083,L1P,,,,
+3914a2,F-GFFC,Grumman American,AA-5A Cheetah,AA5,AA5A-0573,L1P,,,,
+39204a,F-GICK,AGAC,AG-5B Tiger,AA5,10111,L1P,,,,
+392279,F-GITZ,AGAC,AG-5B Tiger,AA5,10140,L1P,,,,
+3928cd,F-GKGN,Grumman American,AA-5B Tiger,AA5,AA5B-0089,L1P,,,,
+392c81,F-GLEB,AGAC,AG-5B Tiger,AA5,10100,L1P,,,,
+3931e9,F-GMPJ,AGAC,AG-5B Tiger,AA5,10170,L1P,,,,
+39568d,F-GVUN,AGAC,AG-5B Tiger,AA5,10078,L1P,,,,
+3d0557,D-EAGT,AGAC,AG-5B Tiger,AA5,10131,L1P,,,,
+3d0564,D-EAHG,Grumman American,AA-5B Tiger,AA5,AA5B-0469,L1P,,,,
+3d062e,D-EAPA,Grumman American,AA-5 Traveler,AA5,AA5-0752,L1P,,,,
+3d06b2,D-EAUC,Grumman American,AA-5A Cheetah,AA5,AA5A-0349,L1P,,,,
+3d06fe,D-EAXA,Grumman American,AA-5 Traveler,AA5,AA5-0497,L1P,,,,
+3d06ff,D-EAXB,Grumman American,AA-5 Traveler,AA5,AA5-0518,L1P,,,,
+3d0701,D-EAXD,Grumman American,AA-5 Traveler,AA5,AA5-0545,L1P,,,,
+3d0702,D-EAXE,Grumman American,AA-5 Traveler,AA5,AA5-0553,L1P,,,,
+3d0705,D-EAXH,Grumman American,AA-1B Trainer,AA1,AA1B-0356,L1P,AA1,,,
+3d0763,D-EBAX,Grumman American,AA-5 Traveler,AA5,AA5-0751,L1P,,,,
+3d0780,D-EBCA,Grumman American,AA-5A Cheetah,AA5,AA5A-0733,L1P,,,,
+3d09b9,D-EBXX,Grumman American,AA-1B Trainer,AA1,AA1B-0334,L1P,AA1,,,
+3d0b02,D-ECKO,Grumman American,AA-5 Traveler,AA5,AA5-0667,L1P,,,,
+3d0b9f,D-ECQP,Grumman American,AA-5A Cheetah,AA5,AA5A-0187,L1P,,,,
+3d0dfe,D-EDNY,Grumman American,AA-5B Tiger,AA5,AA5B-1096,L1P,,,,
+3d0fee,D-EEHA,Grumman American,AA-5 Traveler,AA5,AA5-0031,L1P,,,,
+3d0fef,D-EEHB,Grumman American,AA-5 Traveler,AA5,AA5-0032,L1P,,,,
+3d0ff0,D-EEHC,Grumman American,AA-5 Traveler,AA5,AA5-0117,L1P,,,,
+3d0ff1,D-EEHD,Grumman American,AA-5 Traveler,AA5,AA5-0118,L1P,,,,
+3d0ff3,D-EEHF,Grumman American,AA-5 Traveler,AA5,AA5-0136,L1P,,,,
+3d0ffa,D-EEHM,Grumman American,AA-5 Traveler,AA5,AA5-0318,L1P,,,,
+3d0ffb,D-EEHN,Grumman American,AA-5 Traveler,AA5,AA5-0345,L1P,,,,
+3d1000,D-EEHS,Grumman American,AA-5 Traveler,AA5,AA5-0411,L1P,,,,
+3d1001,D-EEHT,Grumman American,AA-5 Traveler,AA5,AA5-0412,L1P,,,,
+3d1056,D-EELA,Grumman American,AA-5 Traveler,AA5,AA5-0724,L1P,,,,
+3d1062,D-EELM,Grumman American,AA-5B Tiger,AA5,AA5B-0151,L1P,,,,
+3d107a,D-EEMK,Grumman American,AA-5B Tiger,AA5,AA5B-1014,L1P,,,,
+3d1171,D-EEVX,AGAC,AG-5B Tiger,AA5,10144,L1P,,,,
+3d1218,D-EFCI,Grumman American,AA-5B Tiger,AA5,AA5B-1170,L1P,,,,
+3d1234,D-EFDK,Grumman American,AA-5 Traveler,AA5,AA5-0646,L1P,,,,
+3d12ba,D-EFIO,Grumman American,AA-5B Tiger,AA5,AA5B-0108,L1P,,,,
+3d13a7,D-EFRR,AGAC,AG-5B Tiger,AA5,10161,L1P,,,,
+3d14cf,D-EGDB,Grumman American,AA-5A Cheetah,AA5,AA5A-0551,L1P,,,,
+3d14d0,D-EGDC,Grumman American,AA-5B Tiger,AA5,AA5B-0728,L1P,,,,
+3d14d1,D-EGDD,Grumman American,AA-5B Tiger,AA5,AA5B-0827,L1P,,,,
+3d14d3,D-EGDF,Grumman American,AA-5B Tiger,AA5,AA5B-0776,L1P,,,,
+3d14d4,D-EGDG,Grumman American,AA-5A Cheetah,AA5,AA5A-0656,L1P,,,,
+3d14d5,D-EGDH,Grumman American,AA-5B Tiger,AA5,AA5B-0932,L1P,,,,
+3d14d9,D-EGDL,Grumman American,AA-5B Tiger,AA5,AA5B-0779,L1P,,,,
+3d14db,D-EGDN,Grumman American,AA-5B Tiger,AA5,AA5B-0750,L1P,,,,
+3d14df,D-EGDR,Grumman American,AA-5B Tiger,AA5,AA5B-1132,L1P,,,,
+3d15ff,D-EGOT,Grumman American,AA-5A Cheetah,AA5,AA5A-0032,L1P,,,,
+3d165b,D-EGSH,Grumman American,AA-5A Cheetah,AA5,AA5A-0563,L1P,,,,
+3d1679,D-EGTL,Grumman American,AA-5 Traveler,AA5,AA5-0602,L1P,,,,
+3d17c0,D-EHGA,Grumman American,AA-5B Tiger,AA5,AA5B-0009,L1P,,,,
+3d1b84,D-EIRC,AGAC,AG-5B Tiger,AA5,10006,L1P,,,,
+3d1e05,D-EJPT,Grumman American,AA-5B Tiger,AA5,AA5B-0416,L1P,,,,
+3d1eba,D-EJWS,Grumman American,AA-5 Traveler,AA5,AA5-0355,L1P,,,,
+3d1f25,D-EKAV,Grumman American,AA-1A Trainer,AA1,AA1A-0448,L1P,AA1,,,
+3d21bf,D-ELAL,AGAC,AG-5B Tiger,AA5,10143,L1P,,,,
+3d22f3,D-ELMH,Grumman American,AA-5B Tiger,AA5,AA5B-0107,L1P,,,,
+3d26e2,D-EMZA,Grumman American,AA-1A Trainer,AA1,AA1A-0353,L1P,AA1,,,
+3d2789,D-ENFL,Grumman American,AA-5B Tiger,AA5,AA5B-0310,L1P,,,,
+3d28f8,D-ENTO,AGAC,AG-5B Tiger,AA5,10166,L1P,,,,
+3d29ab,D-EOAL,Grumman American,AA-5 Traveler,AA5,AA5-0420,L1P,,,,
+3d29e8,D-EOCU,Grumman American,AA-5 Traveler,AA5,AA5-0018,L1P,,,,
+3d31f3,D-ERDZ,AGAC,AG-5B Tiger,AA5,10159,L1P,,,,
+3d3250,D-ERHO,Grumman American,AA-5 Traveler,AA5,AA5-0507,L1P,,,,
+3d32fe,D-EROG,AGAC,AG-5B Tiger,AA5,10115,L1P,,,,
+3d347f,D-ESDB,AGAC,AG-5B Tiger,AA5,10147,L1P,,,,
+3d3781,D-ETGR,Grumman American,AA-5B Tiger,AA5,AA5B-0971,L1P,,,,
+3d37aa,D-ETIG,AGAC,AG-5B Tiger,AA5,10139,L1P,,,,
+3d4382,D-EXUW,Grumman American,AA-5B Tiger,AA5,AA5B-1135,L1P,,,,
+4005cb,G-BAOU,Grumman American,AA-5 Traveller,AA5,AA5-0298,L1P,,1997-06-06,,1973-01-01
+400a98,G-GAJB,Grumman American,AA-5B Tiger,AA5,AA5B-1179,L1P,,2015-08-26,,1979-01-01
+400a9c,G-BTII,Grumman American,AA-5B Tiger,AA5,AA5B-1256,L1P,,2017-07-26,,1979-01-01
+400c07,G-MPFC,Grumman American,AA-5B Tiger,AA5,AA5B-0845,L1P,,2013-09-24,,1978-01-01
+400c33,G-BHLX,Grumman American,AA-5B Tiger,AA5,AA5B-0573,L1P,,2000-06-28,,1977-01-01
+40116e,G-PORK,Grumman American,AA-5B Tiger,AA5,AA5B-0625,L1P,,2010-08-03,,1977-01-01
+401173,G-PAWS,Grumman American,AA-5A Cheetah,AA5,AA5A-0806,L1P,,2016-01-11,,1979-01-01
+40117f,G-BFXW,Grumman American,AA-5B Tiger,AA5,AA5B-0940,L1P,,2017-05-03,,1978-01-01
+401203,G-BGVY,Grumman American,AA-5B Tiger,AA5,AA5B-1080,L1P,,1995-03-06,,1979-01-01
+401207,G-BDFY,Grumman American,AA-5 Traveller,AA5,AA5-0806,L1P,,2002-11-01,,1975-01-01
+40121d,G-NODE,Grumman American,AA-5B Tiger,AA5,AA5B-1182,L1P,,2011-09-02,,1979-01-01
+4018af,G-AYHA,Grumman American,AA-1 Yankee Clipper,AA1,AA1-0396,L1P,AA1,2017-04-06,,1970-01-01
+4018ca,G-AYLP,Grumman American,AA-1 Yankee Clipper,AA1,AA1-0445,L1P,AA1,2003-04-14,,1970-01-01
+401957,G-AZKS,Grumman American,AA-1 Yankee Clipper,AA1,AA1-0334,L1P,AA1,2011-04-15,,1970-01-01
+401964,G-AZMJ,Grumman American,AA-5 Traveller,AA5,AA5-0019,L1P,,2005-10-03,,1972-01-01
+401997,G-AZVG,Grumman American,AA-5 Traveller,AA5,AA5-0075,L1P,,2015-03-10,,1972-01-01
+4019d0,G-BAFA,Grumman American,AA-5 Traveller,AA5,AA5-0201,L1P,,1984-12-05,,1972-01-01
+4019f8,G-BAJN,Grumman American,AA-5 Traveller,AA5,AA5-0259,L1P,,2017-02-03,,1972-01-01
+4019f9,G-BAJO,Grumman American,AA-5 Traveller,AA5,AA5-0260,L1P,,2005-08-18,,1972-01-01
+401a33,G-BASH,Grumman American,AA-5 Traveller,AA5,AA5-0319,L1P,,2017-02-20,,1973-01-01
+401a89,G-BAVR,Grumman American,AA-5 Traveller,AA5,AA5-0348,L1P,,2014-07-08,,1973-01-01
+401aa0,G-BBBI,Grumman American,AA-5 Traveller,AA5,AA5-0392,L1P,,2016-07-14,,1973-01-01
+401aad,G-BBCZ,Grumman American,AA-5 Traveller,AA5,AA5-0382,L1P,,2016-09-22,,1973-01-01
+401aae,G-NONI,Grumman American,AA-5 Traveller,AA5,AA5-0383,L1P,,2017-01-14,,1973-01-01
+401ab4,G-BBDL,Grumman American,AA-5 Traveller,AA5,AA5-0406,L1P,,2014-07-08,,1973-01-01
+401ab5,G-BBDM,Grumman American,AA-5 Traveller,AA5,AA5-0407,L1P,,2009-07-24,,1973-01-01
+401ae8,G-BBLS,Grumman American,AA-5 Traveller,AA5,AA5-0440,L1P,,2004-11-09,,1973-01-01
+401b10,G-BBRZ,Grumman American,AA-5 Traveller,AA5,AA5-0471,L1P,,2007-01-19,,1973-01-01
+401b11,G-BBSA,Grumman American,AA-5 Traveller,AA5,AA5-0472,L1P,,1994-04-25,,1974-01-01
+401b1c,G-TALJ,Grumman American,AA-5 Traveller,AA5,AA5-0479,L1P,,2016-08-12,,1973-01-01
+401b1d,G-OTLC,Grumman American,AA-5 Traveller,AA5,AA5-0480,L1P,,2014-01-23,,1973-01-01
+401b43,G-BCCK,Grumman American,AA-5 Traveller,AA5,AA5-0547,L1P,,1985-11-28,,1974-01-01
+401b4e,G-BCEE,Grumman American,AA-5 Traveller,AA5,AA5-0571,L1P,,2006-10-20,,1974-01-01
+401b4f,G-BCEF,Grumman American,AA-5 Traveler,AA5,AA5-0572,L1P,,,,
+401b51,G-BCEP,Grumman American,AA-5 Traveller,AA5,AA5-0576,L1P,,2013-09-16,,1974-01-01
+401b6f,G-BCIJ,Grumman American,AA-5 Traveller,AA5,AA5-0603,L1P,,2017-05-20,,1974-01-01
+401b7b,G-BCLI,Grumman American,AA-5 Traveller,AA5,AA5-0643,L1P,,2015-11-16,,1974-01-01
+401b95,G-BCPN,Grumman American,AA-5 Traveller,AA5,AA5-0665,L1P,,2007-06-08,,1974-01-01
+401b9c,G-BCRR,Grumman American,AA-5B Tiger,AA5,AA5B-0006,L1P,,2009-12-17,,1974-01-01
+401bfb,G-BDLO,Grumman American,AA-5A Cheetah,AA5,AA5A-0026,L1P,,2015-11-04,,1975-01-01
+401c06,G-BDNW,Grumman American,AA-1B Trainer,AA1,AA1B-0588,L1P,AA1,2009-07-20,,1976-01-01
+401c07,G-BDNX,Grumman American,AA-1B Trainer,AA1,AA1B-0590,L1P,AA1,2015-01-12,,1975-01-01
+401c8c,G-BERY,Grumman American,AA-1B Trainer,AA1,AA1B-0193,L1P,AA1,2013-05-17,,1973-01-01
+401ca8,G-BEXN,Grumman American,AA-1C Lynx,AA1,AA1C-0045,L1P,AA1,2014-06-17,,1977-01-01
+401cb5,G-BEZC,Grumman American,AA-5 Traveller,AA5,AA5-0493,L1P,,2017-07-10,,1974-01-01
+401cb7,G-BEZF,Grumman American,AA-5 Traveller,AA5,AA5-0538,L1P,,2013-10-18,,1974-01-01
+401cb8,G-BEZG,Grumman American,AA-5 Traveller,AA5,AA5-0561,L1P,,2001-05-29,,1974-01-01
+401cb9,G-BEZH,Grumman American,AA-5 Traveller,AA5,AA5-0566,L1P,,2016-12-13,,1974-01-01
+401cba,G-BEZI,Grumman American,AA-5 Traveller,AA5,AA5-0567,L1P,,2009-03-16,,1974-01-01
+401cfe,G-BFIN,Grumman American,AA-5A Cheetah,AA5,AA5A-0520,L1P,,2005-10-19,,1978-01-01
+401d12,G-BFLX,Grumman American,AA-5A Cheetah,AA5,AA5A-0524,L1P,,2005-08-19,,1978-01-01
+401d19,G-MOGI,Grumman American,AA-5A Cheetah,AA5,AA5A-0630,L1P,,,,
+401d24,G-BFOJ,Grumman American,AA-1 Yankee Clipper,AA1,AA1-0395,L1P,AA1,2016-04-04,,1970-01-01
+401d31,G-CHTA,Grumman American,AA-5A Cheetah,AA5,AA5A-0631,L1P,,2014-01-20,,1978-01-01
+401d3f,G-BFTF,Grumman American,AA-5B Tiger,AA5,AA5B-0879,L1P,,2014-07-21,,1978-01-01
+401d40,G-BFTG,Grumman American,AA-5B Tiger,AA5,AA5B-0777,L1P,,1991-10-09,,1978-01-01
+401d47,G-BFVS,Grumman American,AA-5B Tiger,AA5,AA5B-0784,L1P,,2008-12-19,,1978-01-01
+401d52,G-BFXX,Grumman American,AA-5B Tiger,AA5,AA5B-0917,L1P,,1999-05-07,,1978-01-01
+401d5c,G-BFZO,Grumman American,AA-5A Cheetah,AA5,AA5A-0697,L1P,,2014-10-24,,1978-01-01
+401d5d,G-TGER,Grumman American,AA-5B Tiger,AA5,AA5B-0952,L1P,,2009-12-04,,1978-01-01
+401d77,G-BGCM,Grumman American,AA-5A Cheetah,AA5,AA5A-0835,L1P,,2016-03-08,,1979-01-01
+401d81,G-BGFG,Grumman American,AA-5A Cheetah,AA5,AA5A-0687,L1P,,2014-03-06,,1978-01-01
+401dce,G-BGPH,Grumman American,AA-5B Tiger,AA5,AA5B-1248,L1P,,1997-03-18,,1979-01-01
+401eb5,G-BHZK,Grumman American,AA-5B Tiger,AA5,AA5B-0743,L1P,,2015-01-13,,1978-01-01
+401eb6,G-BHZO,Grumman American,AA-5A Cheetah,AA5,AA5A-0692,L1P,,2014-03-20,,1978-01-01
+401ec0,G-BIAY,Grumman American,AA-5 Traveller,AA5,AA5-0423,L1P,,2013-08-21,,1973-01-01
+401ec8,G-BIBT,Grumman American,AA-5B Tiger,AA5,AA5B-1047,L1P,,2013-10-07,,1978-01-01
+401f29,G-BIPA,Grumman American,AA-5B Tiger,AA5,AA5B-0200,L1P,,2006-06-23,,1975-01-01
+401f2f,G-BIPV,Grumman American,AA-5B Tiger,AA5,AA5B-0981,L1P,,2007-08-07,,1979-01-01
+401f68,G-IRIS,Grumman American,AA-5B Tiger,AA5,AA5B-1184,L1P,,2014-07-22,,1979-01-01
+401f84,G-BJAJ,Grumman American,AA-5B Tiger,AA5,AA5B-1177,L1P,,2007-09-06,,1979-01-01
+402069,G-BKPS,Grumman American,AA-5B Tiger,AA5,AA5B-0007,L1P,,1999-04-26,,1975-01-01
+4020cd,G-OCAM,Grumman American,AA-5A Cheetah,AA5,AA5A-0741,L1P,,2014-01-06,,1979-01-01
+402198,G-DINA,Grumman American,AA-5B Tiger,AA5,AA5B-1218,L1P,,2002-07-04,,1979-01-01
+4021ba,G-ERRY,Grumman American,AA-5B Tiger,AA5,AA5B-0725,L1P,,2016-02-18,,1978-01-01
+4021fa,G-IFLI,Grumman American,AA-5A Cheetah,AA5,AA5A-0831,L1P,,2016-02-26,,1979-01-01
+402215,G-JUDY,Grumman American,AA-5A Cheetah,AA5,AA5A-0620,L1P,,2016-12-16,,1978-01-01
+402223,G-CCAT,Grumman American,AA-5A Cheetah,AA5,AA5A-0893,L1P,,2017-02-22,,1979-01-01
+40224e,G-MALC,Grumman American,AA-5 Traveller,AA5,AA5-0664,L1P,,2015-03-03,,1974-01-01
+402253,G-OSSF,Grumman American,AA-5A Cheetah,AA5,AA5A-0863,L1P,,,,
+40229e,G-OTIG,Grumman American,AA-5B Tiger,AA5,AA5B-0996,L1P,,2009-03-06,,1978-01-01
+4022bd,G-PURR,Grumman American,AA-5A Cheetah,AA5,AA5A-0794,L1P,,2017-06-16,,1978-01-01
+4022c7,G-RATE,Grumman American,AA-5A Cheetah,AA5,AA5A-0781,L1P,,2008-04-24,,1978-01-01
+4022d3,G-DOEA,Grumman American,AA-5A Cheetah,AA5,AA5A-0895,L1P,,2014-07-24,,1979-01-01
+4022df,G-ROWL,Grumman American,AA-5B Tiger,AA5,AA5B-0595,L1P,,2014-11-17,,1977-01-01
+4022e3,G-RUBB,Grumman American,AA-5B Tiger,AA5,AA5B-0928,L1P,,1997-09-15,,1978-01-01
+4022e6,G-RUMN,Grumman American,AA-1A Trainer,AA1,AA1A-0086,L1P,AA1,2016-11-15,,1971-01-01
+402330,G-TYGA,Grumman American,AA-5B Tiger,AA5,AA5B-1161,L1P,,2014-05-30,,1979-01-01
+40234e,G-PING,Grumman American,AA-5A Cheetah,AA5,AA5A-0878,L1P,,2015-03-11,,1979-01-01
+402357,G-ZERO,Grumman American,AA-5B Tiger,AA5,AA5B-0051,L1P,,2016-08-22,,1975-01-01
+402524,G-DONI,Grumman American,AA-5B Tiger,AA5,AA5B-1029,L1P,,2016-10-28,,1979-01-01
+402780,G-BMYI,Grumman American,AA-5 Traveller,AA5,AA5-0568,L1P,,1988-09-16,,1974-01-01
+402995,G-BNVB,Grumman American,AA-5A Cheetah,AA5,AA5A-0758,L1P,,2017-01-26,,1978-01-01
+402c42,G-BOZO,Grumman American,AA-5B Tiger,AA5,AA5B-1282,L1P,,2016-12-07,,1979-01-01
+402dba,G-BPIZ,Grumman American,AA-5B Tiger,AA5,AA5B-1154,L1P,,1997-02-25,,1979-01-01
+40329f,G-BSTR,Grumman American,AA-5 Traveller,AA5,AA5-0688,L1P,,2017-09-29,,1974-01-01
+40336e,G-WMTM,Grumman American,AA-5B Tiger,AA5,AA5B-1035,L1P,,2013-08-21,,1979-01-01
+403415,G-OSTC,Grumman American,AA-5A Cheetah,AA5,AA5A-0848,L1P,,1998-06-12,,1979-01-01
+403441,G-BTLP,Grumman American,AA-1C Lynx,AA1,AA1C-0109,L1P,AA1,1991-05-13,,1977-01-01
+4034f2,G-BTUZ,AGAC,AG-5B Tiger,AA5,10075,L1P,,2007-02-19,,1991-01-01
+403de1,G-BXHH,Grumman American,AA-5A Cheetah,AA5,AA5A-0105,L1P,,2015-07-14,,1976-01-01
+403f45,G-BXOX,Grumman American,AA-5A Cheetah,AA5,AA5A-0694,L1P,,2002-07-18,,1978-01-01
+403f46,G-BXTT,Grumman American,AA-5B Tiger,AA5,AA5B-0749,L1P,,2012-06-26,,1978-01-01
+403f96,G-OABR,AGAC,AG-5B Tiger,AA5,10124,L1P,,2010-05-21,,1992-01-01
+4040f5,G-GIRY,AGAC,AG-5B Tiger,AA5,10146,L1P,,2013-10-22,,1992-01-01
+40415f,G-RICO,AGAC,AG-5B Tiger,AA5,10162,L1P,,2012-12-06,,1993-01-01
+404467,G-JNAS,Grumman American,AA-5A Cheetah,AA5,AA5A-0604,L1P,,2006-08-29,,1978-01-01
+4046e4,G-JAJB,Grumman American,AA-5A Cheetah,AA5,AA5A-0590,L1P,,2016-12-05,,1978-01-01
+404b4c,G-CCXX,AGAC,AG-5B Tiger,AA5,10160,L1P,,2010-07-30,,1993-01-01
+404d4a,G-CDGS,AGAC,AG-5B Tiger,AA5,10097,L1P,,2011-04-06,,1991-01-01
+406ee5,G-GDAC,Grumman American,AA-5A Cheetah,AA5,AA5A-0347,L1P,,2017-06-30,,1976-01-01
+406f03,G-CITP,Grumman American,AA-1B Trainer,AA1,AA1B-0466,L1P,AA1,2016-02-08,,1974-01-01
+43e774,M-PHML,AGAC,AG-5B Tiger,AA5,10141,L1P,,,,
+4484b4,OO-AET,Grumman American,AA-5 Traveler,AA5,AA5-0083,L1P,,,,
+448641,OO-ARA,Grumman American,AA-5B Tiger,AA5,AA5B-1203,L1P,,,,
+448d21,OO-CIA,Grumman American,AA-5 Traveler,AA5,AA5-0705,L1P,,,,
+449052,OO-DBR,Grumman American,AA-5A Cheetah,AA5,AA5A-0634,L1P,,,,
+449207,OO-DPG,Grumman American,AA-5 Traveler,AA5,AA5-0647,L1P,,,,
+449c2d,OO-GAM,Grumman American,AA-5A Cheetah,AA5,AA5A-0011,L1P,,,,
+449c6f,OO-GCO,Grumman American,AA-5A Cheetah,AA5,AA5A-0526,L1P,,,,
+44ad24,OO-KID,Grumman American,AA-5A Cheetah,AA5,AA5A-0661,L1P,,,,
+44b1ec,OO-LOL,Grumman American,AA-5B Tiger,AA5,AA5B-0197,L1P,,,,
+44b205,OO-LPE,Grumman American,AA-5B Tiger,AA5,AA5B-0468,L1P,,,,
+44b432,OO-MAR,Grumman American,AA-5 Traveler,AA5,AA5-0424,L1P,,,,
+44b4a7,OO-MEG,AGAC,AG-5B Tiger,AA5,10171,L1P,,,,
+44bd89,OO-OLI,Grumman American,AA-5A Cheetah,AA5,AA5A-0010,L1P,,,,
+44c0a6,OO-PEF,Grumman American,AA-5B Tiger,AA5,AA5B-1128,L1P,,,,
+44c1b3,OO-PMS,Grumman American,AA-1B Trainer,AA1,AA1B-0354,L1P,AA1,,,
+44ca81,OO-RTA,Grumman American,AA-5B Tiger,AA5,AA5B-1092,L1P,,,,
+44ca84,OO-RTD,Grumman American,AA-5A Cheetah,AA5,AA5A-0826,L1P,,,,
+44ca8b,OO-RTK,Grumman American,AA-5A Cheetah,AA5,AA5A-0766,L1P,,,,
+44ca8f,OO-RTO,Grumman American,AA-5A Cheetah,AA5,AA5A-0726,L1P,,,,
+44dc2e,OO-WAN,Grumman American,AA-5 Traveler,AA5,AA5-0517,L1P,,,,
+44dd26,OO-WIF,Grumman American,AA-1B Trainer,AA1,AA1B-0264,L1P,AA1,,,
+45850e,OY-AHN,Grumman American,AA-5 Traveler,AA5,AA5-0477,L1P,,,,
+458659,OY-ARY,Grumman American,AA-1A Trainer,AA1,AA1A-0420,L1P,AA1,,,
+458721,OY-AYA,Grumman American,AA-1 Yankee Clipper,AA1,AA1-0411,L1P,AA1,,,
+458723,OY-AYC,Grumman American,AA-1 Yankee Clipper,AA1,AA1-0413,L1P,AA1,,,
+458724,OY-AYD,Grumman American,AA-1 Yankee Clipper,AA1,AA1-0415,L1P,AA1,,,
+458729,OY-AYI,Grumman American,AA-1 Yankee Clipper,AA1,AA1-0449,L1P,AA1,,,
+45872b,OY-AYK,Grumman American,AA-1A Trainer,AA1,AA1A-0197,L1P,AA1,,,
+45872e,OY-AYN,Grumman American,AA-1B Trainer,AA1,AA1B-0311,L1P,AA1,,,
+458730,OY-AYP,Grumman American,AA-5 Traveler,AA5,AA5-0359,L1P,,,,
+458732,OY-AYR,Grumman American,AA-5 Traveler,AA5,AA5-0360,L1P,,,,
+458739,OY-AYY,Grumman American,AA-5 Traveler,AA5,AA5-0265,L1P,,,,
+45873a,OY-AYZ,Grumman American,AA-5 Traveler,AA5,AA5-0361,L1P,,,,
+458a14,OY-BPT,Grumman American,AA-5B Tiger,AA5,AA5B-1165,L1P,,,,
+458ccc,OY-CFL,Grumman American,AA-5B Tiger,AA5,AA5B-0565,L1P,,,,
+458d88,OY-CLH,Grumman American,AA-1B Trainer,AA1,AA1B-0184,L1P,AA1,,,
+458d8a,OY-CLJ,Grumman American,AA-1B Trainer,AA1,AA1B-0106,L1P,AA1,,,
+459a44,OY-FRD,Grumman American,AA-1C Lynx,AA1,AA1C-0133,L1P,AA1,,,
+459c21,OY-GAA,Grumman American,AA-5 Traveler,AA5,AA5-0475,L1P,,,,
+459c22,OY-GAB,Grumman American,AA-5 Traveler,AA5,AA5-0421,L1P,,,,
+459c23,OY-GAC,Grumman American,AA-1 Yankee Clipper,AA1,AA1-0405,L1P,AA1,,,
+459c2e,OY-GAN,Grumman American,AA-5 Traveler,AA5,AA5-0199,L1P,,,,
+459e85,OY-GTE,Grumman American,AA-5 Traveler,AA5,AA5-0299,L1P,,,,
+45aa61,OY-JSA,AGAC,AG-5B Tiger,AA5,10153,L1P,,,,
+45bf5a,OY-OZZ,Grumman American,AA-5A Cheetah,AA5,AA5A-0819,L1P,,,,
+460270,OH-AYA,Grumman American,AA-1 Yankee Clipper,AA1,AA1-0402,L1P,AA1,,,
+460272,OH-AYC,Grumman American,AA-1A Trainer,AA1,AA1A-0088,L1P,AA1,,,
+460274,OH-AYE,Grumman American,AA-1A Trainer,AA1,AA1A-0301,L1P,AA1,,,
+460275,OH-AYF,Grumman American,AA-1 Yankee Clipper,AA1,AA1-0404,L1P,AA1,,,
+460276,OH-AYG,Grumman American,AA-1B Trainer,AA1,AA1B-0039,L1P,AA1,,,
+460277,OH-AYH,Grumman American,AA-5 Traveler,AA5,AA5-0196,L1P,,,,
+460278,OH-AYI,Grumman American,AA-1B Trainer,AA1,AA1B-0099,L1P,AA1,,,
+46027a,OH-AYK,Grumman American,AA-5 Traveler,AA5,AA5-0334,L1P,,,,
+46027c,OH-AYM,Grumman American,AA-5 Traveler,AA5,AA5-0431,L1P,,,,
+46027e,OH-AYO,Grumman American,AA-5 Traveler,AA5,AA5-0478,L1P,,,,
+46027f,OH-AYP,Grumman American,AA-5 Traveler,AA5,AA5-0765,L1P,,,,
+460281,OH-AYR,Grumman American,AA-5 Traveler,AA5,AA5-0762,L1P,,,,
+460283,OH-AYT,Grumman American,AA-5B Tiger,AA5,AA5B-0219,L1P,,,,
+460288,OH-AYY,Grumman American,AA-5B Tiger,AA5,AA5B-1042,L1P,,,,
+46844e,SX-ABN,Grumman American,AA-5A Cheetah,AA5,AA5A-0142,L1P,,,,
+46851a,SX-AHZ,Grumman American,AA-5A Cheetah,AA5,AA5A-0481,L1P,,,,
+4784b9,LN-TWS,AGAC,AG-5B Tiger,AA5,10096,L1P,,,,
+4785fe,LN-LMO,Grumman American,AA-5 Traveler,AA5,AA5-0262,L1P,,,,
+478634,LN-HPC,Grumman American,AA-5A Cheetah,AA5,AA5A-0841,L1P,,,,
+47863d,LN-KLC,Grumman American,AA-5A Cheetah,AA5,AA5A-0549,L1P,,,,
+47863e,LN-KLH,Grumman American,AA-5A Cheetah,AA5,AA5A-0844,L1P,,,,
+47863f,LN-KLI,Grumman American,AA-5B Tiger,AA5,AA5B-1131,L1P,,1979-01-01,,1979-01-01
+47864b,LN-NFS,Grumman American,AA-5B Tiger,AA5,AA5B-1208,L1P,,,,
+4786b0,LN-KLF,Grumman American,AA-5A Cheetah,AA5,AA5A-0610,L1P,,,,
+47a758,LN-FIJ,Grumman American,AA-5A Cheetah,AA5,AA5A-0486,L1P,,,,
+48454d,PH-GRG,AGAC,AG-5B Tiger,AA5,10174,L1P,,,,
+49d040,OK-AIJ,AGAC,AG-5B Tiger,AA5,10133,L1P,,,,
+4aa4a5,SE-IEE,Grumman American,AA-5B Tiger,AA5,AA5B-1140,L1P,,,,
+4ab0ef,SE-LGO,Grumman American,AA-5A Cheetah,AA5,AA5A-0462,L1P,,,,
+4b3500,HB-UBW,Grumman American,AA-5 Traveler,AA5,AA5-0035,L1P,,1972-05-12,,1972-01-01
+4b3504,HB-UCA,Grumman American,AA-5 Traveler,AA5,AA5-0581,L1P,,,,
+4b3507,HB-UCD,Grumman American,AA-5 Traveler,AA5,AA5-0541,L1P,,1974-07-08,,1974-01-01
+4b3509,HB-UCF,Grumman American,AA-5B Tiger,AA5,AA5B-0170,L1P,,1976-02-10,,1975-01-01
+4b350b,HB-UCH,Grumman American,AA-5B Tiger,AA5,AA5B-0465,L1P,,1977-04-12,,1977-01-01
+4b350f,HB-UCL,Grumman American,AA-5B Tiger,AA5,AA5B-0904,L1P,,1978-10-09,,1978-01-01
+4b3520,HB-UDC,AGAC,AG-5B Tiger,AA5,10158,L1P,,2010-10-07,,1993-01-01
+4b86ad,TC-AUM,AGAC,AG-5B Tiger,AA5,10098,L1P,,,,
+4b86ae,TC-AUN,AGAC,AG-5B Tiger,AA5,10129,L1P,,,,
+4b86af,TC-AUO,AGAC,AG-5B Tiger,AA5,10130,L1P,,,,
+4be442,TC-YBB,Grumman American,AA-5B Tiger,AA5,AA5B-0654,L1P,,,,
+4c0da9,YU-DNJ,Grumman American,AA-5 Traveler,AA5,AA5-0540,L1P,,,,
+4c0db3,YU-DNT,Grumman American,AA-5 Traveler,AA5,AA5-0372,L1P,,,,
+4ca1d6,EI-FFV,Grumman American,AA-5 Traveler,AA5,AA5-0645,L1P,,2014-11-13,,1974-01-01
+a05f4c,N123ES,Grumman American,AA-5B Tiger,AA5,AA5B-1021,L1P,,,2023-06-30,1979-01-01
+a0930c,N136SA,AGAC,AG-5B Tiger,AA5,10164,L1P,,,2023-03-31,1993-01-01
+a0a290,N14YU,AGAC,AG-5B Tiger,AA5,10135,L1P,,,2022-03-31,1992-01-01
+a1c37d,N2121T,Grumman American,AA-5B Tiger,AA5,AA5B-1031,L1P,,,2023-07-31,
+a28a19,N26292,Grumman American,AA-5A Cheetah,AA5,AA5A-0508,L1P,,,2022-11-30,1977-01-01
+a29a23,N267MT,Grumman American,AA-5B Tiger,AA5,AA5B-0005,L1P,,,2022-09-30,1974-01-01
+a2c1a5,N277MW,Grumman American,AA-5 Traveler,AA5,AA5-0544,L1P,,,2024-02-29,1974-01-01
+a2d849,N28236,Grumman American,AA-5B Tiger,AA5,AA5B-0956,L1P,,,2022-07-31,1978-01-01
+a345f1,N31RB,Grumman American,AA-5B Tiger,AA5,AA5B-0156,L1P,,,2022-08-31,1975-01-01
+a57c7c,N4524P,Grumman American,AA-5B Tiger,AA5,AA5B-1105,L1P,,,2023-02-28,1979-01-01
+a59974,N46YM,AGAC,AG-5B Tiger,AA5,10026,L1P,,,2021-10-31,1992-01-01
+a6f4b9,N5473L,Grumman American,AA-5 Traveler,AA5,AA5-0373,L1P,,,2023-11-30,1973-01-01
+a6fe7a,N55QK,Grumman American,AA-5 Traveler,AA5,AA5-0591,L1P,,,2023-09-30,
+a8a233,N6554B,AGAC,AG-5B Tiger,AA5,10251,L1P,,,2022-03-31,2006-01-01
+a8cb1a,N666GA,Grumman American,AA-5B Tiger,AA5,AA5B-1136,L1P,,,2022-12-31,1979-01-01
+aa6996,N770FT,Grumman American,AA-5A Cheetah,AA5,AA5A-0772,L1P,,,2022-05-31,1978-01-01
+aba72a,N85YE,AGAC,AG-5B Tiger,AA5,10145,L1P,,,2022-08-31,
+ac8ba2,N90704,Grumman American,AA-5A Cheetah,AA5,AA5A-0301,L1P,,,2023-06-30,1977-01-01
+acec4f,N9314L,Grumman American,AA-1A Trainer,AA1,AA1A-0014,L1P,,,2021-08-31,1971-01-01
+ada14c,N9779U,Grumman American,AA-5A Cheetah,AA5,AA5A-0179,L1P,,,2024-02-29,1976-01-01
+addc7c,N9920U,Grumman American,AA-5A Cheetah,AA5,AA5A-0320,L1P,,,2023-10-31,1977-01-01
+adef78,N9973U,Grumman American,AA-5A Cheetah,AA5,AA5A-0373,L1P,,,,
