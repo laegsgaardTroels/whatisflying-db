@@ -265,7 +265,7 @@ This file contains information on airport runways. The structure of this file is
 | lighted                |    boolean    | Whether the runway is lighted.                               |    1    |
 | active                 |    boolean    | Whether the runway is active.                                |    1    |
 
-¹ Can take one of the following values: *ASP* (Asphalt), *BIT* (Bituminous asphalt), *BRI* (Bricks), *CLA* (Clay), *COM* (Composite), *CON* (Concrete), *COP* (Composite), *COR* (Coral), *GRE* (Grass or earth, graded/rolled), *GRS* (Grass or earth, non graded/rolled), *GVL* (Gravel), *ICE* (Ice), *LAT* (Laterite), *MAC* (Macadam), *PEM* (Partially asphalt, bituminous asphalt or concrete), *PER* (Permanent surface, details unknown), *PSP* (Pierced-steel planking), *SAN* (Sand), *SMT* (Sommerfeld tracking), *SNO* (Snow) or *UNK* (Unknown).
+¹ Can take one of the following values: *ASP* (Asphalt), *BIT* (Bituminous asphalt), *BRI* (Bricks), *CLA* (Clay), *COM* (Composite), *CON* (Concrete), *COP* (Composite), *COR* (Coral), *GRE* (Grass or earth, graded/rolled), *GRS* (Grass or earth, non graded/rolled), *GVL* (Gravel), *ICE* (Ice), *LAT* (Laterite), *MAC* (Macadam), *PEM* (Partially asphalt, bituminous asphalt or concrete), *PER* (Permanent surface, details unknown), *PSP* (Pierced-steel planking), *SAN* (Sand), *SMT* (Sommerfeld tracking), *SNO* (Snow) or *WAT* (Water).
 
 ------
 
