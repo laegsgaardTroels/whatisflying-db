@@ -1,5 +1,14 @@
 # Changelog for version 2.x
 
+**Version 2.0.9**
+
+- Add 3 Airbus aircraft.
+- Add 1 Boeing aircraft.
+- Add 1201 MD Helicopters aircraft.
+- Add 1118 Morane Saulnier aircraft.
+- Add 155 Northrop aircraft.
+- Add the surface type of 8515 airport runways.
+
 **Version 2.0.8**
 
 - Add 307 Grumman American aircraft.
